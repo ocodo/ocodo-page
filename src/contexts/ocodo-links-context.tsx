@@ -78,7 +78,6 @@ export const OcodoLinksProvider: React.FC<{ children: React.ReactNode }> = ({ ch
   }, []);
 
   const getBookmarksByFolderName = useCallback((subFolderName: string): Bookmark[] => {
-    console.log(ocodoLinksRootFolder)
     if (!ocodoLinksRootFolder || !ocodoLinksRootFolder.folder) {
       return [];
     }
