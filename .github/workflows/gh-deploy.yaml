@@ -26,7 +26,6 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-      base_path: ${{ steps.pages.outputs.base_path }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -42,6 +41,8 @@ jobs:
 
       # See: https://vite.dev/guide/build.html#public-base-path thanks to @forresthopkinsa
       - name: Build with Vite
+        env:
+          base_path: ${{ steps.pages.outputs.base_path }}
         run: npm run build -- --base "${base_path}"
 
       - name: Correct asset paths
