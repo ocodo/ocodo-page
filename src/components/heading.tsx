@@ -30,7 +30,7 @@ function Heading(props: HeadingProps) {
     {
       title
       ? (<div className="font-black tracking-tighter text-2xl">{title}</div>)
-      : (<OcodoLogo />)
+      : (<OcodoLogo width={180} height={64}/>)
     }
     <div
       className="p-2 hover:bg-accent cursor-pointer rounded-lg"
