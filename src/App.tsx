@@ -14,7 +14,7 @@ function App() {
           <Card>
             <CardHeader>Quick Access</CardHeader>
             <CardContent>
-              <OcodoLinks folder="quick_access"/>
+              <OcodoLinks folder="quick-access"/>
             </CardContent>
           </Card>
         </div>
