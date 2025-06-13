@@ -26,6 +26,7 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+      base_path: ${{ steps.pages.outputs.base_path }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -35,23 +36,27 @@ jobs:
         with:
           node-version: lts/*
           cache: 'npm'
+
       - name: Install dependencies
         run: npm ci
-      - name: Build
-        run: npm run build
+
+      # See: https://vite.dev/guide/build.html#public-base-path thanks to @forresthopkinsa
+      - name: Build with Vite
+        run: npm run build -- --base "${base_path}"
+
       - name: Correct asset paths
         run: |
             cd ./dist
-            sed -iBAK 's|/fonts|/zote/fonts|g' assets/index*css
-            sed -iBAK 's|="/|="/zote/|g' index.html
+            sed -i'' -e 's|/fonts|/ocodo-page/fonts|g' assets/index*css
+            sed -i'' -e 's|="/|="/ocodo-page/|g' index.html
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # Upload dist folder
           path: './dist'
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
