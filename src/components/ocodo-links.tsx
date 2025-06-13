@@ -18,7 +18,7 @@ export const OcodoLinks: React.FC<OcodoLinksProps> = ({ folder }) => {
   }
 
   if (!bookmarks || bookmarks.length === 0) {
-    return <div>No links found in folder: {folder}</div>;
+    return <div>No links in {folder}</div>;
   }
 
   return (
