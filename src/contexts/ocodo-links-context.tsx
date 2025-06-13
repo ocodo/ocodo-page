@@ -51,7 +51,7 @@ export const OcodoLinksProvider: React.FC<{ children: React.ReactNode }> = ({ ch
 
     const fetchAndSetTargetFolder = async () => {
       try {
-        const response = await fetch('bookmarks.json');
+        const response = await fetch(`bookmarks.json?cachebust=${Date.now().toString(16)}`);
         if (!response.ok) {
           if (response.status === 404) {
             throw new Error('bookmarks data not available... waiting for update');
