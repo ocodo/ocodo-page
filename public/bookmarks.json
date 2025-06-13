@@ -2255,6 +2255,16 @@
                 "href": "https://i.redd.it/0ixr5eqro05f1.jpeg",
                 "id": "160",
                 "title": "Testing types ... \"joke\""
+              },
+              {
+                "href": "https://bitbucket.org/mituharu/emacs-mac/overview",
+                "id": "546",
+                "title": "Emacs-mac-port Code"
+              },
+              {
+                "href": "https://www.nexusmods.com/cyberpunk2077",
+                "id": "548",
+                "title": "Cyberpunk Nexusmods"
               }
             ]
           },
@@ -2545,16 +2555,6 @@
                 "href": "https://hackernews-insight.vercel.app/story-list-by-score",
                 "id": "545",
                 "title": "HackerNews Insight, Top Stories by Score"
-              },
-              {
-                "href": "https://bitbucket.org/mituharu/emacs-mac/overview",
-                "id": "546",
-                "title": "Emacs-mac-port Code"
-              },
-              {
-                "href": "https://www.nexusmods.com/cyberpunk2077",
-                "id": "548",
-                "title": "Cyberpunk Nexusmods"
               },
               {
                 "href": "https://github.com/ocodo",
