@@ -5,14 +5,12 @@ interface Bookmark {
   id: string;
   title: string;
   href: string;
-  // Add other properties like 'icon', 'description', 'tags' if they exist in your JSON
 }
 
 interface Folder {
   id: string;
   title: string;
-  bookmarks: Bookmark | Bookmark[]; // Can be a single bookmark or an array
-  // Potentially nested folders
+  bookmarks: Bookmark | Bookmark[];
   folders?: Folder[];
 }
 
@@ -21,7 +19,7 @@ interface BookmarksData {
 }
 
 interface OcodoLinksContextType {
-  ocodoLinksRootFolder: Folder | null; // Stores the main "ocodo-links" folder
+  ocodoLinksRootFolder: Folder | null;
   getBookmarksByFolderName: (folderName: string) => Bookmark[];
   loading: boolean;
   error: Error | null;
@@ -29,7 +27,6 @@ interface OcodoLinksContextType {
 
 const OcodoLinksContext = createContext<OcodoLinksContextType | undefined>(undefined);
 
-// Helper function for recursive search, can be defined outside the component or as a local utility
 const findFolderRecursive = (folders: Folder[], folderName: string): Folder | undefined => {
   for (const folder of folders) {
     if (folder.title === folderName) return folder;
@@ -47,7 +44,7 @@ export const OcodoLinksProvider: React.FC<{ children: React.ReactNode }> = ({ ch
   const [error, setError] = useState<Error | null>(null);
 
   useEffect(() => {
-    const OCODO_LINKS_TARGET_FOLDER_TITLE = "ocodo-links"; // The specific folder title we care about
+    const OCODO_LINKS_TARGET_FOLDER_TITLE = "ocodo-links";
 
     const fetchAndSetTargetFolder = async () => {
       try {
@@ -61,17 +58,14 @@ export const OcodoLinksProvider: React.FC<{ children: React.ReactNode }> = ({ ch
         }
         const data: BookmarksData = await response.json();
 
-        // Find the "ocodo-links" folder within the fetched data
         const targetFolder = findFolderRecursive(data.folders, OCODO_LINKS_TARGET_FOLDER_TITLE);
 
         if (targetFolder) {
           setOcodoLinksRootFolder(targetFolder);
         } else {
-          // Set error if the specific folder isn't found after successful fetch
           setError(new Error(`Target folder "${OCODO_LINKS_TARGET_FOLDER_TITLE}" not found in bookmarks.json.`));
         }
       } catch (e) {
-        // This catch handles errors from fetch, response.json(), or if findFolderRecursive itself throws (though unlikely here)
         setError(e instanceof Error ? e : new Error('Failed to fetch or process bookmarks'));
       } finally {
         setLoading(false);
@@ -86,13 +80,12 @@ export const OcodoLinksProvider: React.FC<{ children: React.ReactNode }> = ({ ch
       return [];
     }
 
-    // Search for the subFolderName *within* the ocodoLinksRootFolder's subfolders
     const targetSubFolder = findFolderRecursive(ocodoLinksRootFolder.folders, subFolderName);
 
     if (!targetSubFolder) {
       return [];
     }
-    // Ensure bookmarks are always returned as an array
+
     return Array.isArray(targetSubFolder.bookmarks) ? targetSubFolder.bookmarks : [targetSubFolder.bookmarks];
 
   }, [ocodoLinksRootFolder]);
