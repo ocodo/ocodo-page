@@ -15,7 +15,10 @@ interface Folder {
 }
 
 interface BookmarksData {
-  folders: Folder[];
+  xbel: {
+    version: string;
+    folder: Folder[]
+  };
 }
 
 interface OcodoLinksContextType {
@@ -58,7 +61,7 @@ export const OcodoLinksProvider: React.FC<{ children: React.ReactNode }> = ({ ch
         }
         const data: BookmarksData = await response.json();
 
-        const targetFolder = findFolderRecursive(data.folders, OCODO_LINKS_TARGET_FOLDER_TITLE);
+        const targetFolder = findFolderRecursive(data.xbel.folder, OCODO_LINKS_TARGET_FOLDER_TITLE);
 
         if (targetFolder) {
           setOcodoLinksRootFolder(targetFolder);
