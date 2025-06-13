@@ -2,7 +2,7 @@
 
 /* HelveticaNeue Font */
 @font-face {
-  font-family: "HelveticaNeuer";
+  font-family: "HelveticaNeue";
   src: url("/fonts/HelveticaNeue-Light.woff") format("woff");
   font-weight: 300;
   font-style: normal;
@@ -44,7 +44,7 @@
 :root {
   --font-mono: OcodoMonoNerdFont;
   --font-sans: HelveticaNeue;
-  --default-font-family: HelveticaNeuer;
+  --default-font-family: HelveticaNeue;
 }
 .font-mono { font-family: var(--font-mono); }
 .font-sans { font-family: var(--font-sans); }
