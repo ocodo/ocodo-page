@@ -53,7 +53,11 @@ export const OcodoLinksProvider: React.FC<{ children: React.ReactNode }> = ({ ch
       try {
         const response = await fetch('bookmarks.json');
         if (!response.ok) {
-          throw new Error(`HTTP error! status: ${response.status}`);
+          if (response.status === 404) {
+            throw new Error('bookmarks data not available... waiting for update');
+          } else {
+            throw new Error(`HTTP error! status: ${response.status}`);
+          }
         }
         const data: BookmarksData = await response.json();
 
