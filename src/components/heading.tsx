@@ -4,10 +4,11 @@ import { ThemeContext } from '@/contexts/theme-context'
 
 interface HeadingProps {
   title: string
+  tinyChildren?: React.ReactNode
 }
 
 function Heading(props: HeadingProps) {
-  const { title } = props
+  const { title, tinyChildren } = props
   const { toggleTheme, theme } = useContext(ThemeContext)
 
   useEffect(() => (
@@ -15,18 +16,25 @@ function Heading(props: HeadingProps) {
   ), [theme])
 
   return (
-    <header className="flex items-center justify-between p-4 border-b">
-      <div className="p-2 hover:bg-accent cursor-pointer rounded-lg">
-        <Menu className="h-6 w-6" />
-      </div>
-      <div className="font-black tracking-tighter text-2xl">{title}</div>
-      <div
-        className="p-2 hover:bg-accent cursor-pointer rounded-lg"
-        onClick={() => toggleTheme()}
-      >
-        {theme === 'light' ? <Moon className="h-6 w-6" /> : <Sun className="h-6 w-6" />}
-      </div>
-    </header>
+    <>
+      {tinyChildren && (
+        <div className="flex justify-end items-center w-full bg-background text-foreground/30">
+          {tinyChildren}
+        </div>
+      )}
+      <header className="flex items-center justify-between p-4">
+        <div className="p-2 hover:bg-accent cursor-pointer rounded-lg">
+          <Menu className="h-6 w-6" />
+        </div>
+        <div className="font-black tracking-tighter text-2xl">{title}</div>
+        <div
+          className="p-2 hover:bg-accent cursor-pointer rounded-lg"
+          onClick={() => toggleTheme()}
+        >
+          {theme === 'light' ? <Moon className="h-6 w-6" /> : <Sun className="h-6 w-6" />}
+        </div>
+      </header>
+    </>
   )
 }
 
