@@ -1,5 +1,4 @@
 import { Menu, Moon, Sun } from 'lucide-react'
-import { toast } from 'sonner'
 import { useContext, useEffect } from 'react'
 import { ThemeContext } from '@/contexts/theme-context'
 
