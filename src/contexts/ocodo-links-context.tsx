@@ -10,8 +10,8 @@ interface Bookmark {
 interface Folder {
   id: string;
   title: string;
-  bookmarks: Bookmark | Bookmark[];
-  folders?: Folder[];
+  bookmark: Bookmark | Bookmark[];
+  folder?: Folder[];
 }
 
 interface BookmarksData {
@@ -33,8 +33,8 @@ const OcodoLinksContext = createContext<OcodoLinksContextType | undefined>(undef
 const findFolderRecursive = (folders: Folder[], folderName: string): Folder | undefined => {
   for (const folder of folders) {
     if (folder.title === folderName) return folder;
-    if (folder.folders) {
-      const nestedFind = findFolderRecursive(folder.folders, folderName);
+    if (folder.folder) {
+      const nestedFind = findFolderRecursive(folder.folder, folderName);
       if (nestedFind) return nestedFind;
     }
   }
@@ -60,7 +60,6 @@ export const OcodoLinksProvider: React.FC<{ children: React.ReactNode }> = ({ ch
           }
         }
         const data: BookmarksData = await response.json();
-
         const targetFolder = findFolderRecursive(data.xbel.folder, OCODO_LINKS_TARGET_FOLDER_TITLE);
 
         if (targetFolder) {
@@ -79,17 +78,18 @@ export const OcodoLinksProvider: React.FC<{ children: React.ReactNode }> = ({ ch
   }, []);
 
   const getBookmarksByFolderName = useCallback((subFolderName: string): Bookmark[] => {
-    if (!ocodoLinksRootFolder || !ocodoLinksRootFolder.folders) {
+    console.log(ocodoLinksRootFolder)
+    if (!ocodoLinksRootFolder || !ocodoLinksRootFolder.folder) {
       return [];
     }
 
-    const targetSubFolder = findFolderRecursive(ocodoLinksRootFolder.folders, subFolderName);
+    const targetSubFolder = findFolderRecursive(ocodoLinksRootFolder.folder, subFolderName);
 
     if (!targetSubFolder) {
       return [];
     }
 
-    return Array.isArray(targetSubFolder.bookmarks) ? targetSubFolder.bookmarks : [targetSubFolder.bookmarks];
+    return Array.isArray(targetSubFolder.bookmark) ? targetSubFolder.bookmark : [targetSubFolder.bookmark];
 
   }, [ocodoLinksRootFolder]);
 

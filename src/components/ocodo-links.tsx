@@ -8,6 +8,8 @@ interface OcodoLinksProps {
 export const OcodoLinks: React.FC<OcodoLinksProps> = ({ folder }) => {
   const { getBookmarksByFolderName, loading, error } = useOcodoLinks();
   const bookmarks = getBookmarksByFolderName(folder);
+  console.log(bookmarks);
+
 
   if (loading) {
     return <div>Loading links...</div>;
