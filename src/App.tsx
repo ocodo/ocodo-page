@@ -10,7 +10,7 @@ function App() {
   return (
     <OcodoLinksProvider>
       <ThemeProvider>
-        <Heading title="ocodo.github.io" tinyChildren={<Clock />}/>
+        <Heading tinyChildren={<Clock />} />
         <div className="pt-4 gap-4 grid grid-cols-1 md:grid-cols-3">
           <Card>
             <CardContent>
