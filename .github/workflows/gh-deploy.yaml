@@ -51,6 +51,7 @@ jobs:
             sed -i'' -e 's|/fonts|/ocodo-page/fonts|g' assets/index*css
             sed -i'' -e 's|="/|="/ocodo-page/|g' index.html
             git diff
+            tree
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
