@@ -2471,6 +2471,11 @@
                 "title": "Tailscale Dashboard"
               },
               {
+                "href": "https://pihole.hub/",
+                "id": "550",
+                "title": "pihole.hub"
+              },
+              {
                 "href": "http://10.0.0.1/",
                 "id": "532",
                 "title": "3bb Home Router"
@@ -2489,11 +2494,6 @@
                 "href": "https://webmin.hub:10000/",
                 "id": "535",
                 "title": "Webmin"
-              },
-              {
-                "href": "https://pihole.hub/",
-                "id": "550",
-                "title": "pihole.hub"
               }
             ]
           },
