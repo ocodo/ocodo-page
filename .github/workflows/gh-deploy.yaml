@@ -48,12 +48,21 @@ jobs:
       - name: Correct asset paths
         run: |
             cd ./dist
-            sed -i'' -e 's|/fonts|/ocodo-page/fonts|g' assets/index*css
-            sed -i'' -e 's|="/|="/ocodo-page/|g' index.html
-            tree
+            sed -i'' -e 's|url(/fonts|url(../fonts|g' assets/index*css
 
-      - name: Remote debug
-        uses: mxschmitt/action-tmate@v3
+            cat <<EOD  | tee -a $GITHUB_STEP_SUMMARY
+            # Review Font css urls
+
+            \`\`\`
+            $(grep -E -o 'url\(.{60}' assets/index*css)
+            \`\`\`
+
+            ### Dist tree
+
+            `\`\`\
+            $(tree)
+            `\`\`\
+            EOD
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
