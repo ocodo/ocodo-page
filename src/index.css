@@ -2,7 +2,7 @@
 
 /* HelveticaNeue Font */
 @font-face {
-  font-family: "HelveticaNeue";
+  font-family: "HelveticaNeuer";
   src: url("/fonts/HelveticaNeue-Light.woff") format("woff");
   font-weight: 300;
   font-style: normal;
@@ -41,13 +41,13 @@
   font-display: swap;
 }
 
-.font-mono {
-  font-family: OcodoMonoNerdFont;
+:root {
+  --font-mono: OcodoMonoNerdFont;
+  --font-sans: HelveticaNeue;
+  --default-font-family: HelveticaNeuer;
 }
-
-.font-sans {
-  font-family: HelveticaNeue;
-}
+.font-mono { font-family: var(--font-mono); }
+.font-sans { font-family: var(--font-sans); }
 
 @custom-variant dark (&:is(.dark *));
 :root {
