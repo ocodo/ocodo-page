@@ -1,6 +1,7 @@
 import { Menu, Moon, Sun } from 'lucide-react'
 import { useContext, useEffect } from 'react'
 import { ThemeContext } from '@/contexts/theme-context'
+import { OcodoLogo } from '@/components/ocodo-logo'
 
 interface HeadingProps {
   title: string
@@ -26,7 +27,7 @@ function Heading(props: HeadingProps) {
         <div className="p-2 hover:bg-accent cursor-pointer rounded-lg">
           <Menu className="h-6 w-6" />
         </div>
-        <div className="font-black tracking-tighter text-2xl">{title}</div>
+        <OcodoLogo />
         <div
           className="p-2 hover:bg-accent cursor-pointer rounded-lg"
           onClick={() => toggleTheme()}
