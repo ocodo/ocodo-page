@@ -2408,6 +2408,11 @@
                 "href": "https://gemini.google.com/app",
                 "id": "553",
                 "title": "Google Gemini"
+              },
+              {
+                "href": "https://suno.com/create?wid=default",
+                "id": "554",
+                "title": "Suno | AI Music"
               }
             ]
           },
