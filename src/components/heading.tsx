@@ -1,46 +1,36 @@
 import { Menu, Moon, Sun } from 'lucide-react'
-import { useContext, useEffect } from 'react'
+import { useContext } from 'react'
 import { ThemeContext } from '@/contexts/theme-context'
-import { OcodoLogo } from '@/components/ocodo-logo'
 
 interface HeadingProps {
   title?: string
   tinyChildren?: React.ReactNode
 }
 
-function Heading(props: HeadingProps) {
+export function Heading(props: HeadingProps) {
   const { title, tinyChildren } = props
   const { toggleTheme, theme } = useContext(ThemeContext)
 
-  useEffect(() => (
-    console.log(`Theme: ${theme}`)
-  ), [theme])
-
   return (
-    <>
+    <div className='relative'>
       {tinyChildren && (
-        <div className="flex justify-end items-center w-full bg-background text-foreground/30">
+        <div className="absolute flex justify-end items-center w-full bg-transparent
+         text-foreground/30 top-1 right-20">
           {tinyChildren}
         </div>
       )}
-      <header className="flex items-center justify-between p-4">
+      <header className="flex items-center justify-between p-2">
         <div className="p-2 hover:bg-accent cursor-pointer rounded-lg">
-          <Menu className="h-6 w-6" />
+          <Menu className="h-4 w-4" />
         </div>
-    {
-      title
-      ? (<div className="font-black tracking-tighter text-2xl">{title}</div>)
-      : (<OcodoLogo width={180} height={64}/>)
-    }
-    <div
-      className="p-2 hover:bg-accent cursor-pointer rounded-lg"
-      onClick={() => toggleTheme()}
-    >
-      {theme === 'light' ? <Moon className="h-6 w-6" /> : <Sun className="h-6 w-6" />}
+        {title && (<div className="font-black tracking-tighter">{title}</div>)}
+        <div
+          className="p-2 hover:bg-accent cursor-pointer rounded-lg"
+          onClick={() => toggleTheme()}
+        >
+          {theme === 'light' ? <Moon className="h-4 w-4" /> : <Sun className="h-4 w-4" />}
+        </div>
+      </header>
     </div>
-    </header>
-    </>
   )
 }
-
-export { Heading }
