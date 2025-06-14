@@ -106,7 +106,7 @@ export const OcodoLinksProvider: React.FC<{ children: React.ReactNode }> = ({ ch
     }
     // targetSubFolder is now a Folder, so targetSubFolder.Children exists and is BookmarkItem[]
 
-    // Filter out items of Type "bookmark" from the subfolder's children
+    // Filter in items of Type "bookmark" from the subfolder's children
     const bookmarks: Bookmark[] = targetSubFolder.children.filter(
       (item): item is Bookmark => item.type === 'bookmark'
     );
