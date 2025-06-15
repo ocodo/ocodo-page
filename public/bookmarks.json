@@ -2744,31 +2744,6 @@
       },
       {
         "type": "folder",
-        "name": "React/JS/TS",
-        "id": "76",
-        "children": [
-          {
-            "type": "bookmark",
-            "name": "qrcode.js",
-            "href": "https://davidshimjs.github.io/qrcodejs/",
-            "id": "104"
-          },
-          {
-            "type": "bookmark",
-            "name": "QR Code Scanner - ScanApp",
-            "href": "https://scanapp.org/",
-            "id": "105"
-          },
-          {
-            "type": "bookmark",
-            "name": "Markdown for the component era | MDX",
-            "href": "https://mdxjs.com/",
-            "id": "106"
-          }
-        ]
-      },
-      {
-        "type": "folder",
         "name": "quick-access",
         "id": "77",
         "children": [
@@ -3103,6 +3078,24 @@
             "name": "iamgio/quarkdown",
             "href": "https://github.com/iamgio/quarkdown",
             "id": "225"
+          },
+          {
+            "type": "bookmark",
+            "name": "QR Code Scanner - ScanApp",
+            "href": "https://scanapp.org/",
+            "id": "105"
+          },
+          {
+            "type": "bookmark",
+            "name": "qrcode.js",
+            "href": "https://davidshimjs.github.io/qrcodejs/",
+            "id": "104"
+          },
+          {
+            "type": "bookmark",
+            "name": "Markdown for the component era | MDX",
+            "href": "https://mdxjs.com/",
+            "id": "106"
           }
         ]
       }
