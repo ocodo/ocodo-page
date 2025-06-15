@@ -1,5 +1,6 @@
 import type React from "react";
 import { useOcodoLinks } from "@/contexts/ocodo-links-context";
+import { OcodoLinksLoadingBar } from "@/components/ocodo-links-loading-bar";
 
 interface OcodoLinksProps {
   folder: string
@@ -10,7 +11,7 @@ export const OcodoLinks: React.FC<OcodoLinksProps> = ({ folder }) => {
   const bookmarks = getBookmarksByFolderName(folder);
 
   if (loading) {
-    return <div>Loading links...</div>;
+    return <OcodoLinksLoadingBar />;
   }
 
   if (error) {
@@ -22,12 +23,14 @@ export const OcodoLinks: React.FC<OcodoLinksProps> = ({ folder }) => {
   }
 
   return (
-    <ul>
-      {bookmarks.map((bookmark, index ) => (
-        <li key={index} >
-          <a href={bookmark.href} target="_blank" rel="noopener noreferrer">{bookmark.name}</a>
-        </li>
-      ))}
-    </ul>
+    <>
+      <ul>
+        {bookmarks.map((bookmark, index) => (
+          <li key={index} >
+            <a href={bookmark.href} target="_blank" rel="noopener noreferrer">{bookmark.name}</a>
+          </li>
+        ))}
+      </ul>
+    </>
   );
 };
