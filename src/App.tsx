@@ -29,6 +29,11 @@ function App() {
           </Card>
           <Card>
             <CardContent>
+              <OcodoLinks folder="interesting"/>
+            </CardContent>
+          </Card>
+          <Card>
+            <CardContent>
               <OcodoLinks folder="misc"/>
             </CardContent>
           </Card>
