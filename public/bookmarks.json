@@ -3103,7 +3103,15 @@
       {
         "type": "folder",
         "name": "interesting",
-        "id": "559"
+        "id": "559",
+        "children": [
+          {
+            "type": "bookmark",
+            "name": "Photos show secret apartment built in Caltrain’s Burlingame station",
+            "href": "https://sfstandard.com/2025/06/12/caltrain-employee-secret-apartment-burlingame-station-photos/",
+            "id": "560"
+          }
+        ]
       },
       {
         "type": "bookmark",
