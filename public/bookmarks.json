@@ -2713,7 +2713,7 @@
       },
       {
         "type": "folder",
-        "name": "Font Building",
+        "name": "font-building",
         "id": "75",
         "children": [
           {
