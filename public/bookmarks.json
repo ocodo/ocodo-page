@@ -3020,24 +3020,6 @@
         "children": [
           {
             "type": "bookmark",
-            "name": "Passive Income with Code",
-            "href": "https://www.coryzue.com/writing/solopreneur/",
-            "id": "96"
-          },
-          {
-            "type": "bookmark",
-            "name": "Tmux Cheat Sheet",
-            "href": "https://tmuxai.dev/tmux-cheat-sheet/",
-            "id": "97"
-          },
-          {
-            "type": "bookmark",
-            "name": "Testing types cartoon",
-            "href": "https://i.redd.it/0ixr5eqro05f1.jpeg",
-            "id": "98"
-          },
-          {
-            "type": "bookmark",
             "name": "Cyberpunk Nexusmods",
             "href": "https://www.nexusmods.com/cyberpunk2077",
             "id": "100"
@@ -3110,6 +3092,24 @@
             "name": "Photos show secret apartment built in Caltrain’s Burlingame station",
             "href": "https://sfstandard.com/2025/06/12/caltrain-employee-secret-apartment-burlingame-station-photos/",
             "id": "560"
+          },
+          {
+            "type": "bookmark",
+            "name": "Passive Income with Code",
+            "href": "https://www.coryzue.com/writing/solopreneur/",
+            "id": "96"
+          },
+          {
+            "type": "bookmark",
+            "name": "Tmux Cheat Sheet",
+            "href": "https://tmuxai.dev/tmux-cheat-sheet/",
+            "id": "97"
+          },
+          {
+            "type": "bookmark",
+            "name": "Testing types cartoon",
+            "href": "https://i.redd.it/0ixr5eqro05f1.jpeg",
+            "id": "98"
           }
         ]
       },
