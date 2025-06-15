@@ -2968,12 +2968,6 @@
             "name": "LinkHut",
             "href": "https://ln.ht/",
             "id": "133"
-          },
-          {
-            "type": "bookmark",
-            "name": "Eraser App Diagram",
-            "href": "https://app.eraser.io/",
-            "id": "134"
           }
         ]
       },
@@ -3023,6 +3017,12 @@
             "name": "Public APIS",
             "href": "https://publicapis.dev/",
             "id": "136"
+          },
+          {
+            "type": "bookmark",
+            "name": "Eraser App Diagram",
+            "href": "https://app.eraser.io/",
+            "id": "134"
           }
         ]
       },
