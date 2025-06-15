@@ -460,6 +460,18 @@
         "name": "Jwno: Your Friendly Neighborhood Window Manager",
         "href": "https://agent-kilo.github.io/jwno/",
         "id": "461"
+      },
+      {
+        "type": "bookmark",
+        "name": "Jules - An Asynchronous Coding Agent",
+        "href": "https://jules.google/",
+        "id": "460"
+      },
+      {
+        "type": "bookmark",
+        "name": "WezTerm Icon (Community) – Figma",
+        "href": "https://www.figma.com/design/CIkt7bS8LLHptb5EwoBiK5/WezTerm-Icon--Community-?node-id=1-362\u0026t=5jjtP8oSAkq2I0jq-0",
+        "id": "457"
       }
     ]
   },
@@ -1137,12 +1149,6 @@
       },
       {
         "type": "bookmark",
-        "name": "WezTerm Icon (Community) – Figma",
-        "href": "https://www.figma.com/design/CIkt7bS8LLHptb5EwoBiK5/WezTerm-Icon--Community-?node-id=1-362\u0026t=5jjtP8oSAkq2I0jq-0",
-        "id": "457"
-      },
-      {
-        "type": "bookmark",
         "name": "Hoooman! Let me help you! : AnimalsBeingBros",
         "href": "https://old.reddit.com/r/AnimalsBeingBros/comments/1kq9cbb/hoooman_let_me_help_you/",
         "id": "458"
@@ -1152,12 +1158,6 @@
         "name": "Just a girl feeding sugarcane to her funny looking dog",
         "href": "https://v.redd.it/8hadyuscgt1f1",
         "id": "459"
-      },
-      {
-        "type": "bookmark",
-        "name": "Jules - An Asynchronous Coding Agent",
-        "href": "https://jules.google/",
-        "id": "460"
       },
       {
         "type": "bookmark",
