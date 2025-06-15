@@ -3097,14 +3097,14 @@
             "name": "GetHooky",
             "href": "https://ezpieco.github.io/GetHooky/",
             "id": "556"
+          },
+          {
+            "type": "bookmark",
+            "name": "iamgio/quarkdown",
+            "href": "https://github.com/iamgio/quarkdown",
+            "id": "225"
           }
         ]
-      },
-      {
-        "type": "bookmark",
-        "name": "iamgio/quarkdown: 🪐 Markdown with superpowers — from ideas to presentations, articles and books.",
-        "href": "https://github.com/iamgio/quarkdown",
-        "id": "225"
       }
     ]
   },
