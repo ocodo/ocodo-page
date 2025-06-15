@@ -415,6 +415,12 @@
             "name": "OKUA1/juvio UV Jupyter",
             "href": "https://github.com/OKUA1/juvio",
             "id": "462"
+          },
+          {
+            "type": "bookmark",
+            "name": "TemplUI",
+            "href": "https://templui.io/",
+            "id": "561"
           }
         ]
       },
@@ -445,13 +451,7 @@
       },
       {
         "type": "bookmark",
-        "name": "Alert | templUI",
-        "href": "https://templui.io/docs/components/alert",
-        "id": "528"
-      },
-      {
-        "type": "bookmark",
-        "name": "React Native Skia | React Native Skia",
+        "name": "ReactNative Skia",
         "href": "https://shopify.github.io/react-native-skia/",
         "id": "496"
       },
