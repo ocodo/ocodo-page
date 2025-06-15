@@ -415,12 +415,6 @@
             "name": "OKUA1/juvio UV Jupyter",
             "href": "https://github.com/OKUA1/juvio",
             "id": "462"
-          },
-          {
-            "type": "bookmark",
-            "name": "TemplUI",
-            "href": "https://templui.io/",
-            "id": "561"
           }
         ]
       },
@@ -440,6 +434,36 @@
             "name": "Cut/Fold Mechanisms",
             "href": "https://cutfoldtemplates.com/",
             "id": "432"
+          },
+          {
+            "type": "bookmark",
+            "name": "Jules Coding Agent",
+            "href": "https://jules.google/",
+            "id": "460"
+          },
+          {
+            "type": "bookmark",
+            "name": "Jwno Window Manager",
+            "href": "https://agent-kilo.github.io/jwno/",
+            "id": "461"
+          },
+          {
+            "type": "bookmark",
+            "name": "TemplUI",
+            "href": "https://templui.io/",
+            "id": "561"
+          },
+          {
+            "type": "bookmark",
+            "name": "ReactNative Skia",
+            "href": "https://shopify.github.io/react-native-skia/",
+            "id": "496"
+          },
+          {
+            "type": "bookmark",
+            "name": "dragNdrop kit React",
+            "href": "https://dndkit.com/",
+            "id": "365"
           }
         ]
       },
@@ -451,33 +475,9 @@
       },
       {
         "type": "bookmark",
-        "name": "ReactNative Skia",
-        "href": "https://shopify.github.io/react-native-skia/",
-        "id": "496"
-      },
-      {
-        "type": "bookmark",
-        "name": "Jwno: Your Friendly Neighborhood Window Manager",
-        "href": "https://agent-kilo.github.io/jwno/",
-        "id": "461"
-      },
-      {
-        "type": "bookmark",
-        "name": "Jules - An Asynchronous Coding Agent",
-        "href": "https://jules.google/",
-        "id": "460"
-      },
-      {
-        "type": "bookmark",
         "name": "WezTerm Icon (Community) – Figma",
         "href": "https://www.figma.com/design/CIkt7bS8LLHptb5EwoBiK5/WezTerm-Icon--Community-?node-id=1-362\u0026t=5jjtP8oSAkq2I0jq-0",
         "id": "457"
-      },
-      {
-        "type": "bookmark",
-        "name": "dragNdrop kit React",
-        "href": "https://dndkit.com/",
-        "id": "365"
       }
     ]
   },
