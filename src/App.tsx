@@ -6,47 +6,29 @@ import { OcodoLinks } from "@/components/ocodo-links"
 import { OcodoLinksProvider } from "@/contexts/ocodo-links-context"
 import { TextClock } from "@/components/text-clock"
 
+const folders = [
+  "quick-access",
+  "hub-services",
+  "frequent",
+  "interesting",
+  "misc",
+  "pinned-repos",
+  "font-building",
+]
+
 function App() {
   return (
     <OcodoLinksProvider>
       <ThemeProvider>
-        <Heading tinyChildren={<TextClock />}/>
+        <Heading tinyChildren={<TextClock />} />
         <div className="px-4 gap-4 grid grid-cols-1 md:grid-cols-3">
-          <Card>
-            <CardContent>
-              <OcodoLinks folder="quick-access"/>
-            </CardContent>
-          </Card>
-          <Card>
-            <CardContent>
-              <OcodoLinks folder="hub-services"/>
-            </CardContent>
-          </Card>
-          <Card>
-            <CardContent>
-              <OcodoLinks folder="frequent"/>
-            </CardContent>
-          </Card>
-          <Card>
-            <CardContent>
-              <OcodoLinks folder="interesting"/>
-            </CardContent>
-          </Card>
-          <Card>
-            <CardContent>
-              <OcodoLinks folder="misc"/>
-            </CardContent>
-          </Card>
-          <Card>
-            <CardContent>
-              <OcodoLinks folder="font-building"/>
-            </CardContent>
-          </Card>
-          <Card>
-            <CardContent>
-              <OcodoLinks folder="pinned-repos"/>
-            </CardContent>
-          </Card>
+          {folders.map((folder) => (
+            <Card>
+              <CardContent>
+                <OcodoLinks folder={folder} />
+              </CardContent>
+            </Card>
+          ))}
         </div>
         <Toaster />
       </ThemeProvider>
