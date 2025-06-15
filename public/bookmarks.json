@@ -314,6 +314,12 @@
           },
           {
             "type": "bookmark",
+            "name": "Favicon Generator - Image to Favicon - favicon.io",
+            "href": "https://favicon.io/favicon-converter/",
+            "id": "164"
+          },
+          {
+            "type": "bookmark",
             "name": "QRCode ScanApp",
             "href": "https://scanapp.org/",
             "id": "105"
@@ -1405,12 +1411,6 @@
         "name": "⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯",
         "href": "https://separator.floccus.org/?id=749533",
         "id": "163"
-      },
-      {
-        "type": "bookmark",
-        "name": "Favicon Generator - Image to Favicon - favicon.io",
-        "href": "https://favicon.io/favicon-converter/",
-        "id": "164"
       },
       {
         "type": "bookmark",
