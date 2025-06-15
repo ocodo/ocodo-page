@@ -2935,15 +2935,15 @@
         "children": [
           {
             "type": "bookmark",
-            "name": "Hacker News",
-            "href": "https://news.ycombinator.com/",
-            "id": "127"
+            "name": "News Minimalist",
+            "href": "https://www.newsminimalist.com/",
+            "id": "132"
           },
           {
             "type": "bookmark",
-            "name": "Firefox Extensions",
-            "href": "https://addons.mozilla.org/en-GB/developers/addons",
-            "id": "128"
+            "name": "Hacker News",
+            "href": "https://news.ycombinator.com/",
+            "id": "127"
           },
           {
             "type": "bookmark",
@@ -2953,15 +2953,15 @@
           },
           {
             "type": "bookmark",
-            "name": "My Gists",
-            "href": "https://gist.github.com/jasonm23/",
-            "id": "131"
+            "name": "Firefox Extensions",
+            "href": "https://addons.mozilla.org/en-GB/developers/addons",
+            "id": "128"
           },
           {
             "type": "bookmark",
-            "name": "News Minimalist",
-            "href": "https://www.newsminimalist.com/",
-            "id": "132"
+            "name": "My Gists",
+            "href": "https://gist.github.com/jasonm23/",
+            "id": "131"
           },
           {
             "type": "bookmark",
@@ -2974,24 +2974,19 @@
             "name": "Eraser App Diagram",
             "href": "https://app.eraser.io/",
             "id": "134"
-          },
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "name": "misc",
+        "id": "74",
+        "children": [
           {
             "type": "bookmark",
-            "name": "Public APIS",
-            "href": "https://publicapis.dev/",
-            "id": "136"
-          },
-          {
-            "type": "bookmark",
-            "name": "jq play",
-            "href": "https://jqplay.org/",
-            "id": "555"
-          },
-          {
-            "type": "bookmark",
-            "name": "GetHooky",
-            "href": "https://ezpieco.github.io/GetHooky/",
-            "id": "556"
+            "name": "Cyberpunk Nexusmods",
+            "href": "https://www.nexusmods.com/cyberpunk2077",
+            "id": "100"
           },
           {
             "type": "bookmark",
@@ -3007,22 +3002,27 @@
           },
           {
             "type": "bookmark",
+            "name": "jq play",
+            "href": "https://jqplay.org/",
+            "id": "555"
+          },
+          {
+            "type": "bookmark",
+            "name": "GetHooky",
+            "href": "https://ezpieco.github.io/GetHooky/",
+            "id": "556"
+          },
+          {
+            "type": "bookmark",
             "name": "MDXjs",
             "href": "https://mdxjs.com/",
             "id": "106"
-          }
-        ]
-      },
-      {
-        "type": "folder",
-        "name": "misc",
-        "id": "74",
-        "children": [
+          },
           {
             "type": "bookmark",
-            "name": "Cyberpunk Nexusmods",
-            "href": "https://www.nexusmods.com/cyberpunk2077",
-            "id": "100"
+            "name": "Public APIS",
+            "href": "https://publicapis.dev/",
+            "id": "136"
           }
         ]
       },
