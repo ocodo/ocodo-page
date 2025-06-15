@@ -271,6 +271,12 @@
         "children": [
           {
             "type": "bookmark",
+            "name": "GitHub/ocodo",
+            "href": "https://github.com/ocodo",
+            "id": "129"
+          },
+          {
+            "type": "bookmark",
             "name": "News Minimalist",
             "href": "https://www.newsminimalist.com/",
             "id": "132"
@@ -409,12 +415,6 @@
             "name": "Doom Emacs",
             "href": "https://github.com/doomemacs/",
             "id": "135"
-          },
-          {
-            "type": "bookmark",
-            "name": "GitHub/ocodo",
-            "href": "https://github.com/ocodo",
-            "id": "129"
           }
         ]
       },
