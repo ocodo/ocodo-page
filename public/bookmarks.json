@@ -3015,7 +3015,7 @@
           },
           {
             "type": "bookmark",
-            "name": "HackerNews Insight, Top Stories by Score",
+            "name": "HackerNews Insight",
             "href": "https://hackernews-insight.vercel.app/story-list-by-score",
             "id": "130"
           },
