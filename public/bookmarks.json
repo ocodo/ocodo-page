@@ -126,15 +126,21 @@
           },
           {
             "type": "bookmark",
-            "name": "Wake.hub",
-            "href": "https://wake.hub/",
-            "id": "120"
+            "name": "Tailscale Dashboard",
+            "href": "https://login.tailscale.com/admin/machines",
+            "id": "214"
           },
           {
             "type": "bookmark",
             "name": "MediaBox",
             "href": "https://mediabox.hub/",
             "id": "121"
+          },
+          {
+            "type": "bookmark",
+            "name": "Wake.hub",
+            "href": "https://wake.hub/",
+            "id": "120"
           },
           {
             "type": "bookmark",
@@ -171,12 +177,6 @@
             "name": "Transmission",
             "href": "https://transmission.hub/",
             "id": "213"
-          },
-          {
-            "type": "bookmark",
-            "name": "Tailscale Dashboard",
-            "href": "https://login.tailscale.com/admin/machines",
-            "id": "214"
           },
           {
             "type": "bookmark",
