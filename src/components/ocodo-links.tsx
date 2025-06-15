@@ -23,8 +23,10 @@ export const OcodoLinks: React.FC<OcodoLinksProps> = ({ folder }) => {
 
   return (
     <ul>
-      {bookmarks.map((bookmark) => (
-        <li key={bookmark.id}><a href={bookmark.href} target="_blank" rel="noopener noreferrer">{bookmark.name}</a></li>
+      {bookmarks.map((bookmark, index ) => (
+        <li key={index} >
+          <a href={bookmark.href} target="_blank" rel="noopener noreferrer">{bookmark.name}</a>
+        </li>
       ))}
     </ul>
   );
