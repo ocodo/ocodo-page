@@ -22,8 +22,7 @@ export function Heading(props: HeadingProps) {
           <Menu className="h-4 w-4" />
         </div>
         {title && (<div className="font-black tracking-tighter">{title}</div>)}
-
-        <ThemeSwitch />
+        <ThemeSwitch className="mr-2" />
       </header>
     </div>
   )
