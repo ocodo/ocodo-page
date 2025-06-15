@@ -22,8 +22,8 @@ function App() {
       <ThemeProvider>
         <Heading tinyChildren={<TextClock />} />
         <div className="px-4 gap-4 grid grid-cols-1 md:grid-cols-3">
-          {folders.map((folder) => (
-            <Card>
+          {folders.map((folder, index) => (
+            <Card className="transition-transform duration-200" key={index}>
               <CardContent>
                 <OcodoLinks folder={folder} />
               </CardContent>
