@@ -488,6 +488,12 @@
             "name": "Algora",
             "href": "https://algora.io/",
             "id": "564"
+          },
+          {
+            "type": "bookmark",
+            "name": "WikiTok",
+            "href": "https://www.wikitok.io/",
+            "id": "466"
           }
         ]
       },
@@ -1970,12 +1976,6 @@
         "name": "Yall Have Been Nice So Here's A Bunch Of Bats Eating Bananas",
         "href": "https://v.redd.it/0kd86bofq2re1",
         "id": "442"
-      },
-      {
-        "type": "bookmark",
-        "name": "WikiTok",
-        "href": "https://www.wikitok.io/",
-        "id": "466"
       },
       {
         "type": "bookmark",
