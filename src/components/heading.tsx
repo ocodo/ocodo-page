@@ -1,6 +1,5 @@
-import { Menu, Moon, Sun } from 'lucide-react'
-import { useContext } from 'react'
-import { ThemeContext } from '@/contexts/theme-context'
+import { Menu } from 'lucide-react'
+import { ThemeSwitch } from '@/components/ui/theme-switch'
 
 interface HeadingProps {
   title?: string
@@ -9,7 +8,6 @@ interface HeadingProps {
 
 export function Heading(props: HeadingProps) {
   const { title, tinyChildren } = props
-  const { toggleTheme, theme } = useContext(ThemeContext)
 
   return (
     <div className='relative'>
@@ -24,12 +22,8 @@ export function Heading(props: HeadingProps) {
           <Menu className="h-4 w-4" />
         </div>
         {title && (<div className="font-black tracking-tighter">{title}</div>)}
-        <div
-          className="p-2 hover:bg-accent cursor-pointer rounded-lg"
-          onClick={() => toggleTheme()}
-        >
-          {theme === 'light' ? <Moon className="h-4 w-4" /> : <Sun className="h-4 w-4" />}
-        </div>
+
+        <ThemeSwitch />
       </header>
     </div>
   )
