@@ -27,6 +27,21 @@ function App() {
               <OcodoLinks folder="frequent"/>
             </CardContent>
           </Card>
+          <Card>
+            <CardContent>
+              <OcodoLinks folder="misc"/>
+            </CardContent>
+          </Card>
+          <Card>
+            <CardContent>
+              <OcodoLinks folder="font-building"/>
+            </CardContent>
+          </Card>
+          <Card>
+            <CardContent>
+              <OcodoLinks folder="pinned-repos"/>
+            </CardContent>
+          </Card>
         </div>
         <Toaster />
       </ThemeProvider>
