@@ -80,6 +80,24 @@
             "name": "Google Sheets",
             "href": "https://sheets.google.com/",
             "id": "202"
+          },
+          {
+            "type": "bookmark",
+            "name": "Lazada (Thailand)",
+            "href": "https://lazada.co.th/",
+            "id": "203"
+          },
+          {
+            "type": "bookmark",
+            "name": "Shopee (Thailand)",
+            "href": "https://shopee.co.th/",
+            "id": "204"
+          },
+          {
+            "type": "bookmark",
+            "name": "YouTube",
+            "href": "https://youtube.com/",
+            "id": "205"
           }
         ]
       },
@@ -262,24 +280,6 @@
             "name": "Tmux Cheat Sheet",
             "href": "https://tmuxai.dev/tmux-cheat-sheet/",
             "id": "97"
-          },
-          {
-            "type": "bookmark",
-            "name": "Lazada (Thailand)",
-            "href": "https://lazada.co.th/",
-            "id": "203"
-          },
-          {
-            "type": "bookmark",
-            "name": "Shopee (Thailand)",
-            "href": "https://shopee.co.th/",
-            "id": "204"
-          },
-          {
-            "type": "bookmark",
-            "name": "YouTube",
-            "href": "https://youtube.com/",
-            "id": "205"
           },
           {
             "type": "bookmark",
