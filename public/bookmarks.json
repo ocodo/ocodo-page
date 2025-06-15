@@ -156,24 +156,6 @@
           },
           {
             "type": "bookmark",
-            "name": "Music Library",
-            "href": "https://mediabox.hub/music/library",
-            "id": "125"
-          },
-          {
-            "type": "bookmark",
-            "name": "Emails",
-            "href": "https://mediabox.hub/email/search",
-            "id": "126"
-          },
-          {
-            "type": "bookmark",
-            "name": "HackerNews",
-            "href": "https://mediabox.hub/hackernews/search",
-            "id": "210"
-          },
-          {
-            "type": "bookmark",
             "name": "Spotdl",
             "href": "https://spotdl.hub/",
             "id": "211"
