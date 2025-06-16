@@ -1,5 +1,5 @@
 import { Menu } from 'lucide-react'
-import { ThemeSwitch } from '@/components/ui/theme-switch'
+import { ThemeSwitch } from '@/components/theme-switch'
 
 interface HeadingProps {
   title?: string
