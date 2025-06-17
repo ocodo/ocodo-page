@@ -17,18 +17,6 @@
           },
           {
             "type": "bookmark",
-            "name": "Deepseek Chat",
-            "href": "https://chat.deepseek.com/",
-            "id": "108"
-          },
-          {
-            "type": "bookmark",
-            "name": "ChatGPT",
-            "href": "https://chatgpt.com/",
-            "id": "109"
-          },
-          {
-            "type": "bookmark",
             "name": "Icônes",
             "href": "https://icones.js.org/",
             "id": "111"
@@ -98,18 +86,6 @@
             "name": "YouTube",
             "href": "https://youtube.com/",
             "id": "205"
-          },
-          {
-            "type": "bookmark",
-            "name": "Google Gemini",
-            "href": "https://gemini.google.com/app",
-            "id": "208"
-          },
-          {
-            "type": "bookmark",
-            "name": "Meta AI",
-            "href": "https://www.meta.ai/",
-            "id": "207"
           },
           {
             "type": "bookmark",
@@ -298,6 +274,30 @@
             "name": "RubyOnRemote Jobs",
             "href": "https://rubyonremote.com/",
             "id": "206"
+          },
+          {
+            "type": "bookmark",
+            "name": "ChatGPT",
+            "href": "https://chatgpt.com/",
+            "id": "109"
+          },
+          {
+            "type": "bookmark",
+            "name": "Deepseek Chat",
+            "href": "https://chat.deepseek.com/",
+            "id": "108"
+          },
+          {
+            "type": "bookmark",
+            "name": "Meta AI",
+            "href": "https://www.meta.ai/",
+            "id": "207"
+          },
+          {
+            "type": "bookmark",
+            "name": "Google Gemini",
+            "href": "https://gemini.google.com/app",
+            "id": "208"
           }
         ]
       },
