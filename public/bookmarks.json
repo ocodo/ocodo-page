@@ -17,6 +17,18 @@
           },
           {
             "type": "bookmark",
+            "name": "ChatGPT",
+            "href": "https://chatgpt.com/",
+            "id": "109"
+          },
+          {
+            "type": "bookmark",
+            "name": "Leonardo.ai",
+            "href": "https://app.leonardo.ai/ai-generations",
+            "id": "110"
+          },
+          {
+            "type": "bookmark",
             "name": "Icônes",
             "href": "https://icones.js.org/",
             "id": "111"
@@ -86,12 +98,6 @@
             "name": "YouTube",
             "href": "https://youtube.com/",
             "id": "205"
-          },
-          {
-            "type": "bookmark",
-            "name": "Leonardo.ai",
-            "href": "https://app.leonardo.ai/ai-generations",
-            "id": "110"
           }
         ]
       },
@@ -274,12 +280,6 @@
             "name": "RubyOnRemote Jobs",
             "href": "https://rubyonremote.com/",
             "id": "206"
-          },
-          {
-            "type": "bookmark",
-            "name": "ChatGPT",
-            "href": "https://chatgpt.com/",
-            "id": "109"
           },
           {
             "type": "bookmark",
