@@ -98,6 +98,24 @@
             "name": "YouTube",
             "href": "https://youtube.com/",
             "id": "205"
+          },
+          {
+            "type": "bookmark",
+            "name": "Google Gemini",
+            "href": "https://gemini.google.com/app",
+            "id": "208"
+          },
+          {
+            "type": "bookmark",
+            "name": "Meta AI",
+            "href": "https://www.meta.ai/",
+            "id": "207"
+          },
+          {
+            "type": "bookmark",
+            "name": "Leonardo.ai",
+            "href": "https://app.leonardo.ai/ai-generations",
+            "id": "110"
           }
         ]
       },
@@ -274,24 +292,6 @@
             "name": "Suno | AI Music",
             "href": "https://suno.com/create?wid=default",
             "id": "209"
-          },
-          {
-            "type": "bookmark",
-            "name": "Meta AI",
-            "href": "https://www.meta.ai/",
-            "id": "207"
-          },
-          {
-            "type": "bookmark",
-            "name": "Google Gemini",
-            "href": "https://gemini.google.com/app",
-            "id": "208"
-          },
-          {
-            "type": "bookmark",
-            "name": "Leonardo.ai",
-            "href": "https://app.leonardo.ai/ai-generations",
-            "id": "110"
           },
           {
             "type": "bookmark",
