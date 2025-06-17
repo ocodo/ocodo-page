@@ -98,6 +98,12 @@
             "name": "YouTube",
             "href": "https://youtube.com/",
             "id": "205"
+          },
+          {
+            "type": "bookmark",
+            "name": "Pixlr PhotoEditor",
+            "href": "https://pixlr.com/e/",
+            "id": "571"
           }
         ]
       },
@@ -298,6 +304,12 @@
             "name": "Google Gemini",
             "href": "https://gemini.google.com/app",
             "id": "208"
+          },
+          {
+            "type": "bookmark",
+            "name": "codepen.io",
+            "href": "https://codepen.io/",
+            "id": "573"
           }
         ]
       },
@@ -494,6 +506,12 @@
             "name": "WikiTok",
             "href": "https://www.wikitok.io/",
             "id": "466"
+          },
+          {
+            "type": "bookmark",
+            "name": "LoFi ATC",
+            "href": "https://www.lofiatc.com/",
+            "id": "572"
           }
         ]
       },
