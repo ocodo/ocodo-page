@@ -225,6 +225,12 @@
             "name": "Zote",
             "href": "https://zote.hub/",
             "id": "581"
+          },
+          {
+            "type": "bookmark",
+            "name": "SANHost API - Docs",
+            "href": "https://sanhost.hub/docs",
+            "id": "582"
           }
         ]
       },
