@@ -168,6 +168,24 @@
           },
           {
             "type": "bookmark",
+            "name": "SAN Host UI for .hub",
+            "href": "https://sanhostui.hub/",
+            "id": "580"
+          },
+          {
+            "type": "bookmark",
+            "name": "SANHost API - Docs",
+            "href": "https://sanhost.hub/docs",
+            "id": "582"
+          },
+          {
+            "type": "bookmark",
+            "name": "Zote",
+            "href": "https://zote.hub/",
+            "id": "581"
+          },
+          {
+            "type": "bookmark",
             "name": "Spotdl",
             "href": "https://spotdl.hub/",
             "id": "211"
@@ -213,24 +231,6 @@
             "name": "Webmin",
             "href": "https://webmin.hub:10000/",
             "id": "219"
-          },
-          {
-            "type": "bookmark",
-            "name": "SAN Host UI for .hub",
-            "href": "https://sanhostui.hub/",
-            "id": "580"
-          },
-          {
-            "type": "bookmark",
-            "name": "Zote",
-            "href": "https://zote.hub/",
-            "id": "581"
-          },
-          {
-            "type": "bookmark",
-            "name": "SANHost API - Docs",
-            "href": "https://sanhost.hub/docs",
-            "id": "582"
           }
         ]
       },
