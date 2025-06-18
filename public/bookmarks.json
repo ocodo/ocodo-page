@@ -219,6 +219,12 @@
             "name": "SAN Host UI for .hub",
             "href": "https://sanhostui.hub/",
             "id": "580"
+          },
+          {
+            "type": "bookmark",
+            "name": "Zote",
+            "href": "https://zote.hub/",
+            "id": "581"
           }
         ]
       },
