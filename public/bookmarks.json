@@ -213,6 +213,12 @@
             "name": "Webmin",
             "href": "https://webmin.hub:10000/",
             "id": "219"
+          },
+          {
+            "type": "bookmark",
+            "name": "SAN Host UI for .hub",
+            "href": "https://sanhostui.hub/",
+            "id": "580"
           }
         ]
       },
