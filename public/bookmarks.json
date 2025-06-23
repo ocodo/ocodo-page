@@ -4,8 +4,8 @@
     "name": "ocodo-links",
     "id": "609",
     "add_date": "2025-06-12T06:49:06.870000+00:00",
-    "last_modified": "2025-06-16T14:41:03+00:00",
-    "position": 0,
+    "last_modified": "2025-06-23T14:39:10+00:00",
+    "position": 1,
     "children": [
       {
         "type": "folder",
@@ -629,7 +629,7 @@
         "name": "pinned-repos",
         "id": "676",
         "add_date": "2025-06-15T04:55:07.551000+00:00",
-        "last_modified": "2025-06-16T14:41:03+00:00",
+        "last_modified": "2025-06-23T08:32:15+00:00",
         "position": 5,
         "children": [
           {
@@ -685,6 +685,24 @@
             "last_modified": "2025-06-16T14:41:03+00:00",
             "position": 5,
             "href": "https://github.com/franken-ui/ui"
+          },
+          {
+            "type": "bookmark",
+            "name": "ocodo/ocodo-mono",
+            "id": "703",
+            "add_date": "2025-06-23T08:19:07.500000+00:00",
+            "last_modified": "2025-06-23T08:32:15+00:00",
+            "position": 6,
+            "href": "https://github.com/ocodo/ocodo-mono"
+          },
+          {
+            "type": "bookmark",
+            "name": "ocodo/uvxytdlp",
+            "id": "704",
+            "add_date": "2025-06-23T08:19:22.560000+00:00",
+            "last_modified": "2025-06-23T08:32:15+00:00",
+            "position": 7,
+            "href": "https://github.com/ocodo/uvxytdlp"
           }
         ]
       },
@@ -693,7 +711,7 @@
         "name": "interesting",
         "id": "679",
         "add_date": "2025-06-15T06:08:31.372000+00:00",
-        "last_modified": "2025-06-21T14:42:18+00:00",
+        "last_modified": "2025-06-23T08:32:15+00:00",
         "position": 6,
         "children": [
           {
@@ -821,6 +839,15 @@
             "last_modified": "2025-06-21T14:42:18+00:00",
             "position": 13,
             "href": "https://yourabbit.com/"
+          },
+          {
+            "type": "bookmark",
+            "name": "Downloads & Manuals | Arturia - The Sound Explorers",
+            "id": "705",
+            "add_date": "2025-06-23T08:18:18.200000+00:00",
+            "last_modified": "2025-06-23T08:32:15+00:00",
+            "position": 14,
+            "href": "https://www.arturia.com/support/downloads-manuals"
           }
         ]
       },
