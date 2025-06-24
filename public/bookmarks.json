@@ -255,9 +255,9 @@
             "name": "uvxytdlp.hub",
             "id": "701",
             "add_date": "2025-06-20T12:36:57.790000+00:00",
-            "last_modified": "2025-06-20T12:40:57+00:00",
+            "last_modified": "2025-06-24T00:39:31+00:00",
             "position": 9,
-            "href": "http://helios:5175/"
+            "href": "http://uvxytdlp.hub/"
           },
           {
             "type": "bookmark",
@@ -842,10 +842,10 @@
           },
           {
             "type": "bookmark",
-            "name": "Downloads & Manuals | Arturia - The Sound Explorers",
+            "name": "Manuals Arturia",
             "id": "705",
             "add_date": "2025-06-23T08:18:18.200000+00:00",
-            "last_modified": "2025-06-23T08:32:15+00:00",
+            "last_modified": "2025-06-23T18:39:20+00:00",
             "position": 14,
             "href": "https://www.arturia.com/support/downloads-manuals"
           }
