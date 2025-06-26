@@ -711,7 +711,7 @@
         "name": "interesting",
         "id": "679",
         "add_date": "2025-06-15T06:08:31.372000+00:00",
-        "last_modified": "2025-06-26T06:28:41+00:00",
+        "last_modified": "2025-06-26T13:43:11+00:00",
         "position": 6,
         "children": [
           {
@@ -857,6 +857,15 @@
             "last_modified": "2025-06-26T06:28:41+00:00",
             "position": 15,
             "href": "https://xtool.sh/tutorials/xtool/first-app/"
+          },
+          {
+            "type": "bookmark",
+            "name": "How to Write Compelling Software Release Announcements · Refactoring English",
+            "id": "716",
+            "add_date": "2025-06-26T08:58:17.290000+00:00",
+            "last_modified": "2025-06-26T13:43:11+00:00",
+            "position": 16,
+            "href": "https://refactoringenglish.com/chapters/release-announcements/"
           }
         ]
       },
