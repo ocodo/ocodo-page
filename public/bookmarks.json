@@ -711,7 +711,7 @@
         "name": "interesting",
         "id": "679",
         "add_date": "2025-06-15T06:08:31.372000+00:00",
-        "last_modified": "2025-06-26T13:43:11+00:00",
+        "last_modified": "2025-06-27T05:49:10+00:00",
         "position": 6,
         "children": [
           {
@@ -866,6 +866,24 @@
             "last_modified": "2025-06-26T13:43:11+00:00",
             "position": 16,
             "href": "https://refactoringenglish.com/chapters/release-announcements/"
+          },
+          {
+            "type": "bookmark",
+            "name": "Ratatui | Ratatui",
+            "id": "717",
+            "add_date": "2025-06-27T05:48:04.950000+00:00",
+            "last_modified": "2025-06-27T05:49:10+00:00",
+            "position": 17,
+            "href": "https://ratatui.rs/"
+          },
+          {
+            "type": "bookmark",
+            "name": "JSON Web Token Introduction - jwt.io",
+            "id": "718",
+            "add_date": "2025-06-27T05:48:48.720000+00:00",
+            "last_modified": "2025-06-27T05:49:10+00:00",
+            "position": 18,
+            "href": "https://jwt.io/introduction"
           }
         ]
       },
