@@ -342,10 +342,10 @@
           },
           {
             "type": "bookmark",
-            "name": "TPLink AX12 Access Point",
+            "name": "TPLink AX12 AP",
             "id": "657",
             "add_date": "2025-06-12T17:36:34.520000+00:00",
-            "last_modified": "2025-06-20T12:40:57+00:00",
+            "last_modified": "2025-06-28T14:27:09.381000+00:00",
             "position": 19,
             "href": "https://tplinkwifi.net/"
           },
@@ -833,10 +833,10 @@
           },
           {
             "type": "bookmark",
-            "name": "🕳️ Internet Rabbit Holes",
+            "name": "Internet Rabbit Holes",
             "id": "702",
             "add_date": "2025-06-21T13:45:48.830000+00:00",
-            "last_modified": "2025-06-21T14:42:18+00:00",
+            "last_modified": "2025-06-28T14:26:29.964000+00:00",
             "position": 13,
             "href": "https://yourabbit.com/"
           },
@@ -851,19 +851,19 @@
           },
           {
             "type": "bookmark",
-            "name": "Build your first iOS app on Linux / Windows — xtool Tutorials | Documentation",
+            "name": "Build iOS app on Linux",
             "id": "715",
             "add_date": "2025-06-26T06:04:03.310000+00:00",
-            "last_modified": "2025-06-26T06:28:41+00:00",
+            "last_modified": "2025-06-28T14:27:32.467000+00:00",
             "position": 15,
             "href": "https://xtool.sh/tutorials/xtool/first-app/"
           },
           {
             "type": "bookmark",
-            "name": "How to Write Compelling Software Release Announcements · Refactoring English",
+            "name": "Write Better Releases PR",
             "id": "716",
             "add_date": "2025-06-26T08:58:17.290000+00:00",
-            "last_modified": "2025-06-26T13:43:11+00:00",
+            "last_modified": "2025-06-28T14:28:23.901000+00:00",
             "position": 16,
             "href": "https://refactoringenglish.com/chapters/release-announcements/"
           },
@@ -878,10 +878,10 @@
           },
           {
             "type": "bookmark",
-            "name": "JSON Web Token Introduction - jwt.io",
+            "name": "jwt.io",
             "id": "718",
             "add_date": "2025-06-27T05:48:48.720000+00:00",
-            "last_modified": "2025-06-27T05:49:10+00:00",
+            "last_modified": "2025-06-28T14:27:56.035000+00:00",
             "position": 18,
             "href": "https://jwt.io/introduction"
           }
