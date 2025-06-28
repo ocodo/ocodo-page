@@ -4,7 +4,7 @@
     "name": "ocodo-links",
     "id": "609",
     "add_date": "2025-06-12T06:49:06.870000+00:00",
-    "last_modified": "2025-06-23T14:39:10+00:00",
+    "last_modified": "2025-06-28T14:30:24.410000+00:00",
     "position": 1,
     "children": [
       {
@@ -629,7 +629,7 @@
         "name": "pinned-repos",
         "id": "676",
         "add_date": "2025-06-15T04:55:07.551000+00:00",
-        "last_modified": "2025-06-23T08:32:15+00:00",
+        "last_modified": "2025-06-28T14:30:24.410000+00:00",
         "position": 5,
         "children": [
           {
@@ -703,6 +703,15 @@
             "last_modified": "2025-06-23T08:32:15+00:00",
             "position": 7,
             "href": "https://github.com/ocodo/uvxytdlp"
+          },
+          {
+            "type": "bookmark",
+            "name": "ocodo/ocodo-2025-emacs - ocodo-2025-emacs - gitcodo",
+            "id": "719",
+            "add_date": "2025-06-28T14:30:24.410000+00:00",
+            "last_modified": "2025-06-28T14:30:24.410000+00:00",
+            "position": 8,
+            "href": "https://gitcodo.hub/ocodo/ocodo-2025-emacs"
           }
         ]
       },
