@@ -629,7 +629,7 @@
         "name": "pinned-repos",
         "id": "676",
         "add_date": "2025-06-15T04:55:07.551000+00:00",
-        "last_modified": "2025-06-28T14:30:24.410000+00:00",
+        "last_modified": "2025-07-01T13:49:48+00:00",
         "position": 5,
         "children": [
           {
@@ -691,7 +691,7 @@
             "name": "ocodo/ocodo-mono",
             "id": "703",
             "add_date": "2025-06-23T08:19:07.500000+00:00",
-            "last_modified": "2025-06-23T08:32:15+00:00",
+            "last_modified": "2025-07-01T13:49:48+00:00",
             "position": 6,
             "href": "https://github.com/ocodo/ocodo-mono"
           },
@@ -700,18 +700,27 @@
             "name": "ocodo/uvxytdlp",
             "id": "704",
             "add_date": "2025-06-23T08:19:22.560000+00:00",
-            "last_modified": "2025-06-23T08:32:15+00:00",
+            "last_modified": "2025-07-01T13:49:48+00:00",
             "position": 7,
             "href": "https://github.com/ocodo/uvxytdlp"
           },
           {
             "type": "bookmark",
-            "name": "ocodo/ocodo-2025-emacs - ocodo-2025-emacs - gitcodo",
-            "id": "719",
-            "add_date": "2025-06-28T14:30:24.410000+00:00",
-            "last_modified": "2025-06-28T14:30:24.410000+00:00",
+            "name": "ocodo/ocomacs github",
+            "id": "722",
+            "add_date": "2025-07-01T13:36:35.360000+00:00",
+            "last_modified": "2025-07-01T13:49:48+00:00",
             "position": 8,
-            "href": "https://gitcodo.hub/ocodo/ocodo-2025-emacs"
+            "href": "https://github.com/ocodo/ocomacs"
+          },
+          {
+            "type": "bookmark",
+            "name": "ocodo/ocomacs gitcodo",
+            "id": "723",
+            "add_date": "2025-07-01T13:36:11.880000+00:00",
+            "last_modified": "2025-07-01T13:49:48+00:00",
+            "position": 9,
+            "href": "https://gitcodo.hub/ocodo/ocomacs"
           }
         ]
       },
@@ -720,7 +729,7 @@
         "name": "interesting",
         "id": "679",
         "add_date": "2025-06-15T06:08:31.372000+00:00",
-        "last_modified": "2025-06-30T08:10:10+00:00",
+        "last_modified": "2025-06-30T14:23:24+00:00",
         "position": 6,
         "children": [
           {
@@ -902,6 +911,24 @@
             "last_modified": "2025-06-30T08:10:10+00:00",
             "position": 19,
             "href": "https://showrss.info/timeline"
+          },
+          {
+            "type": "bookmark",
+            "name": "Model Context Protocol",
+            "id": "455",
+            "add_date": "2025-04-05T02:04:55.248000+00:00",
+            "last_modified": "2025-06-30T08:45:06+00:00",
+            "position": 20,
+            "href": "https://modelcontextprotocol.io/introduction"
+          },
+          {
+            "type": "bookmark",
+            "name": "OKLCH Color Picker & Converter",
+            "id": "721",
+            "add_date": "2025-06-30T13:58:54.420000+00:00",
+            "last_modified": "2025-06-30T14:23:24+00:00",
+            "position": 21,
+            "href": "https://oklch.com/#0.7,0.1,134,100"
           }
         ]
       },
