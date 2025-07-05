@@ -592,7 +592,7 @@
         "name": "font-building",
         "id": "612",
         "add_date": "2025-06-12T07:27:47.070000+00:00",
-        "last_modified": "2025-06-16T14:41:03+00:00",
+        "last_modified": "2025-07-05T10:50:07+00:00",
         "position": 4,
         "children": [
           {
@@ -621,6 +621,24 @@
             "last_modified": "2025-06-16T14:41:03+00:00",
             "position": 2,
             "href": "https://silnrsi.github.io/FDBP/en-US/Font_Naming.html"
+          },
+          {
+            "type": "bookmark",
+            "name": "googlefonts/fontmake",
+            "id": "744",
+            "add_date": "2025-07-05T10:45:22.990000+00:00",
+            "last_modified": "2025-07-05T10:50:07+00:00",
+            "position": 3,
+            "href": "https://github.com/googlefonts/fontmake"
+          },
+          {
+            "type": "bookmark",
+            "name": "adobe-type-tools/afdko",
+            "id": "745",
+            "add_date": "2025-07-05T10:45:27.300000+00:00",
+            "last_modified": "2025-07-05T10:50:07+00:00",
+            "position": 4,
+            "href": "https://github.com/adobe-type-tools/afdko"
           }
         ]
       },
