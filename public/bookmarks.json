@@ -374,7 +374,7 @@
         "name": "frequent",
         "id": "659",
         "add_date": "2025-06-12T17:39:20.357000+00:00",
-        "last_modified": "2025-06-18T01:36:37+00:00",
+        "last_modified": "2025-07-07T10:50:06+00:00",
         "position": 2,
         "children": [
           {
@@ -511,6 +511,15 @@
             "last_modified": "2025-06-18T01:36:37+00:00",
             "position": 14,
             "href": "https://codepen.io/"
+          },
+          {
+            "type": "bookmark",
+            "name": "Lucide",
+            "id": "754",
+            "add_date": "2025-07-07T10:40:45.090000+00:00",
+            "last_modified": "2025-07-07T10:50:06+00:00",
+            "position": 15,
+            "href": "https://lucide.dev/icons/"
           }
         ]
       },
