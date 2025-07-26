@@ -12,7 +12,7 @@
         "name": "quick-access",
         "id": "614",
         "add_date": "2025-06-12T11:52:49.490000+00:00",
-        "last_modified": "2025-07-19T15:53:44+00:00",
+        "last_modified": "2025-07-26T18:00:06+00:00",
         "position": 0,
         "children": [
           {
@@ -158,6 +158,15 @@
             "last_modified": "2025-07-19T15:53:44+00:00",
             "position": 15,
             "href": "https://pixlr.com/e/"
+          },
+          {
+            "type": "bookmark",
+            "name": "HackerNews Best Stories Today",
+            "id": "802",
+            "add_date": "2025-07-26T17:58:40.335000+00:00",
+            "last_modified": "2025-07-26T18:00:06+00:00",
+            "position": 16,
+            "href": "https://hn.hub/"
           }
         ]
       },
