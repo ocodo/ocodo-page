@@ -674,7 +674,7 @@
         "name": "pinned-repos",
         "id": "676",
         "add_date": "2025-06-15T04:55:07.551000+00:00",
-        "last_modified": "2025-07-19T15:53:44+00:00",
+        "last_modified": "2025-07-26T03:00:19+00:00",
         "position": 5,
         "children": [
           {
@@ -793,6 +793,24 @@
             "last_modified": "2025-07-19T15:53:44+00:00",
             "position": 12,
             "href": "https://tsx.is/"
+          },
+          {
+            "type": "bookmark",
+            "name": "SolidJS",
+            "id": "796",
+            "add_date": "2025-07-26T02:40:02.650000+00:00",
+            "last_modified": "2025-07-26T03:00:19+00:00",
+            "position": 13,
+            "href": "https://www.solidjs.com/"
+          },
+          {
+            "type": "bookmark",
+            "name": "Svelte.dev",
+            "id": "797",
+            "add_date": "2025-07-26T02:40:23.340000+00:00",
+            "last_modified": "2025-07-26T03:00:19+00:00",
+            "position": 14,
+            "href": "https://svelte.dev/"
           }
         ]
       },
@@ -801,7 +819,7 @@
         "name": "interesting",
         "id": "679",
         "add_date": "2025-06-15T06:08:31.372000+00:00",
-        "last_modified": "2025-07-25T12:59:30+00:00",
+        "last_modified": "2025-07-26T03:00:19+00:00",
         "position": 6,
         "children": [
           {
@@ -1028,6 +1046,15 @@
             "last_modified": "2025-07-06T04:25:06+00:00",
             "position": 24,
             "href": "https://cheatingdaddy.com/"
+          },
+          {
+            "type": "bookmark",
+            "name": "CSS page tran",
+            "id": "798",
+            "add_date": "2025-07-26T02:39:03.630000+00:00",
+            "last_modified": "2025-07-26T03:00:19+00:00",
+            "position": 25,
+            "href": "https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/"
           }
         ]
       },
