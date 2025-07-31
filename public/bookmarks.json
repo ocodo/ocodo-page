@@ -692,7 +692,7 @@
         "name": "pinned-repos",
         "id": "676",
         "add_date": "2025-06-15T04:55:07.551000+00:00",
-        "last_modified": "2025-07-26T08:50:06+00:00",
+        "last_modified": "2025-07-31T09:30:06+00:00",
         "position": 5,
         "children": [
           {
@@ -847,6 +847,15 @@
             "last_modified": "2025-07-26T08:50:06+00:00",
             "position": 16,
             "href": "https://github.com/dh1011/auto-favicon-mcp/tree/main"
+          },
+          {
+            "type": "bookmark",
+            "name": "Genymobile/scrcpy",
+            "id": "814",
+            "add_date": "2025-07-31T09:23:21.125000+00:00",
+            "last_modified": "2025-07-31T09:30:06+00:00",
+            "position": 17,
+            "href": "https://github.com/Genymobile/scrcpy#tcpip-wireless"
           }
         ]
       },
