@@ -628,7 +628,7 @@
         "name": "font-building",
         "id": "612",
         "add_date": "2025-06-12T07:27:47.070000+00:00",
-        "last_modified": "2025-07-05T10:50:07+00:00",
+        "last_modified": "2025-07-31T09:20:06+00:00",
         "position": 4,
         "children": [
           {
@@ -675,6 +675,15 @@
             "last_modified": "2025-07-05T10:50:07+00:00",
             "position": 4,
             "href": "https://github.com/adobe-type-tools/afdko"
+          },
+          {
+            "type": "bookmark",
+            "name": "Font Hinter",
+            "id": "813",
+            "add_date": "2025-07-31T09:12:21.778000+00:00",
+            "last_modified": "2025-07-31T09:20:06+00:00",
+            "position": 5,
+            "href": "https://everythingfonts.com/font-hinter"
           }
         ]
       },
