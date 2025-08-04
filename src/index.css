@@ -215,4 +215,6 @@ li {
   line-height: 1.1em;
 }
 
-
+.text-xxs {
+  font-size: 8pt;
+}

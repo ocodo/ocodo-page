@@ -35,7 +35,7 @@ export const TextClock: React.FC<TextClockProps> = ({ className, timeOnly, title
   }, [dateTime, timeZone]);
 
   return (
-    <span className={cn("text-xs", className)}>
+    <span className={cn(className)}>
       {title && `${title} `}
       {timeOnly
         ? dateTime.timeNow

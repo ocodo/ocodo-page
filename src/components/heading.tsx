@@ -12,8 +12,8 @@ export function Heading(props: HeadingProps) {
   return (
     <div className='relative'>
       {tinyChildren && (
-        <div className="absolute flex justify-end items-center w-full bg-transparent
-         text-foreground/30 top-1 right-20">
+        <div className="absolute flex flex-row gap-1 justify-end items-center w-full bg-transparent
+         text-foreground/30 top-1 right-13 text-xxs md:text-xs">
           {tinyChildren}
         </div>
       )}
