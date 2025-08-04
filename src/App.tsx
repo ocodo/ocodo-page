@@ -20,7 +20,15 @@ function App() {
   return (
     <OcodoLinksProvider>
       <ThemeProvider>
-        <Heading tinyChildren={<TextClock />} />
+        <Heading tinyChildren={
+          <div className="flex flex-row gap-2 text-xs">
+            <TextClock />
+            <div>/</div>
+            <TextClock timeZone="Europe/London" timeOnly={true} title='London'/>
+            <div>/</div>
+            <TextClock timeZone="Europe/Athens" timeOnly={true} title='Athens'/>
+          </div>
+        } />
         <div className="px-4 gap-4 grid grid-cols-1 md:grid-cols-3">
           {folders.map((folder, index) => (
             <Card className="transition-transform duration-200" key={index}>

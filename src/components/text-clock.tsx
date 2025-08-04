@@ -3,7 +3,9 @@ import { cn } from "@/lib/utils"
 
 interface TextClockProps {
   className?: string
+  title?: string
   timeZone?: string
+  timeOnly?: boolean
 }
 
 const getCurrentDateTime = (tz: string) => {
@@ -21,7 +23,7 @@ const getCurrentDateTime = (tz: string) => {
   };
 };
 
-export const TextClock: React.FC<TextClockProps> = ({ className, timeZone ='Asia/Bangkok' }) => {
+export const TextClock: React.FC<TextClockProps> = ({ className, timeOnly, title, timeZone = 'Asia/Bangkok' }) => {
   const [dateTime, setDateTime] = useState(getCurrentDateTime(timeZone));
 
   useEffect(() => {
@@ -34,7 +36,10 @@ export const TextClock: React.FC<TextClockProps> = ({ className, timeZone ='Asia
 
   return (
     <span className={cn("text-xs", className)}>
-      {dateTime.dateToday} {dateTime.timeNow}
+      {title && `${title} `}
+      {timeOnly
+        ? dateTime.timeNow
+        : `${dateTime.dateToday} ${dateTime.timeNow}`}
     </span>
   )
 }
