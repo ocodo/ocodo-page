@@ -166,7 +166,7 @@
         "name": "hub-services",
         "id": "631",
         "add_date": "2025-06-12T11:53:18.460000+00:00",
-        "last_modified": "2025-07-30T08:21:38+00:00",
+        "last_modified": "2025-08-05T15:11:37+00:00",
         "position": 1,
         "children": [
           {
@@ -392,7 +392,7 @@
         "name": "frequent",
         "id": "659",
         "add_date": "2025-06-12T17:39:20.357000+00:00",
-        "last_modified": "2025-07-25T12:59:30+00:00",
+        "last_modified": "2025-08-05T15:11:37+00:00",
         "position": 2,
         "children": [
           {
@@ -538,6 +538,15 @@
             "last_modified": "2025-07-19T15:53:44+00:00",
             "position": 15,
             "href": "https://codepen.io/"
+          },
+          {
+            "type": "bookmark",
+            "name": "Qwen.Chat",
+            "id": "818",
+            "add_date": "2025-08-05T15:09:51.378000+00:00",
+            "last_modified": "2025-08-05T15:11:37+00:00",
+            "position": 16,
+            "href": "https://chat.qwen.ai/"
           }
         ]
       },
