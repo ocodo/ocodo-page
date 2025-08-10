@@ -157,7 +157,7 @@
         "name": "hub-services",
         "id": "631",
         "add_date": "2025-06-12T11:53:18.460000+00:00",
-        "last_modified": "2025-08-10T17:40:05+00:00",
+        "last_modified": "2025-08-10T18:00:05+00:00",
         "position": 1,
         "children": [
           {
@@ -216,29 +216,11 @@
           },
           {
             "type": "bookmark",
-            "name": "Wake.hub",
-            "id": "642",
-            "add_date": "2025-06-12T17:35:29.100000+00:00",
-            "last_modified": "2025-08-10T17:40:05+00:00",
-            "position": 6,
-            "href": "https://wake.hub/"
-          },
-          {
-            "type": "bookmark",
-            "name": "OllamaUI.hub",
-            "id": "641",
-            "add_date": "2025-06-12T13:08:28.530000+00:00",
-            "last_modified": "2025-08-10T17:40:05+00:00",
-            "position": 7,
-            "href": "https://ollamaui.hub/"
-          },
-          {
-            "type": "bookmark",
             "name": "uvxytdlp.hub",
             "id": "765",
             "add_date": "2025-07-15T11:15:47.960000+00:00",
-            "last_modified": "2025-08-10T17:40:05+00:00",
-            "position": 8,
+            "last_modified": "2025-08-10T18:00:05+00:00",
+            "position": 6,
             "href": "https://uvxytdlp.hub/"
           },
           {
@@ -246,9 +228,27 @@
             "name": "dev.uvxytdlp.hub",
             "id": "701",
             "add_date": "2025-06-20T12:36:57.790000+00:00",
-            "last_modified": "2025-08-10T17:40:05+00:00",
-            "position": 9,
+            "last_modified": "2025-08-10T18:00:05+00:00",
+            "position": 7,
             "href": "https://dev.uvxytdlp.hub/"
+          },
+          {
+            "type": "bookmark",
+            "name": "OllamaUI.hub",
+            "id": "641",
+            "add_date": "2025-06-12T13:08:28.530000+00:00",
+            "last_modified": "2025-08-10T18:00:05+00:00",
+            "position": 8,
+            "href": "https://ollamaui.hub/"
+          },
+          {
+            "type": "bookmark",
+            "name": "Wake.hub",
+            "id": "642",
+            "add_date": "2025-06-12T17:35:29.100000+00:00",
+            "last_modified": "2025-08-10T18:00:05+00:00",
+            "position": 9,
+            "href": "https://wake.hub/"
           },
           {
             "type": "bookmark",
