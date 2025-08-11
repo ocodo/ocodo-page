@@ -4,7 +4,7 @@
     "name": "ocodo-links",
     "id": "609",
     "add_date": "2025-06-12T06:49:06.870000+00:00",
-    "last_modified": "2025-07-20T02:54:09+00:00",
+    "last_modified": "2025-08-11T10:40:05+00:00",
     "position": 2,
     "children": [
       {
@@ -1129,6 +1129,88 @@
         "last_modified": "2025-06-16T14:41:03+00:00",
         "position": 8,
         "href": "https://www.figma.com/design/CIkt7bS8LLHptb5EwoBiK5/WezTerm-Icon--Community-?node-id=1-362&t=5jjtP8oSAkq2I0jq-0"
+      },
+      {
+        "type": "folder",
+        "name": "ai",
+        "id": "841",
+        "add_date": "2025-08-11T10:37:39.340000+00:00",
+        "last_modified": "2025-08-11T10:40:05+00:00",
+        "position": 9,
+        "children": [
+          {
+            "type": "bookmark",
+            "name": "ch.at",
+            "id": "842",
+            "add_date": "2025-08-11T10:37:44.918000+00:00",
+            "last_modified": "2025-08-11T10:40:05+00:00",
+            "position": 0,
+            "href": "https://ch.at/"
+          },
+          {
+            "type": "bookmark",
+            "name": "LMArena",
+            "id": "843",
+            "add_date": "2025-08-11T10:38:24.510000+00:00",
+            "last_modified": "2025-08-11T10:40:05+00:00",
+            "position": 1,
+            "href": "https://lmarena.ai/"
+          },
+          {
+            "type": "bookmark",
+            "name": "Phind",
+            "id": "844",
+            "add_date": "2025-08-11T10:38:42.603000+00:00",
+            "last_modified": "2025-08-11T10:40:05+00:00",
+            "position": 2,
+            "href": "https://www.phind.com/?callbackUrl=https%3A%2F%2Fwww.phind.com%2F"
+          },
+          {
+            "type": "bookmark",
+            "name": "Grok",
+            "id": "845",
+            "add_date": "2025-08-11T10:38:45.742000+00:00",
+            "last_modified": "2025-08-11T10:40:05+00:00",
+            "position": 3,
+            "href": "https://grok.com/"
+          },
+          {
+            "type": "bookmark",
+            "name": "Poe",
+            "id": "846",
+            "add_date": "2025-08-11T10:38:48.984000+00:00",
+            "last_modified": "2025-08-11T10:40:05+00:00",
+            "position": 4,
+            "href": "https://poe.com/"
+          },
+          {
+            "type": "bookmark",
+            "name": "OpenAI Platform",
+            "id": "847",
+            "add_date": "2025-08-11T10:38:52.479000+00:00",
+            "last_modified": "2025-08-11T10:40:05+00:00",
+            "position": 5,
+            "href": "https://platform.openai.com/chat/edit?models=o3"
+          },
+          {
+            "type": "bookmark",
+            "name": "Kimi AI – Kimi K2 is Live",
+            "id": "848",
+            "add_date": "2025-08-11T10:39:00.898000+00:00",
+            "last_modified": "2025-08-11T10:40:05+00:00",
+            "position": 6,
+            "href": "https://www.kimi.com/"
+          },
+          {
+            "type": "bookmark",
+            "name": "Chat with Z.ai - Free AI Chatbot powered by GLM-4.5",
+            "id": "849",
+            "add_date": "2025-08-11T10:39:06.600000+00:00",
+            "last_modified": "2025-08-11T10:40:05+00:00",
+            "position": 7,
+            "href": "https://chat.z.ai/"
+          }
+        ]
       }
     ]
   }
