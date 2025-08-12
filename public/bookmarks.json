@@ -1135,7 +1135,7 @@
         "name": "ai",
         "id": "841",
         "add_date": "2025-08-11T10:37:39.340000+00:00",
-        "last_modified": "2025-08-11T10:40:05+00:00",
+        "last_modified": "2025-08-12T03:40:06+00:00",
         "position": 9,
         "children": [
           {
@@ -1209,6 +1209,15 @@
             "last_modified": "2025-08-11T10:40:05+00:00",
             "position": 7,
             "href": "https://chat.z.ai/"
+          },
+          {
+            "type": "bookmark",
+            "name": "Aman's AI Journal • Primers • AI",
+            "id": "852",
+            "add_date": "2025-08-12T03:36:36.241000+00:00",
+            "last_modified": "2025-08-12T03:40:06+00:00",
+            "position": 8,
+            "href": "https://aman.ai/primers/ai/"
           }
         ]
       }
