@@ -14,6 +14,7 @@ const folders = [
   "misc",
   "pinned-repos",
   "font-building",
+  "ai",
 ]
 
 function App() {
