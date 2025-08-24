@@ -300,9 +300,9 @@
             "name": "SanHost-api",
             "id": "690",
             "add_date": "2025-06-18T01:34:25.510000+00:00",
-            "last_modified": "2025-07-30T08:20:05+00:00",
+            "last_modified": "2025-08-24T16:40:06+00:00",
             "position": 15,
-            "href": "https://sanhost.hub/docs"
+            "href": "https://sanhost.hub/api/docs"
           },
           {
             "type": "bookmark",
