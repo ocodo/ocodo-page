@@ -1,20 +1,50 @@
 @import "tailwindcss";
 
-
+/* HelveticaNeue Font */
 @font-face {
-  src: url("/fonts/FSIndustrieVFStd.woff2") format("woff2");
+  font-family: "HelveticaNeue";
+  src: url("/fonts/HelveticaNeue-Light.woff") format("woff");
+  font-weight: 300;
   font-style: normal;
   font-display: swap;
-  font-family: "FSIndustrie";
+}
+
+@font-face {
+  font-family: "HelveticaNeue";
+  src: url("/fonts/HelveticaNeue.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "HelveticaNeue";
+  src: url("/fonts/HelveticaNeue-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "HelveticaNeue";
+  src: url("/fonts/HelveticaNeue-Bold.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "OcodoMonoNerdFont";
+  src: url("/fonts/OcodoMonoNerdFont-Light.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
 }
 
 :root {
-  /*  
+  --font-mono: OcodoMonoNerdFont;
   --font-sans: HelveticaNeue;
   --default-font-family: HelveticaNeue;
-  */
-  --font-sans: FSIndustrie;
-  --default-font-family: FSIndustrie;
 }
 
 .font-mono {
