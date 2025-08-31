@@ -9,7 +9,7 @@
 }
 
 :root {
-  /*
+  /*  
   --font-sans: HelveticaNeue;
   --default-font-family: HelveticaNeue;
   */
@@ -179,7 +179,6 @@ a:hover {
 li {
   padding: 0;
   margin: 0;
-  font-weight: 100;
   font-size: x-large;
   list-style: none;
   line-height: 1.1em;
