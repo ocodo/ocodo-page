@@ -864,7 +864,7 @@
         "name": "interesting",
         "id": "679",
         "add_date": "2025-06-15T06:08:31.372000+00:00",
-        "last_modified": "2025-08-27T05:50:06+00:00",
+        "last_modified": "2025-09-04T11:20:07+00:00",
         "position": 6,
         "children": [
           {
@@ -1127,6 +1127,15 @@
             "last_modified": "2025-08-27T02:50:06+00:00",
             "position": 28,
             "href": "https://markdown-ui.com/spec/"
+          },
+          {
+            "type": "bookmark",
+            "name": "Install Home Assistant KVM",
+            "id": "1081",
+            "add_date": "2025-09-04T11:15:29.376000+00:00",
+            "last_modified": "2025-09-04T11:20:07+00:00",
+            "position": 29,
+            "href": "https://community.home-assistant.io/t/install-home-assistant-os-with-kvm-on-ubuntu-headless-cli-only/254941/6"
           }
         ]
       },
