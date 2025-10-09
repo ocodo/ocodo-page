@@ -864,7 +864,7 @@
         "name": "interesting",
         "id": "679",
         "add_date": "2025-06-15T06:08:31.372000+00:00",
-        "last_modified": "2025-09-04T11:20:07+00:00",
+        "last_modified": "2025-10-09T04:53:11+00:00",
         "position": 6,
         "children": [
           {
@@ -1136,6 +1136,15 @@
             "last_modified": "2025-09-04T11:20:07+00:00",
             "position": 29,
             "href": "https://community.home-assistant.io/t/install-home-assistant-os-with-kvm-on-ubuntu-headless-cli-only/254941/6"
+          },
+          {
+            "type": "bookmark",
+            "name": "How to Start Bug Bounties",
+            "id": "1173",
+            "add_date": "2025-10-09T04:51:19.252000+00:00",
+            "last_modified": "2025-10-09T04:53:11+00:00",
+            "position": 30,
+            "href": "https://ozguralp.medium.com/how-to-start-bug-bounties-101-how-to-make-a-million-in-4-years-e15ee62d6f4"
           }
         ]
       },
