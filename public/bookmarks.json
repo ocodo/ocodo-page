@@ -216,10 +216,10 @@
           },
           {
             "type": "bookmark",
-            "name": "postbox.hub",
+            "name": "PostBox.hub",
             "id": "1174",
             "add_date": "2025-10-24T05:47:36.044000+00:00",
-            "last_modified": "2025-10-24T07:30:06+00:00",
+            "last_modified": "2025-10-26T02:30:06+00:00",
             "position": 6,
             "href": "https://postbox.hub/"
           },
