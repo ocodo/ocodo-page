@@ -401,7 +401,7 @@
         "name": "frequent",
         "id": "659",
         "add_date": "2025-06-12T17:39:20.357000+00:00",
-        "last_modified": "2025-10-24T09:11:39+00:00",
+        "last_modified": "2025-11-06T03:10:07+00:00",
         "position": 2,
         "children": [
           {
@@ -424,11 +424,20 @@
           },
           {
             "type": "bookmark",
+            "name": "Trending on GitHub",
+            "id": "1178",
+            "add_date": "2025-11-06T03:02:00.105000+00:00",
+            "last_modified": "2025-11-06T03:10:07+00:00",
+            "position": 2,
+            "href": "https://github.com/trending"
+          },
+          {
+            "type": "bookmark",
             "name": "News Minimalist",
             "id": "665",
             "add_date": "2025-06-12T17:37:16.750000+00:00",
-            "last_modified": "2025-10-24T09:11:39+00:00",
-            "position": 2,
+            "last_modified": "2025-11-06T03:10:07+00:00",
+            "position": 3,
             "href": "https://www.newsminimalist.com/"
           },
           {
@@ -436,8 +445,8 @@
             "name": "Hacker News",
             "id": "660",
             "add_date": "2025-06-12T17:37:02.830000+00:00",
-            "last_modified": "2025-10-24T09:11:39+00:00",
-            "position": 3,
+            "last_modified": "2025-11-06T03:10:07+00:00",
+            "position": 4,
             "href": "https://news.ycombinator.com/"
           },
           {
@@ -445,8 +454,8 @@
             "name": "HackerNews Insight",
             "id": "663",
             "add_date": "2025-06-12T17:37:28.900000+00:00",
-            "last_modified": "2025-10-24T09:11:39+00:00",
-            "position": 4,
+            "last_modified": "2025-11-06T03:10:07+00:00",
+            "position": 5,
             "href": "https://hackernews-insight.vercel.app/story-list-by-score"
           },
           {
@@ -454,8 +463,8 @@
             "name": "Firefox Extensions",
             "id": "661",
             "add_date": "2025-06-12T17:37:13.790000+00:00",
-            "last_modified": "2025-10-24T09:11:39+00:00",
-            "position": 5,
+            "last_modified": "2025-11-06T03:10:07+00:00",
+            "position": 6,
             "href": "https://addons.mozilla.org/en-GB/developers/addons"
           },
           {
@@ -463,8 +472,8 @@
             "name": "My Gists",
             "id": "664",
             "add_date": "2025-06-12T17:37:10.020000+00:00",
-            "last_modified": "2025-10-24T09:11:39+00:00",
-            "position": 6,
+            "last_modified": "2025-11-06T03:10:07+00:00",
+            "position": 7,
             "href": "https://gist.github.com/jasonm23/"
           },
           {
@@ -472,8 +481,8 @@
             "name": "LinkHut",
             "id": "666",
             "add_date": "2025-06-12T17:36:53.750000+00:00",
-            "last_modified": "2025-10-24T09:11:39+00:00",
-            "position": 7,
+            "last_modified": "2025-11-06T03:10:07+00:00",
+            "position": 8,
             "href": "https://ln.ht/"
           },
           {
@@ -481,8 +490,8 @@
             "name": "Tmux Cheat Sheet",
             "id": "574",
             "add_date": "2025-06-03T09:06:11.870000+00:00",
-            "last_modified": "2025-10-24T09:11:39+00:00",
-            "position": 8,
+            "last_modified": "2025-11-06T03:10:07+00:00",
+            "position": 9,
             "href": "https://tmuxai.dev/tmux-cheat-sheet/"
           },
           {
@@ -490,8 +499,8 @@
             "name": "VidMix.app",
             "id": "620",
             "add_date": "2025-06-12T11:52:00.670000+00:00",
-            "last_modified": "2025-10-24T09:11:39+00:00",
-            "position": 9,
+            "last_modified": "2025-11-06T03:10:07+00:00",
+            "position": 10,
             "href": "https://vidmix.app/"
           },
           {
@@ -499,8 +508,8 @@
             "name": "Suno | AI Music",
             "id": "640",
             "add_date": "2025-06-14T03:17:15.460000+00:00",
-            "last_modified": "2025-10-24T09:11:39+00:00",
-            "position": 10,
+            "last_modified": "2025-11-06T03:10:07+00:00",
+            "position": 11,
             "href": "https://suno.com/create?wid=default"
           },
           {
@@ -508,8 +517,8 @@
             "name": "RubyOnRemote Jobs",
             "id": "630",
             "add_date": "2025-06-12T11:52:39.390000+00:00",
-            "last_modified": "2025-10-24T09:11:39+00:00",
-            "position": 11,
+            "last_modified": "2025-11-06T03:10:07+00:00",
+            "position": 12,
             "href": "https://rubyonremote.com/"
           },
           {
@@ -517,8 +526,8 @@
             "name": "Deepseek Chat",
             "id": "616",
             "add_date": "2025-06-12T11:51:19.350000+00:00",
-            "last_modified": "2025-10-24T09:11:39+00:00",
-            "position": 12,
+            "last_modified": "2025-11-06T03:10:07+00:00",
+            "position": 13,
             "href": "https://chat.deepseek.com/"
           },
           {
@@ -526,8 +535,8 @@
             "name": "Meta AI",
             "id": "638",
             "add_date": "2025-06-14T03:16:21.270000+00:00",
-            "last_modified": "2025-10-24T09:11:39+00:00",
-            "position": 13,
+            "last_modified": "2025-11-06T03:10:07+00:00",
+            "position": 14,
             "href": "https://www.meta.ai/"
           },
           {
@@ -535,8 +544,8 @@
             "name": "ChatGPT",
             "id": "617",
             "add_date": "2025-06-12T11:51:33.650000+00:00",
-            "last_modified": "2025-10-24T09:11:39+00:00",
-            "position": 14,
+            "last_modified": "2025-11-06T03:10:07+00:00",
+            "position": 15,
             "href": "https://chatgpt.com/"
           },
           {
@@ -544,8 +553,8 @@
             "name": "Google Gemini",
             "id": "639",
             "add_date": "2025-06-14T03:16:33.400000+00:00",
-            "last_modified": "2025-10-24T09:11:39+00:00",
-            "position": 15,
+            "last_modified": "2025-11-06T03:10:07+00:00",
+            "position": 16,
             "href": "https://gemini.google.com/app"
           },
           {
@@ -553,8 +562,8 @@
             "name": "codepen.io",
             "id": "692",
             "add_date": "2025-06-17T08:25:22.360000+00:00",
-            "last_modified": "2025-10-24T09:11:39+00:00",
-            "position": 16,
+            "last_modified": "2025-11-06T03:10:07+00:00",
+            "position": 17,
             "href": "https://codepen.io/"
           },
           {
@@ -562,8 +571,8 @@
             "name": "Qwen.Chat",
             "id": "818",
             "add_date": "2025-08-05T15:09:51.378000+00:00",
-            "last_modified": "2025-10-24T09:11:39+00:00",
-            "position": 17,
+            "last_modified": "2025-11-06T03:10:07+00:00",
+            "position": 18,
             "href": "https://chat.qwen.ai/"
           }
         ]
