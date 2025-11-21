@@ -171,10 +171,10 @@
         "children": [
           {
             "type": "bookmark",
-            "name": "CastBox",
+            "name": "CastBox.hub",
             "id": "1180",
             "add_date": "2025-11-21T02:53:11.686000+00:00",
-            "last_modified": "2025-11-21T03:00:09+00:00",
+            "last_modified": "2025-11-21T06:50:06+00:00",
             "position": 0,
             "href": "https://castbox.hub/"
           },
