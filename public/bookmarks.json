@@ -166,7 +166,7 @@
         "name": "hub-services",
         "id": "631",
         "add_date": "2025-06-12T11:53:18.460000+00:00",
-        "last_modified": "2025-12-02T07:10:16+00:00",
+        "last_modified": "2025-12-02T15:20:07+00:00",
         "position": 1,
         "children": [
           {
@@ -755,7 +755,7 @@
         "name": "pinned-repos",
         "id": "676",
         "add_date": "2025-06-15T04:55:07.551000+00:00",
-        "last_modified": "2025-12-02T05:00:07+00:00",
+        "last_modified": "2025-12-02T15:20:07+00:00",
         "position": 5,
         "children": [
           {
@@ -964,6 +964,69 @@
             "last_modified": "2025-12-02T05:00:07+00:00",
             "position": 22,
             "href": "https://github.com/jonfairbanks/local-rag"
+          },
+          {
+            "type": "bookmark",
+            "name": "mydia: personal media",
+            "id": "1187",
+            "add_date": "2025-12-02T14:26:40.685000+00:00",
+            "last_modified": "2025-12-02T15:20:07+00:00",
+            "position": 23,
+            "href": "https://github.com/getmydia/mydia"
+          },
+          {
+            "type": "bookmark",
+            "name": "NoteDiscovery",
+            "id": "1188",
+            "add_date": "2025-12-02T14:28:33.139000+00:00",
+            "last_modified": "2025-12-02T15:20:07+00:00",
+            "position": 24,
+            "href": "https://github.com/gamosoft/NoteDiscovery"
+          },
+          {
+            "type": "bookmark",
+            "name": "asciimoo/omnom",
+            "id": "1189",
+            "add_date": "2025-12-02T14:30:50.794000+00:00",
+            "last_modified": "2025-12-02T15:20:07+00:00",
+            "position": 25,
+            "href": "https://github.com/asciimoo/omnom"
+          },
+          {
+            "type": "bookmark",
+            "name": "GitHub - murtaza-nasir/speakr: Speakr is a personal, self-hosted web application designed for transcribing audio recordings",
+            "id": "1190",
+            "add_date": "2025-12-02T14:35:36.745000+00:00",
+            "last_modified": "2025-12-02T15:20:07+00:00",
+            "position": 26,
+            "href": "https://github.com/murtaza-nasir/speakr"
+          },
+          {
+            "type": "bookmark",
+            "name": "GitHub - JMS1717/8mb.local: a free local self hosted video compressor webui designed for performance and ease of use. inspired by 8mb.video",
+            "id": "1191",
+            "add_date": "2025-12-02T14:35:27.537000+00:00",
+            "last_modified": "2025-12-02T15:20:07+00:00",
+            "position": 27,
+            "href": "https://github.com/JMS1717/8mb.local"
+          },
+          {
+            "type": "bookmark",
+            "name": "Unsloth AI - Open Source Fine-tuning & RL for LLMs",
+            "id": "1192",
+            "add_date": "2025-12-02T14:52:41.937000+00:00",
+            "last_modified": "2025-12-02T15:20:07+00:00",
+            "position": 28,
+            "href": "https://unsloth.ai/"
+          },
+          {
+            "type": "bookmark",
+            "name": "Quick & Easy Megastructures in Blender - YouTube",
+            "id": "1193",
+            "add_date": "2025-12-02T15:03:52.138000+00:00",
+            "last_modified": "2025-12-02T15:20:07+00:00",
+            "position": 29,
+            "href": "https://m.youtube.com/watch?v=DX36hit2g0s"
           }
         ]
       },
