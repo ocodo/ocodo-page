@@ -746,7 +746,7 @@
         "name": "pinned-repos",
         "id": "676",
         "add_date": "2025-06-15T04:55:07.551000+00:00",
-        "last_modified": "2025-07-31T09:30:06+00:00",
+        "last_modified": "2025-12-02T05:00:07+00:00",
         "position": 5,
         "children": [
           {
@@ -910,6 +910,51 @@
             "last_modified": "2025-07-31T09:30:06+00:00",
             "position": 17,
             "href": "https://github.com/Genymobile/scrcpy#tcpip-wireless"
+          },
+          {
+            "type": "bookmark",
+            "name": "awesome-nano-banana-pro-prompts",
+            "id": "1181",
+            "add_date": "2025-12-02T04:52:55.234000+00:00",
+            "last_modified": "2025-12-02T05:00:07+00:00",
+            "position": 18,
+            "href": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
+          },
+          {
+            "type": "bookmark",
+            "name": "mallahyari/system-design-visualizer:",
+            "id": "1182",
+            "add_date": "2025-12-02T04:53:02.384000+00:00",
+            "last_modified": "2025-12-02T05:00:07+00:00",
+            "position": 19,
+            "href": "https://github.com/mallahyari/system-design-visualizer"
+          },
+          {
+            "type": "bookmark",
+            "name": "Xthebuilder/JRVS: JRVS AI Agen\\",
+            "id": "1183",
+            "add_date": "2025-12-02T04:53:10.339000+00:00",
+            "last_modified": "2025-12-02T05:00:07+00:00",
+            "position": 20,
+            "href": "https://github.com/Xthebuilder/JRVS"
+          },
+          {
+            "type": "bookmark",
+            "name": "leny/spritefusion-pixel-snapper:",
+            "id": "1184",
+            "add_date": "2025-12-02T04:53:16.632000+00:00",
+            "last_modified": "2025-12-02T05:00:07+00:00",
+            "position": 21,
+            "href": "https://github.com/leny/spritefusion-pixel-snapper"
+          },
+          {
+            "type": "bookmark",
+            "name": "jonfairbanks/local-rag",
+            "id": "1185",
+            "add_date": "2025-12-02T04:53:23.837000+00:00",
+            "last_modified": "2025-12-02T05:00:07+00:00",
+            "position": 22,
+            "href": "https://github.com/jonfairbanks/local-rag"
           }
         ]
       },
