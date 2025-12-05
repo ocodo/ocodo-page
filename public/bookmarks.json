@@ -764,7 +764,7 @@
         "name": "pinned-repos",
         "id": "676",
         "add_date": "2025-06-15T04:55:07.551000+00:00",
-        "last_modified": "2025-12-02T15:20:07+00:00",
+        "last_modified": "2025-12-05T15:30:06+00:00",
         "position": 5,
         "children": [
           {
@@ -1036,6 +1036,15 @@
             "last_modified": "2025-12-02T15:20:07+00:00",
             "position": 29,
             "href": "https://m.youtube.com/watch?v=DX36hit2g0s"
+          },
+          {
+            "type": "bookmark",
+            "name": "multiMPV",
+            "id": "1195",
+            "add_date": "2025-12-05T15:26:14.449000+00:00",
+            "last_modified": "2025-12-05T15:30:06+00:00",
+            "position": 30,
+            "href": "https://github.com/goodfella47/multiMPV"
           }
         ]
       },
