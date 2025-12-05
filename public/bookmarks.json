@@ -180,21 +180,21 @@
           },
           {
             "type": "bookmark",
-            "name": "Movies ContentBox",
+            "name": "Movies CouchBox",
             "id": "1194",
             "add_date": "2025-12-04T06:52:17.148000+00:00",
-            "last_modified": "2025-12-04T07:00:06+00:00",
+            "last_modified": "2025-12-05T06:40:06+00:00",
             "position": 1,
-            "href": "https://contentbox.hub/movies"
+            "href": "https://couchbox.hub/movies"
           },
           {
             "type": "bookmark",
-            "name": "ContentBox.hub",
+            "name": "CouchBox.hub",
             "id": "1186",
             "add_date": "2025-12-02T07:07:16.908000+00:00",
-            "last_modified": "2025-12-04T07:00:06+00:00",
+            "last_modified": "2025-12-05T06:40:06+00:00",
             "position": 2,
-            "href": "http://contentbox.hub/"
+            "href": "http://couchbox.hub/"
           },
           {
             "type": "bookmark",
