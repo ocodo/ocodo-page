@@ -764,7 +764,7 @@
         "name": "pinned-repos",
         "id": "676",
         "add_date": "2025-06-15T04:55:07.551000+00:00",
-        "last_modified": "2025-12-12T09:40:07+00:00",
+        "last_modified": "2025-12-14T12:00:07+00:00",
         "position": 5,
         "children": [
           {
@@ -1054,6 +1054,15 @@
             "last_modified": "2025-12-12T09:40:07+00:00",
             "position": 31,
             "href": "https://electron-vite.github.io/guide/core-plugins.html"
+          },
+          {
+            "type": "bookmark",
+            "name": "Penpot.app",
+            "id": "1197",
+            "add_date": "2025-12-14T11:50:21.836000+00:00",
+            "last_modified": "2025-12-14T12:00:07+00:00",
+            "position": 32,
+            "href": "https://penpot.app/"
           }
         ]
       },
@@ -1062,7 +1071,7 @@
         "name": "interesting",
         "id": "679",
         "add_date": "2025-06-15T06:08:31.372000+00:00",
-        "last_modified": "2025-11-10T07:10:13+00:00",
+        "last_modified": "2025-12-14T12:00:07+00:00",
         "position": 6,
         "children": [
           {
@@ -1343,6 +1352,33 @@
             "last_modified": "2025-11-10T07:10:13+00:00",
             "position": 30,
             "href": "https://github.com/RohanAdwankar/oxdraw"
+          },
+          {
+            "type": "bookmark",
+            "name": "So you wanna build a local RAG?",
+            "id": "1198",
+            "add_date": "2025-12-14T11:54:41.875000+00:00",
+            "last_modified": "2025-12-14T12:00:07+00:00",
+            "position": 31,
+            "href": "https://blog.yakkomajuri.com/blog/local-rag"
+          },
+          {
+            "type": "bookmark",
+            "name": "Tiger Style",
+            "id": "1199",
+            "add_date": "2025-12-14T11:56:00.204000+00:00",
+            "last_modified": "2025-12-14T12:00:07+00:00",
+            "position": 32,
+            "href": "https://tigerstyle.dev/"
+          },
+          {
+            "type": "bookmark",
+            "name": "Confessions of a Software Developer: No More Self-Censorship - Kerrick Long (blog)",
+            "id": "1200",
+            "add_date": "2025-12-14T11:58:31.591000+00:00",
+            "last_modified": "2025-12-14T12:00:07+00:00",
+            "position": 33,
+            "href": "https://kerrick.blog/articles/2025/confessions-of-a-software-developer-no-more-self-censorship/"
           }
         ]
       },
