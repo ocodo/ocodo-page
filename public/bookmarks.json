@@ -764,7 +764,7 @@
         "name": "pinned-repos",
         "id": "676",
         "add_date": "2025-06-15T04:55:07.551000+00:00",
-        "last_modified": "2025-12-14T12:00:07+00:00",
+        "last_modified": "2025-12-18T01:20:07+00:00",
         "position": 5,
         "children": [
           {
@@ -1063,6 +1063,33 @@
             "last_modified": "2025-12-14T12:00:07+00:00",
             "position": 32,
             "href": "https://penpot.app/"
+          },
+          {
+            "type": "bookmark",
+            "name": "fosrl/pangolin",
+            "id": "1201",
+            "add_date": "2025-12-17T14:30:54.488000+00:00",
+            "last_modified": "2025-12-18T01:20:07+00:00",
+            "position": 33,
+            "href": "https://github.com/fosrl/pangolin"
+          },
+          {
+            "type": "bookmark",
+            "name": "maxdorninger/MediaManager",
+            "id": "1202",
+            "add_date": "2025-12-17T14:32:56.252000+00:00",
+            "last_modified": "2025-12-18T01:20:07+00:00",
+            "position": 34,
+            "href": "https://github.com/maxdorninger/MediaManager"
+          },
+          {
+            "type": "bookmark",
+            "name": "cgzirim/seek-tune",
+            "id": "1203",
+            "add_date": "2025-12-17T15:00:04.072000+00:00",
+            "last_modified": "2025-12-18T01:20:07+00:00",
+            "position": 35,
+            "href": "https://github.com/cgzirim/seek-tune"
           }
         ]
       },
@@ -1071,7 +1098,7 @@
         "name": "interesting",
         "id": "679",
         "add_date": "2025-06-15T06:08:31.372000+00:00",
-        "last_modified": "2025-12-14T12:00:07+00:00",
+        "last_modified": "2025-12-18T01:20:07+00:00",
         "position": 6,
         "children": [
           {
