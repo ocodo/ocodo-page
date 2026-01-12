@@ -446,7 +446,7 @@
         "name": "frequent",
         "id": "659",
         "add_date": "2025-06-12T17:39:20.357000+00:00",
-        "last_modified": "2025-12-31T02:30:08+00:00",
+        "last_modified": "2026-01-12T19:20:06+00:00",
         "position": 2,
         "children": [
           {
@@ -619,6 +619,15 @@
             "last_modified": "2025-12-31T02:30:08+00:00",
             "position": 18,
             "href": "https://chat.qwen.ai/"
+          },
+          {
+            "type": "bookmark",
+            "name": "Satisfactory Tools",
+            "id": "1221",
+            "add_date": "2026-01-12T19:16:39.996000+00:00",
+            "last_modified": "2026-01-12T19:20:06+00:00",
+            "position": 19,
+            "href": "https://www.satisfactorytools.com/1.0/"
           }
         ]
       },
