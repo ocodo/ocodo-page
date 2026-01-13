@@ -446,7 +446,7 @@
         "name": "frequent",
         "id": "659",
         "add_date": "2025-06-12T17:39:20.357000+00:00",
-        "last_modified": "2026-01-12T19:20:06+00:00",
+        "last_modified": "2026-01-13T04:40:08+00:00",
         "position": 2,
         "children": [
           {
@@ -628,6 +628,15 @@
             "last_modified": "2026-01-12T19:20:06+00:00",
             "position": 19,
             "href": "https://www.satisfactorytools.com/1.0/"
+          },
+          {
+            "type": "bookmark",
+            "name": "Satisfactory - Calculator",
+            "id": "1222",
+            "add_date": "2026-01-13T04:37:54.459000+00:00",
+            "last_modified": "2026-01-13T04:40:08+00:00",
+            "position": 20,
+            "href": "https://satisfactory-calculator.com/"
           }
         ]
       },
