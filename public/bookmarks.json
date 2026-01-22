@@ -1134,7 +1134,7 @@
         "name": "interesting",
         "id": "679",
         "add_date": "2025-06-15T06:08:31.372000+00:00",
-        "last_modified": "2025-12-31T02:30:08+00:00",
+        "last_modified": "2026-01-22T07:40:06+00:00",
         "position": 6,
         "children": [
           {
@@ -1442,6 +1442,24 @@
             "last_modified": "2025-12-31T02:30:08+00:00",
             "position": 33,
             "href": "https://kerrick.blog/articles/2025/confessions-of-a-software-developer-no-more-self-censorship/"
+          },
+          {
+            "type": "bookmark",
+            "name": "leeoniya/uPlot small, fast chart web lib",
+            "id": "1224",
+            "add_date": "2026-01-22T07:37:35.878000+00:00",
+            "last_modified": "2026-01-22T07:40:06+00:00",
+            "position": 34,
+            "href": "https://github.com/leeoniya/uPlot"
+          },
+          {
+            "type": "bookmark",
+            "name": "ChartGPU Beautiful, Charts WebGPU",
+            "id": "1225",
+            "add_date": "2026-01-22T07:38:46.137000+00:00",
+            "last_modified": "2026-01-22T07:40:06+00:00",
+            "position": 35,
+            "href": "https://github.com/ChartGPU/ChartGPU"
           }
         ]
       },
