@@ -42,7 +42,7 @@ jobs:
           version: 10
 
       - name: Build with Vite
-        run: pnpm run build -- --base "./"
+        run: pnpx vite build
 
       - name: Correct asset paths
         run: |
