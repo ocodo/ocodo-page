@@ -1,6 +1,6 @@
 import type React from 'react';
-import { createContext, useContext, useEffect, useState, useCallback } from 'react';
-
+import { createContext, useContext, useEffect, useState, useCallback, type Dispatch, type SetStateAction, type RefObject, useRef, type RefAttributes } from 'react';
+import { useLocalStorage } from 'react-use';
 
 export interface Bookmark {
   type: "bookmark";
@@ -15,7 +15,6 @@ export interface Bookmark {
   children?: BookmarkItem[];
 }
 
-
 export interface Folder {
   type: "folder";
   name: string;
@@ -25,41 +24,58 @@ export interface Folder {
   children: BookmarkItem[];
 }
 
-
 export interface Separator {
   type: "separator";
 }
-
 
 export type BookmarkItem = Bookmark | Folder | Separator;
 
 interface OcodoLinksContextType {
   ocodoLinksRootFolder: Folder | null;
-  getBookmarksByFolderName: (folderName: string) => Bookmark[];
   loading: boolean;
   error: Error | null;
+  findFolderRecursive: (items: BookmarkItem[], folderName: string) => Folder | undefined;
+  getBookmarksByFolderName: (folderName: string) => Bookmark[];
+  getAvailableFolders: () => Folder[];
+  folders: string[] | undefined;
+  setFolders: Dispatch<SetStateAction<string[] | undefined>>;
+  selectFromAvailableFoldersRef: RefObject<HTMLDivElement | null>;
 }
+
+export const defaultFolders = [
+  "quick-access",
+  "hub-services",
+  "frequent",
+  "interesting",
+  "React Research",
+  "pinned-repos",
+  "ai",
+  "misc",
+  "font-building",
+]
 
 const OcodoLinksContext = createContext<OcodoLinksContextType | undefined>(undefined);
 
-const findFolderRecursive = (items: BookmarkItem[], folderName: string): Folder | undefined => {
-  for (const item of items) {
-    if (item.type === 'folder') {
-      if (item.name === folderName) {
-        return item;
-      }
-
-      const nestedFind = findFolderRecursive(item.children, folderName);
-      if (nestedFind) return nestedFind;
-    }
-  }
-  return undefined;
-};
-
 export const OcodoLinksProvider: React.FC<{ children: React.ReactNode }> = ({ children }) => {
+  const [folders, setFolders] = useLocalStorage<string[]>('folders', defaultFolders)
   const [ocodoLinksRootFolder, setOcodoLinksRootFolder] = useState<Folder | null>(null);
   const [loading, setLoading] = useState<boolean>(true);
   const [error, setError] = useState<Error | null>(null);
+  const selectFromAvailableFoldersRef = useRef<HTMLDivElement | null>(null);
+
+  const findFolderRecursive = (items: BookmarkItem[], folderName: string): Folder | undefined => {
+    for (const item of items) {
+      if (item.type === 'folder') {
+        if (item.name === folderName) {
+          return item;
+        }
+
+        const nestedFind = findFolderRecursive(item.children, folderName);
+        if (nestedFind) return nestedFind;
+      }
+    }
+    return undefined;
+  };
 
   useEffect(() => {
     const OCODO_LINKS_TARGET_FOLDER_TITLE = "ocodo-links";
@@ -93,19 +109,18 @@ export const OcodoLinksProvider: React.FC<{ children: React.ReactNode }> = ({ ch
     fetchAndSetTargetFolder();
   }, []);
 
+  const getAvailableFolders = () => ocodoLinksRootFolder ? ocodoLinksRootFolder.children.filter((e) => e.type === 'folder') : []
+
   const getBookmarksByFolderName = useCallback((subFolderName: string): Bookmark[] => {
     if (!ocodoLinksRootFolder) {
       return [];
     }
-
 
     const targetSubFolder = findFolderRecursive(ocodoLinksRootFolder.children, subFolderName);
 
     if (!targetSubFolder) {
       return [];
     }
-
-
 
     const bookmarks: Bookmark[] = targetSubFolder.children.filter(
       (item): item is Bookmark => item.type === 'bookmark'
@@ -114,7 +129,19 @@ export const OcodoLinksProvider: React.FC<{ children: React.ReactNode }> = ({ ch
   }, [ocodoLinksRootFolder]);
 
   return (
-    <OcodoLinksContext.Provider value={{ ocodoLinksRootFolder, getBookmarksByFolderName, loading, error }}>
+    <OcodoLinksContext.Provider
+      value={{
+        ocodoLinksRootFolder,
+        getBookmarksByFolderName,
+        getAvailableFolders,
+        loading,
+        error,
+        folders,
+        findFolderRecursive,
+        setFolders,
+        selectFromAvailableFoldersRef,
+      }}
+    >
       {children}
     </OcodoLinksContext.Provider>
   );
