@@ -42,27 +42,10 @@ jobs:
           version: 10
 
       - name: pnpm install
-        run: pnpm install --save
+        run: pnpm install
 
       - name: Build with Vite
         run: pnpx vite build
-
-      - name: Correct asset paths
-        run: |
-            cd ./dist
-            sed -i'' -e 's|url(/fonts|url(../fonts|g' assets/index*css
-
-            cat <<EOD  | tee -a $GITHUB_STEP_SUMMARY
-            # Review Font css urls
-
-            \`\`\`
-            $(grep -Po 'url\(.*?;' assets/index*css)
-            \`\`\`
-
-            EOD
-
-            # Done
-
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
