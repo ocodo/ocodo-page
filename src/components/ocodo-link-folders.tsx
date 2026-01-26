@@ -3,8 +3,6 @@ import { cn } from "@/lib/utils"
 import type { FC } from "react"
 
 export const OcodoLinkFolders: FC = () => {
-
-
   const folders = [
     "quick-access",
     "hub-services",
