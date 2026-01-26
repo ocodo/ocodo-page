@@ -1134,7 +1134,7 @@
         "name": "interesting",
         "id": "679",
         "add_date": "2025-06-15T06:08:31.372000+00:00",
-        "last_modified": "2026-01-26T00:41:38+00:00",
+        "last_modified": "2026-01-26T01:50:06+00:00",
         "position": 6,
         "children": [
           {
@@ -1460,6 +1460,15 @@
             "last_modified": "2026-01-22T07:40:06+00:00",
             "position": 35,
             "href": "https://github.com/ChartGPU/ChartGPU"
+          },
+          {
+            "type": "bookmark",
+            "name": "Qwen3-TTS - a Qwen Collection",
+            "id": "1246",
+            "add_date": "2026-01-26T01:49:50.737000+00:00",
+            "last_modified": "2026-01-26T01:50:06+00:00",
+            "position": 36,
+            "href": "https://huggingface.co/collections/Qwen/qwen3-tts"
           }
         ]
       },
