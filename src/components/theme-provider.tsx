@@ -1,9 +1,9 @@
 import React, { useEffect } from "react";
-import { useLocalStorage } from "@/hooks/use-local-storage";
-import { ThemeContext } from "@/contexts/theme-context";
+import { ThemeContext, type Theme } from "@/contexts/theme-context";
+import { useLocalStorage } from "react-use";
 
 export const ThemeProvider: React.FC<{ children: React.ReactNode }> = ({ children }) => {
-  const [theme, setTheme] = useLocalStorage("theme", "light");
+  const [theme, setTheme] = useLocalStorage<Theme>("theme", "light");
 
   useEffect(() =>
     theme == 'dark'
@@ -11,6 +11,7 @@ export const ThemeProvider: React.FC<{ children: React.ReactNode }> = ({ childre
       : document.body.classList.remove('dark')
   , [theme])
 
+  // Default to dark
   const toggleTheme = () =>
     (theme == 'light')
       ? setTheme('dark')
