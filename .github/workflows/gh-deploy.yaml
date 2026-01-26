@@ -41,6 +41,9 @@ jobs:
         with:
           version: 10
 
+      - name: pnpm install
+        run: pnpm install --save
+
       - name: Build with Vite
         run: pnpx vite build
 
