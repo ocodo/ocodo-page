@@ -1,5 +1,6 @@
 import type React from 'react';
-import { createContext, useContext, useEffect, useState, useCallback, type Dispatch, type SetStateAction, type RefObject, useRef, type RefAttributes } from 'react';
+import { createContext, useContext, useEffect, useState, useCallback, useRef } from 'react';
+import type { Dispatch, SetStateAction, RefObject } from 'react'
 import { useLocalStorage } from 'react-use';
 
 export interface Bookmark {
@@ -47,7 +48,7 @@ export const defaultFolders = [
   "hub-services",
   "frequent",
   "interesting",
-  "React Research",
+  "react-topics",
   "pinned-repos",
   "ai",
   "misc",
@@ -92,6 +93,8 @@ export const OcodoLinksProvider: React.FC<{ children: React.ReactNode }> = ({ ch
         }
 
         const data: BookmarkItem[] = await response.json();
+        console.log(`Bookmark Data`)
+        console.log(data)
         const targetFolder = findFolderRecursive(data, OCODO_LINKS_TARGET_FOLDER_TITLE);
 
         if (targetFolder) {
