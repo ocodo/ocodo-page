@@ -1,36 +1,36 @@
 import type React from 'react';
 import { createContext, useContext, useEffect, useState, useCallback } from 'react';
 
-// Represents a bookmark link
+
 export interface Bookmark {
   type: "bookmark";
-  name: string; // From text content of <a>
-  href: string; // From 'href' attribute
-  id: string;   // From 'id' attribute
-  tags?: string; // From 'tags' attribute
-  add_date?: string; // From 'add_date' attribute
-  last_modified?: string; // From 'last_modified' attribute
-  icon?: string; // From 'icon' attribute
-  icon_uri?: string; // From 'icon_uri' attribute
-  children?: BookmarkItem[]; // Typically undefined or empty for a bookmark if field is omitted/null
+  name: string;
+  href: string;
+  id: string;
+  tags?: string;
+  add_date?: string;
+  last_modified?: string;
+  icon?: string;
+  icon_uri?: string;
+  children?: BookmarkItem[];
 }
 
-// Represents a folder, which can contain other items
+
 export interface Folder {
   type: "folder";
-  name: string; // From text content of <h3>
-  id: string;   // From 'id' attribute
-  add_date?: string;      // From 'add_date' attribute
-  last_modified?: string; // From 'last_modified' attribute
-  children: BookmarkItem[]; // Contains Bookmarks, other Folders, or Separators. Guaranteed non-nil array.
+  name: string;
+  id: string;
+  add_date?: string;
+  last_modified?: string;
+  children: BookmarkItem[];
 }
 
-// Represents a separator
+
 export interface Separator {
   type: "separator";
 }
 
-// Union type for any item in the bookmarks structure
+
 export type BookmarkItem = Bookmark | Folder | Separator;
 
 interface OcodoLinksContextType {
@@ -48,7 +48,7 @@ const findFolderRecursive = (items: BookmarkItem[], folderName: string): Folder 
       if (item.name === folderName) {
         return item;
       }
-      // Folders always have a Children array (possibly empty)
+
       const nestedFind = findFolderRecursive(item.children, folderName);
       if (nestedFind) return nestedFind;
     }
@@ -74,7 +74,7 @@ export const OcodoLinksProvider: React.FC<{ children: React.ReactNode }> = ({ ch
             throw new Error(`HTTP error! status: ${response.status}`);
           }
         }
-        // The new bookmarks.json is expected to be an array of BookmarkItem
+
         const data: BookmarkItem[] = await response.json();
         const targetFolder = findFolderRecursive(data, OCODO_LINKS_TARGET_FOLDER_TITLE);
 
@@ -94,19 +94,19 @@ export const OcodoLinksProvider: React.FC<{ children: React.ReactNode }> = ({ ch
   }, []);
 
   const getBookmarksByFolderName = useCallback((subFolderName: string): Bookmark[] => {
-    if (!ocodoLinksRootFolder) { // ocodoLinksRootFolder is of type Folder | null
+    if (!ocodoLinksRootFolder) {
       return [];
     }
-    // ocodoLinksRootFolder.Children is guaranteed to be BookmarkItem[] for a Folder
+
 
     const targetSubFolder = findFolderRecursive(ocodoLinksRootFolder.children, subFolderName);
 
-    if (!targetSubFolder) { // targetSubFolder is of type Folder | undefined
+    if (!targetSubFolder) {
       return [];
     }
-    // targetSubFolder is now a Folder, so targetSubFolder.Children exists and is BookmarkItem[]
 
-    // Filter in items of Type "bookmark" from the subfolder's children
+
+
     const bookmarks: Bookmark[] = targetSubFolder.children.filter(
       (item): item is Bookmark => item.type === 'bookmark'
     );
