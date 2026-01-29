@@ -12,7 +12,7 @@
         "name": "quick-access",
         "id": "614",
         "add_date": "2025-06-12T11:52:49.490000+00:00",
-        "last_modified": "2026-01-28T14:30:06+00:00",
+        "last_modified": "2026-01-29T15:10:06+00:00",
         "position": 0,
         "children": [
           {
@@ -176,6 +176,15 @@
             "last_modified": "2026-01-28T14:30:06+00:00",
             "position": 17,
             "href": "https://pixlr.com/e/"
+          },
+          {
+            "type": "bookmark",
+            "name": "Philip K Dick - YouTube",
+            "id": "1265",
+            "add_date": "2026-01-29T15:07:58.780000+00:00",
+            "last_modified": "2026-01-29T15:10:06+00:00",
+            "position": 18,
+            "href": "https://www.youtube.com/@philipkdickaudiobook/playlists"
           }
         ]
       },
