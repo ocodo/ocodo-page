@@ -818,7 +818,7 @@
         "name": "pinned-repos",
         "id": "676",
         "add_date": "2025-06-15T04:55:07.551000+00:00",
-        "last_modified": "2026-01-27T01:20:08+00:00",
+        "last_modified": "2026-01-30T07:10:07+00:00",
         "position": 5,
         "children": [
           {
@@ -1144,6 +1144,24 @@
             "last_modified": "2026-01-27T01:20:08+00:00",
             "position": 35,
             "href": "https://github.com/cgzirim/seek-tune"
+          },
+          {
+            "type": "bookmark",
+            "name": "[Feature]: Remember last position on windows · Issue #1570 · jeffvli/feishin",
+            "id": "1267",
+            "add_date": "2026-01-30T07:08:45.010000+00:00",
+            "last_modified": "2026-01-30T07:10:07+00:00",
+            "position": 36,
+            "href": "https://github.com/jeffvli/feishin/issues/1570"
+          },
+          {
+            "type": "bookmark",
+            "name": "my modern full screen simple theme · jeffvli/feishin · Discussion #1478",
+            "id": "1268",
+            "add_date": "2026-01-30T07:08:52.670000+00:00",
+            "last_modified": "2026-01-30T07:10:07+00:00",
+            "position": 37,
+            "href": "https://github.com/jeffvli/feishin/discussions/1478"
           }
         ]
       },
