@@ -12,7 +12,7 @@
         "name": "quick-access",
         "id": "614",
         "add_date": "2025-06-12T11:52:49.490000+00:00",
-        "last_modified": "2026-01-29T15:10:06+00:00",
+        "last_modified": "2026-02-06T15:01:39+00:00",
         "position": 0,
         "children": [
           {
@@ -185,6 +185,15 @@
             "last_modified": "2026-01-29T15:10:06+00:00",
             "position": 18,
             "href": "https://www.youtube.com/@philipkdickaudiobook/playlists"
+          },
+          {
+            "type": "bookmark",
+            "name": "CSS Navbar Hover Effects Library | Menu Hover",
+            "id": "1269",
+            "add_date": "2026-02-06T15:00:59.615000+00:00",
+            "last_modified": "2026-02-06T15:01:39+00:00",
+            "position": 19,
+            "href": "https://menuhover.com/"
           }
         ]
       },
