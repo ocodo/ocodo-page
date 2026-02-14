@@ -1197,7 +1197,7 @@
         "name": "interesting",
         "id": "679",
         "add_date": "2025-06-15T06:08:31.372000+00:00",
-        "last_modified": "2026-01-30T05:20:07+00:00",
+        "last_modified": "2026-02-14T04:41:40+00:00",
         "position": 6,
         "children": [
           {
@@ -1550,6 +1550,15 @@
             "last_modified": "2026-01-30T05:20:07+00:00",
             "position": 38,
             "href": "https://github.com/tensorflow/docs/blob/master/site/en/hub/tutorials/spice.ipynb"
+          },
+          {
+            "type": "bookmark",
+            "name": "Nektar Panorama - Ableton Live Setup",
+            "id": "1274",
+            "add_date": "2026-02-14T04:40:11.006000+00:00",
+            "last_modified": "2026-02-14T04:41:40+00:00",
+            "position": 39,
+            "href": "https://nektartech.com/ableton-live-setup-and-troubleshooting-panorama-p-series/"
           }
         ]
       },
