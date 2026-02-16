@@ -854,7 +854,7 @@
         "name": "pinned-repos",
         "id": "676",
         "add_date": "2025-06-15T04:55:07.551000+00:00",
-        "last_modified": "2026-01-30T07:10:07+00:00",
+        "last_modified": "2026-02-16T01:11:39+00:00",
         "position": 5,
         "children": [
           {
@@ -1198,6 +1198,15 @@
             "last_modified": "2026-01-30T07:10:07+00:00",
             "position": 37,
             "href": "https://github.com/jeffvli/feishin/discussions/1478"
+          },
+          {
+            "type": "bookmark",
+            "name": "forrestchang/andrej-karpathy-skills",
+            "id": "1276",
+            "add_date": "2026-02-16T01:10:48.149000+00:00",
+            "last_modified": "2026-02-16T01:11:39+00:00",
+            "position": 38,
+            "href": "https://github.com/forrestchang/andrej-karpathy-skills"
           }
         ]
       },
