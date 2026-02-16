@@ -12,7 +12,7 @@
         "name": "quick-access",
         "id": "614",
         "add_date": "2025-06-12T11:52:49.490000+00:00",
-        "last_modified": "2026-02-13T05:30:07+00:00",
+        "last_modified": "2026-02-16T01:00:06+00:00",
         "position": 0,
         "children": [
           {
@@ -194,6 +194,15 @@
             "last_modified": "2026-02-06T15:01:39+00:00",
             "position": 19,
             "href": "https://menuhover.com/"
+          },
+          {
+            "type": "bookmark",
+            "name": "Carl Sagan's Baloney Detection Kit",
+            "id": "1275",
+            "add_date": "2026-02-16T00:59:36.692000+00:00",
+            "last_modified": "2026-02-16T01:00:06+00:00",
+            "position": 20,
+            "href": "https://www.openculture.com/2025/09/the-carl-sagan-baloney-detection-kit.html"
           }
         ]
       },
