@@ -211,7 +211,7 @@
         "name": "hub-services",
         "id": "631",
         "add_date": "2025-06-12T11:53:18.460000+00:00",
-        "last_modified": "2026-02-16T13:40:06+00:00",
+        "last_modified": "2026-02-20T19:30:06+00:00",
         "position": 1,
         "children": [
           {
@@ -360,20 +360,11 @@
           },
           {
             "type": "bookmark",
-            "name": "MediaBox",
-            "id": "643",
-            "add_date": "2025-06-12T17:35:37.340000+00:00",
-            "last_modified": "2026-02-16T13:40:06+00:00",
-            "position": 16,
-            "href": "https://mediabox.hub/"
-          },
-          {
-            "type": "bookmark",
             "name": "VideoBox.hub",
             "id": "646",
             "add_date": "2025-06-12T17:35:51.660000+00:00",
-            "last_modified": "2026-02-16T13:40:06+00:00",
-            "position": 17,
+            "last_modified": "2026-02-20T19:30:06+00:00",
+            "position": 16,
             "href": "https://videobox.hub/"
           },
           {
@@ -381,8 +372,8 @@
             "name": "SANHost.hub",
             "id": "689",
             "add_date": "2025-06-18T01:30:21.900000+00:00",
-            "last_modified": "2026-02-16T13:40:06+00:00",
-            "position": 18,
+            "last_modified": "2026-02-20T19:30:06+00:00",
+            "position": 17,
             "href": "https://sanhost.hub/"
           },
           {
@@ -390,8 +381,8 @@
             "name": "SANHost-api",
             "id": "690",
             "add_date": "2025-06-18T01:34:25.510000+00:00",
-            "last_modified": "2026-02-16T13:40:06+00:00",
-            "position": 19,
+            "last_modified": "2026-02-20T19:30:06+00:00",
+            "position": 18,
             "href": "https://sanhost.hub/api/docs"
           },
           {
@@ -399,8 +390,8 @@
             "name": "Zote",
             "id": "691",
             "add_date": "2025-06-18T01:30:44.810000+00:00",
-            "last_modified": "2026-02-16T13:40:06+00:00",
-            "position": 20,
+            "last_modified": "2026-02-20T19:30:06+00:00",
+            "position": 19,
             "href": "https://zote.hub/"
           },
           {
@@ -408,8 +399,8 @@
             "name": "Spotdl",
             "id": "650",
             "add_date": "2025-06-12T17:36:09.790000+00:00",
-            "last_modified": "2026-02-16T13:40:06+00:00",
-            "position": 21,
+            "last_modified": "2026-02-20T19:30:06+00:00",
+            "position": 20,
             "href": "https://spotdl.hub/"
           },
           {
@@ -417,8 +408,8 @@
             "name": "Navidrome",
             "id": "651",
             "add_date": "2025-06-12T17:36:12.980000+00:00",
-            "last_modified": "2026-02-16T13:40:06+00:00",
-            "position": 22,
+            "last_modified": "2026-02-20T19:30:06+00:00",
+            "position": 21,
             "href": "https://music.hub/"
           },
           {
@@ -426,8 +417,8 @@
             "name": "Transmissionic",
             "id": "652",
             "add_date": "2025-06-12T17:36:16.450000+00:00",
-            "last_modified": "2026-02-16T13:40:06+00:00",
-            "position": 23,
+            "last_modified": "2026-02-20T19:30:06+00:00",
+            "position": 22,
             "href": "https://transmission.hub/"
           },
           {
@@ -435,8 +426,8 @@
             "name": "pihole.hub",
             "id": "654",
             "add_date": "2025-06-12T17:38:55.819000+00:00",
-            "last_modified": "2026-02-16T13:40:06+00:00",
-            "position": 24,
+            "last_modified": "2026-02-20T19:30:06+00:00",
+            "position": 23,
             "href": "https://pihole.hub/"
           },
           {
@@ -444,8 +435,8 @@
             "name": "3bb Home Router",
             "id": "655",
             "add_date": "2025-06-12T17:36:28.150000+00:00",
-            "last_modified": "2026-02-16T13:40:06+00:00",
-            "position": 25,
+            "last_modified": "2026-02-20T19:30:06+00:00",
+            "position": 24,
             "href": "http://10.0.0.1/"
           },
           {
@@ -453,8 +444,8 @@
             "name": "Asus Access Point",
             "id": "656",
             "add_date": "2025-06-12T17:36:30.910000+00:00",
-            "last_modified": "2026-02-16T13:40:06+00:00",
-            "position": 26,
+            "last_modified": "2026-02-20T19:30:06+00:00",
+            "position": 25,
             "href": "https://10.0.0.3:8443/Main_Login.asp"
           },
           {
@@ -462,18 +453,9 @@
             "name": "TPLink AX12 AP",
             "id": "657",
             "add_date": "2025-06-12T17:36:34.520000+00:00",
-            "last_modified": "2026-02-16T13:40:06+00:00",
-            "position": 27,
+            "last_modified": "2026-02-20T19:30:06+00:00",
+            "position": 26,
             "href": "https://tplinkwifi.net/"
-          },
-          {
-            "type": "bookmark",
-            "name": "CouchBox - over VPN",
-            "id": "1223",
-            "add_date": "2026-01-14T11:28:06.487000+00:00",
-            "last_modified": "2026-02-16T13:40:06+00:00",
-            "position": 28,
-            "href": "http://100.95.22.72:3911/"
           }
         ]
       },
