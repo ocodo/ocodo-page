@@ -2075,7 +2075,7 @@
         "name": "recipes",
         "id": "1306",
         "add_date": "2026-02-20T12:16:54.942000+00:00",
-        "last_modified": "2026-02-23T07:10:06+00:00",
+        "last_modified": "2026-02-23T09:20:06+00:00",
         "position": 13,
         "children": [
           {
@@ -2122,6 +2122,15 @@
             "last_modified": "2026-02-23T07:10:06+00:00",
             "position": 4,
             "href": "https://hot-thai-kitchen.com/category/all-recipes/"
+          },
+          {
+            "type": "bookmark",
+            "name": "Instant Pot Chickpeas",
+            "id": "1312",
+            "add_date": "2026-02-23T09:18:57.273000+00:00",
+            "last_modified": "2026-02-23T09:20:06+00:00",
+            "position": 5,
+            "href": "https://minimalistbaker.com/instant-pot-chickpeas/"
           }
         ]
       }
