@@ -827,7 +827,7 @@
         "name": "pinned-repos",
         "id": "676",
         "add_date": "2025-06-15T04:55:07.551000+00:00",
-        "last_modified": "2026-02-16T01:11:39+00:00",
+        "last_modified": "2026-03-05T11:00:06+00:00",
         "position": 5,
         "children": [
           {
@@ -1147,21 +1147,21 @@
           },
           {
             "type": "bookmark",
-            "name": "cgzirim/seek-tune",
-            "id": "1203",
-            "add_date": "2025-12-17T15:00:04.072000+00:00",
-            "last_modified": "2026-01-27T01:20:08+00:00",
-            "position": 35,
-            "href": "https://github.com/cgzirim/seek-tune"
-          },
-          {
-            "type": "bookmark",
             "name": "[Feature]: Remember last position on windows · Issue #1570 · jeffvli/feishin",
             "id": "1267",
             "add_date": "2026-01-30T07:08:45.010000+00:00",
-            "last_modified": "2026-01-30T07:10:07+00:00",
-            "position": 36,
+            "last_modified": "2026-03-05T11:00:06+00:00",
+            "position": 35,
             "href": "https://github.com/jeffvli/feishin/issues/1570"
+          },
+          {
+            "type": "bookmark",
+            "name": "cgzirim/seek-tune",
+            "id": "1203",
+            "add_date": "2025-12-17T15:00:04.072000+00:00",
+            "last_modified": "2026-03-05T11:00:06+00:00",
+            "position": 36,
+            "href": "https://github.com/cgzirim/seek-tune"
           },
           {
             "type": "bookmark",
@@ -1848,7 +1848,7 @@
         "name": "Books",
         "id": "1272",
         "add_date": "2026-02-13T05:23:54.705000+00:00",
-        "last_modified": "2026-02-13T05:30:07+00:00",
+        "last_modified": "2026-03-05T11:00:06+00:00",
         "position": 11,
         "children": [
           {
@@ -1859,6 +1859,15 @@
             "last_modified": "2026-02-13T05:30:07+00:00",
             "position": 0,
             "href": "https://fontsinuse.com/uses/40764/philip-k-dick-paperback-covers-panther-scienc"
+          },
+          {
+            "type": "bookmark",
+            "name": "The Day Mr. Dick Fell Out of His Tree – Jumbled Thoughts of a Fake Geek Boy",
+            "id": "1315",
+            "add_date": "2026-03-05T06:50:08.959000+00:00",
+            "last_modified": "2026-03-05T11:00:06+00:00",
+            "position": 1,
+            "href": "https://fakegeekboy.wordpress.com/2021/01/02/the-day-mr-dick-fell-out-of-his-tree/"
           }
         ]
       },
