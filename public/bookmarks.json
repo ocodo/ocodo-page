@@ -791,7 +791,7 @@
         "name": "pinned-repos",
         "id": "676",
         "add_date": "2025-06-15T04:55:07.551000+00:00",
-        "last_modified": "2026-03-11T23:31:38+00:00",
+        "last_modified": "2026-03-12T05:40:06+00:00",
         "position": 5,
         "children": [
           {
@@ -1153,6 +1153,60 @@
             "last_modified": "2026-03-11T23:31:38+00:00",
             "position": 39,
             "href": "https://github.com/yousifamanuel/terraink"
+          },
+          {
+            "type": "bookmark",
+            "name": "deepseek-ai/Engram",
+            "id": "1323",
+            "add_date": "2026-03-11T23:32:19.085000+00:00",
+            "last_modified": "2026-03-12T05:40:06+00:00",
+            "position": 40,
+            "href": "https://github.com/deepseek-ai/Engram"
+          },
+          {
+            "type": "bookmark",
+            "name": "open-webui/open-terminal",
+            "id": "1324",
+            "add_date": "2026-03-11T23:34:45.094000+00:00",
+            "last_modified": "2026-03-12T05:40:06+00:00",
+            "position": 41,
+            "href": "https://github.com/open-webui/open-terminal"
+          },
+          {
+            "type": "bookmark",
+            "name": "jgravelle/jcodemunch-mcp",
+            "id": "1325",
+            "add_date": "2026-03-11T23:35:29.146000+00:00",
+            "last_modified": "2026-03-12T05:40:06+00:00",
+            "position": 42,
+            "href": "https://github.com/jgravelle/jcodemunch-mcp"
+          },
+          {
+            "type": "bookmark",
+            "name": "cyxzdev/Uncodixfy: the holly uncodexify instructions - letting GPT create uncodexified UI",
+            "id": "1326",
+            "add_date": "2026-03-11T23:41:16.180000+00:00",
+            "last_modified": "2026-03-12T05:40:06+00:00",
+            "position": 43,
+            "href": "https://github.com/cyxzdev/Uncodixfy"
+          },
+          {
+            "type": "bookmark",
+            "name": "karpathy/autoresearch: AI agents running research on single-GPU nanochat training automatically",
+            "id": "1327",
+            "add_date": "2026-03-11T23:38:21.709000+00:00",
+            "last_modified": "2026-03-12T05:40:06+00:00",
+            "position": 44,
+            "href": "https://github.com/karpathy/autoresearch"
+          },
+          {
+            "type": "bookmark",
+            "name": "kapishdima/fonttrio: Curated font pairing registry for shadcn. Three fonts. One command. Install perfectly configured typography (heading + body + mono) with shadcn add",
+            "id": "1328",
+            "add_date": "2026-03-11T23:51:48.277000+00:00",
+            "last_modified": "2026-03-12T05:40:06+00:00",
+            "position": 45,
+            "href": "https://github.com/kapishdima/fonttrio"
           }
         ]
       },
