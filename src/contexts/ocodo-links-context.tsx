@@ -47,12 +47,14 @@ export const defaultFolders = [
   "quick-access",
   "hub-services",
   "frequent",
+  "recipes",
   "interesting",
   "react-topics",
   "pinned-repos",
   "ai",
   "misc",
   "font-building",
+  "books",
 ]
 
 const OcodoLinksContext = createContext<OcodoLinksContextType | undefined>(undefined);
