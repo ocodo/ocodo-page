@@ -1,6 +1,7 @@
 import { OcodoLinks } from "@/components/ocodo-links"
 import { defaultFolders, useOcodoLinks } from "@/contexts/ocodo-links-context"
 import { card, cardButton } from "@/lib/styles"
+import { cn } from "@/lib/utils"
 import { useEffect, type FC } from "react"
 
 export const OcodoLinkFolders: FC = () => {
@@ -26,14 +27,15 @@ export const OcodoLinkFolders: FC = () => {
       }
     </div>
     :
-    <div className={card}>
+    <div className={cn(card, "flex flex-col items-center gap-2")}>
+      <div className="text-2xl font-bold tracking-tighter select-none">No link groups...</div>
       <div
         className={cardButton}
         onClick={() => {
           setFolders(defaultFolders)
           console.log()
         }}
-      >Reset link folders</div>
+      >Use default folders</div>
     </div>
 }
 

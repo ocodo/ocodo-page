@@ -2,7 +2,7 @@ import { cn } from "@/lib/utils";
 
 export const topModalCard = cn(
   "tracking-tighter duration-500 transition-all",
-  "p-5 bg-neutral-950 rounded-b-3xl",
+  "p-5 bg-background/70 rounded-b-3xl",
   "hover:shadow-2xl",
   "dark:boder-2",
 )
@@ -10,7 +10,7 @@ export const topModalCard = cn(
 export const card = cn(
   "tracking-tighter duration-500 transition-all",
   "p-5 bg-card rounded-3xl",
-  "hover:shadow-2xl",
+  "hover:shadow-lg",
   "dark:boder-2",
 )
 
@@ -18,7 +18,7 @@ export const cardButton = cn(
   card,
   "w-fit",
   "cursor-pointer",
-  "hover:bg-card  bg-background border-bg border-2",
+  "hover:bg-card text-foreground bg-background border-bg border-2",
   "p-1 px-3"
 );
 
