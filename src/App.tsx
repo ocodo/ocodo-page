@@ -32,7 +32,7 @@ const Main = () => {
     {
       selectFolders &&
       <>
-        <div className="fixed z-10 w-screen h-screen backdrop-blur-lg">
+        <div className="fixed z-10 w-screen h-screen backdrop-blur-xs bg-background/80">
         </div>
         <div className="fixed z-100 top-0 left-1/4 w-1/2 h-1/2">
           <OcodoSelectFromAvailableFolders />

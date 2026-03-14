@@ -1,5 +1,5 @@
 import { useOcodoLinks } from "@/contexts/ocodo-links-context";
-import { card, cardButton, topModalCard } from "@/lib/styles";
+import { card, cardButton, innerCard, topModalCard } from "@/lib/styles";
 import { cn } from "@/lib/utils";
 import { forwardRef, useState } from "react";
 import {
@@ -132,7 +132,7 @@ export const OcodoSelectFromAvailableFolders = forwardRef<HTMLDivElement, {}>((_
 
         {/* Selected folders with drag-and-drop */}
         {preSelectedFolders.length > 0 && (
-          <div className={cn(card, "flex flex-col gap-2")}>
+          <div className={cn(innerCard, "flex flex-col gap-2")}>
             <div className="text-lg font-semibold text-foreground/50 flex items-center gap-2">
               <span>Group Order</span>
               <span className="text-sm font-normal text-foreground/30">

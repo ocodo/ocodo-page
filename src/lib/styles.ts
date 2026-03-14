@@ -2,16 +2,23 @@ import { cn } from "@/lib/utils";
 
 export const topModalCard = cn(
   "tracking-tighter duration-500 transition-all",
-  "p-5 bg-background/70 rounded-b-3xl",
+  "p-5 bg-card rounded-b-3xl",
   "hover:shadow-2xl",
-  "dark:boder-2",
+  "dark:border-2 dark:border-t-0",
 )
 
 export const card = cn(
   "tracking-tighter duration-500 transition-all",
   "p-5 bg-card rounded-3xl",
   "hover:shadow-lg",
-  "dark:boder-2",
+  "dark:border-2",
+)
+
+export const innerCard = cn(
+  "tracking-tighter duration-500 transition-all",
+  "p-5 bg-background/30 rounded-3xl",
+  "hover:shadow-lg hover:bg-background",
+  "dark:border-2",
 )
 
 export const cardButton = cn(
