@@ -108,7 +108,7 @@ export const OcodoSelectFromAvailableFolders = forwardRef<HTMLDivElement, {}>((_
           Select link groups...
         </div>
 
-        {/* Available folders - unchanged */}
+        {/* Available folders */}
         <div className="flex flex-wrap gap-2">
           {availableFolders.map((e) => (
             <div
