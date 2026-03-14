@@ -1,7 +1,7 @@
 import type React from 'react';
 import { createContext, useContext, useEffect, useState, useCallback, useRef } from 'react';
 import type { Dispatch, SetStateAction, RefObject } from 'react'
-import { useLocalStorage } from 'react-use';
+import { useLocalStorage, useToggle } from 'react-use';
 
 export interface Bookmark {
   type: "bookmark";
@@ -41,6 +41,8 @@ interface OcodoLinksContextType {
   folders: string[] | undefined;
   setFolders: Dispatch<SetStateAction<string[] | undefined>>;
   selectFromAvailableFoldersRef: RefObject<HTMLDivElement | null>;
+  selectFolders: boolean;
+  toggleSelectFolders: (nextValue?: any) => void;
 }
 
 export const defaultFolders = [
@@ -65,6 +67,7 @@ export const OcodoLinksProvider: React.FC<{ children: React.ReactNode }> = ({ ch
   const [loading, setLoading] = useState<boolean>(true);
   const [error, setError] = useState<Error | null>(null);
   const selectFromAvailableFoldersRef = useRef<HTMLDivElement | null>(null);
+  const [selectFolders, toggleSelectFolders] = useToggle(false)
 
   const findFolderRecursive = (items: BookmarkItem[], folderName: string): Folder | undefined => {
     for (const item of items) {
@@ -145,6 +148,8 @@ export const OcodoLinksProvider: React.FC<{ children: React.ReactNode }> = ({ ch
         findFolderRecursive,
         setFolders,
         selectFromAvailableFoldersRef,
+        selectFolders,
+        toggleSelectFolders,
       }}
     >
       {children}

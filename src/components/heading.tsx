@@ -1,5 +1,6 @@
 import { Menu } from 'lucide-react'
 import { ThemeSwitch } from '@/components/theme-switch'
+import { useOcodoLinks } from '@/contexts/ocodo-links-context'
 
 interface HeadingProps {
   title?: string
@@ -8,6 +9,7 @@ interface HeadingProps {
 
 export function Heading(props: HeadingProps) {
   const { title, tinyChildren } = props
+  const { toggleSelectFolders } = useOcodoLinks();
 
   return (
     <div className='relative'>
@@ -19,7 +21,7 @@ export function Heading(props: HeadingProps) {
       )}
       <header className="flex items-center justify-between p-2">
         <div className="p-2 hover:bg-accent cursor-pointer rounded-lg">
-          <Menu className="h-4 w-4" />
+          <Menu className="h-4 w-4" onClick={toggleSelectFolders} />
         </div>
         {title && (<div className="font-black tracking-tighter">{title}</div>)}
         <ThemeSwitch className="mr-2" />
