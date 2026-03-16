@@ -1,5 +1,5 @@
 import { useOcodoLinks } from "@/contexts/ocodo-links-context";
-import { card, cardButton, innerCard, topModalCard } from "@/lib/styles";
+import { cardButton, innerCard, topModalCard } from "@/lib/styles";
 import { cn } from "@/lib/utils";
 import { forwardRef, useState } from "react";
 import {
@@ -20,6 +20,7 @@ import {
 } from "@dnd-kit/sortable";
 import { CSS } from "@dnd-kit/utilities";
 import { Grip } from "lucide-react";
+import { Switch } from "@/components/ui/switch";
 
 const SortableFolderItem = ({ id, name, onToggle }: { id: string; name: string; onToggle: () => void }) => {
   const {
@@ -47,6 +48,7 @@ const SortableFolderItem = ({ id, name, onToggle }: { id: string; name: string; 
         "select-none",
         "bg-teal-900",
         "text-gray-100",
+        "text-nowrap",
         "max-h-8",
         "flex flex-row gap-2 items-center",
         isDragging && "opacity-50 drop-shadow-2xl",
@@ -64,8 +66,8 @@ const SortableFolderItem = ({ id, name, onToggle }: { id: string; name: string; 
 };
 
 
-export const OcodoSelectFromAvailableFolders = forwardRef<HTMLDivElement, {}>((_, ref) => {
-  const { getAvailableFolders, folders, setFolders, toggleSelectFolders } = useOcodoLinks();
+export const OcodoPageSettings = forwardRef<HTMLDivElement, {}>((_, ref) => {
+  const { getAvailableFolders, folders, setFolders, toggleSelectFolders, setShowFolderTitles, showFolderTitles } = useOcodoLinks();
   const [preSelectedFolders, setPreSelectedFolders] = useState<string[]>(folders ?? []);
 
   const sensors = useSensors(
@@ -104,32 +106,35 @@ export const OcodoSelectFromAvailableFolders = forwardRef<HTMLDivElement, {}>((_
   return (
     <div className={topModalCard} ref={ref}>
       <div className="flex flex-col gap-2">
-        <div className="text-2xl font-bold tracking-tighter select-none">
-          Select link groups...
-        </div>
+        <div>
 
-        {/* Available folders */}
-        <div className="flex flex-wrap gap-2">
-          {availableFolders.map((e) => (
-            <div
-              className={cn(
-                "cursor-pointer",
-                "p-1 px-2",
-                "rounded-full",
-                "w-fit",
-                "transition-colors duration-200",
-                preSelectedFolders.includes(e.name)
-                  ? "bg-emerald-800 text-gray-100 hover:bg-emerald-800/40"
-                  : "hover:bg-foreground/20 text-foreground"
-              )}
-              key={e.id}
-              onClick={() => preSelectedToggle(e.name)}
-            >
-              {e.name}
-            </div>
-          ))}
-        </div>
+          <div className="text-2xl font-bold tracking-tighter select-none">
+            Select link groups...
+          </div>
 
+          {/* Available folders */}
+          <div className="flex flex-wrap gap-2">
+            {availableFolders.map((e) => (
+              <div
+                className={cn(
+                  "cursor-pointer",
+                  "p-1 px-2",
+                  "rounded-full",
+                  "text-nowrap",
+                  "w-fit",
+                  "transition-colors duration-200",
+                  preSelectedFolders.includes(e.name)
+                    ? "bg-emerald-800 text-gray-100 hover:bg-emerald-800/40"
+                    : "hover:bg-foreground/20 text-foreground"
+                )}
+                key={e.id}
+                onClick={() => preSelectedToggle(e.name)}
+              >
+                {e.name}
+              </div>
+            ))}
+          </div>
+        </div>
         {/* Selected folders with drag-and-drop */}
         {preSelectedFolders.length > 0 && (
           <div className={cn(innerCard, "flex flex-col gap-2")}>
@@ -168,8 +173,17 @@ export const OcodoSelectFromAvailableFolders = forwardRef<HTMLDivElement, {}>((_
           </div>
         )}
 
+
+        <hr />
+        <div className="flex flex-row items-center justify-start gap-2">
+          <div className="text-2xl font-bold tracking-tighter">
+            Show Folder titles
+          </div>
+          <Switch onCheckedChange={setShowFolderTitles} checked={showFolderTitles} />
+        </div>
+
         {/* Action buttons */}
-        <div className="flex flex-row gap-2 mt-5">
+        <div className="flex flex-wrap gap-2 mt-5">
           <div
             className={cardButton}
             onClick={() => {

@@ -43,6 +43,8 @@ interface OcodoLinksContextType {
   selectFromAvailableFoldersRef: RefObject<HTMLDivElement | null>;
   selectFolders: boolean;
   toggleSelectFolders: (nextValue?: any) => void;
+  showFolderTitles: boolean | undefined;
+  setShowFolderTitles: (nextValue?: boolean) => void;
 }
 
 export const defaultFolders = [
@@ -68,6 +70,7 @@ export const OcodoLinksProvider: React.FC<{ children: React.ReactNode }> = ({ ch
   const [error, setError] = useState<Error | null>(null);
   const selectFromAvailableFoldersRef = useRef<HTMLDivElement | null>(null);
   const [selectFolders, toggleSelectFolders] = useToggle(false)
+  const [showFolderTitles, setShowFolderTitles] = useLocalStorage<boolean | undefined>('show-folder-names', false);
 
   const findFolderRecursive = (items: BookmarkItem[], folderName: string): Folder | undefined => {
     for (const item of items) {
@@ -150,6 +153,8 @@ export const OcodoLinksProvider: React.FC<{ children: React.ReactNode }> = ({ ch
         selectFromAvailableFoldersRef,
         selectFolders,
         toggleSelectFolders,
+        showFolderTitles,
+        setShowFolderTitles,
       }}
     >
       {children}

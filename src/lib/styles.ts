@@ -23,10 +23,15 @@ export const innerCard = cn(
 
 export const cardButton = cn(
   card,
+  "flex flex-row",
   "w-fit",
+  "text-nowrap",
+  "items-center",
+  "justify-center",
   "cursor-pointer",
   "hover:bg-card text-foreground bg-background border-bg border-2",
-  "p-1 px-3"
+  "p-1 px-5",
+  "rounded-full"
 );
 
 export const thinIconStyle = {

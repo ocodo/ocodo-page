@@ -7,7 +7,7 @@ interface OcodoLinksProps {
 }
 
 export const OcodoLinks: React.FC<OcodoLinksProps> = ({ folder }) => {
-  const { getBookmarksByFolderName, loading, error } = useOcodoLinks();
+  const { getBookmarksByFolderName, loading, error, showFolderTitles } = useOcodoLinks();
   const bookmarks = getBookmarksByFolderName(folder);
 
   if (loading) {
@@ -24,6 +24,11 @@ export const OcodoLinks: React.FC<OcodoLinksProps> = ({ folder }) => {
 
   return (
     <>
+      {showFolderTitles &&
+        <div className={`text-3xl font-black tracking-tighter mb-2 capitalize select-none`}>
+          {folder}
+        </div>
+      }
       <ul>
         {bookmarks.map((bookmark, index) => (
           <li key={index} >

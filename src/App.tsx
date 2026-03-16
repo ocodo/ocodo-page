@@ -4,7 +4,8 @@ import { Toaster } from "@/components/ui/sonner"
 import { OcodoLinksProvider, useOcodoLinks } from "@/contexts/ocodo-links-context"
 import { TextClock } from "@/components/text-clock"
 import { OcodoLinkFolders } from "@/components/ocodo-link-folders"
-import { OcodoSelectFromAvailableFolders } from "@/components/ocodo-select-from-available-folders"
+import { OcodoPageSettings } from "@/components/ocodo-page-settings"
+import { CircleX } from "lucide-react"
 
 function App() {
 
@@ -20,7 +21,7 @@ function App() {
 }
 
 const Main = () => {
-  const { selectFolders } = useOcodoLinks();
+  const { selectFolders, toggleSelectFolders } = useOcodoLinks();
   return <>
     <Heading tinyChildren={
       <>
@@ -34,8 +35,35 @@ const Main = () => {
       <>
         <div className="fixed z-10 w-screen h-screen backdrop-blur-xs bg-background/80">
         </div>
-        <div className="fixed z-100 top-0 left-1/4 w-1/2 h-1/2">
-          <OcodoSelectFromAvailableFolders />
+        <div className={`
+            fixed
+            z-100
+            w-screen
+            top-0
+            xl:left-1/6
+            xl:w-2/3
+            xl:h-1/2
+          `}>
+          <div className="relative">
+            <CircleX
+              onClick={toggleSelectFolders}
+              className={`
+                absolute
+                top-0 right-0
+                m-2 p-0.5
+                w-8 h-8
+                cursor-pointer
+                text-background
+                hover:bg-foreground/80
+                bg-foreground/50
+                transition-colors
+                duration-300
+                rounded-full
+              `}
+              style={{ strokeWidth: 1 }}
+            />
+            <OcodoPageSettings />
+          </div>
         </div>
       </>
     }
