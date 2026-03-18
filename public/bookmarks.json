@@ -12,7 +12,7 @@
         "name": "quick-access",
         "id": "614",
         "add_date": "2025-06-12T11:52:49.490000+00:00",
-        "last_modified": "2026-03-10T04:30:12+00:00",
+        "last_modified": "2026-03-18T10:50:06+00:00",
         "position": 0,
         "children": [
           {
@@ -221,6 +221,15 @@
             "last_modified": "2026-03-10T04:30:12+00:00",
             "position": 22,
             "href": "https://www.openculture.com/2025/09/the-carl-sagan-baloney-detection-kit.html"
+          },
+          {
+            "type": "bookmark",
+            "name": "Stripe Dashboard",
+            "id": "1330",
+            "add_date": "2026-03-18T10:36:53.494000+00:00",
+            "last_modified": "2026-03-18T10:50:06+00:00",
+            "position": 23,
+            "href": "https://dashboard.stripe.com/acct_1RoDimRkeykuSrdt/dashboard"
           }
         ]
       },
