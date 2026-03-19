@@ -40,7 +40,7 @@
         "name": "quick-access",
         "id": "614",
         "add_date": "2025-06-12T11:52:49.490000+00:00",
-        "last_modified": "2026-03-19T02:30:07+00:00",
+        "last_modified": "2026-03-19T03:30:07+00:00",
         "position": 1,
         "children": [
           {
@@ -258,6 +258,15 @@
             "last_modified": "2026-03-18T10:50:06+00:00",
             "position": 23,
             "href": "https://dashboard.stripe.com/acct_1RoDimRkeykuSrdt/dashboard"
+          },
+          {
+            "type": "bookmark",
+            "name": "<h1>Rob Pike's 5 Rules of Programming</h1>",
+            "id": "1334",
+            "add_date": "2026-03-19T03:28:46.405000+00:00",
+            "last_modified": "2026-03-19T03:30:07+00:00",
+            "position": 24,
+            "href": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html"
           }
         ]
       },
