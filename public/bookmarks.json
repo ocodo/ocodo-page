@@ -1949,7 +1949,7 @@
         "name": "interesting-today",
         "id": "1277",
         "add_date": "2026-02-16T01:47:30.101000+00:00",
-        "last_modified": "2026-03-23T02:00:07+00:00",
+        "last_modified": "2026-03-23T16:00:08+00:00",
         "position": 13,
         "children": [
           {
@@ -2230,6 +2230,24 @@
             "last_modified": "2026-03-23T02:00:07+00:00",
             "position": 30,
             "href": "https://github.com/JaKooLit/Hyprland-Dots/discussions/384"
+          },
+          {
+            "type": "bookmark",
+            "name": "TDK Cassette anim",
+            "id": "1343",
+            "add_date": "2026-03-23T15:56:35.348000+00:00",
+            "last_modified": "2026-03-23T16:00:08+00:00",
+            "position": 31,
+            "href": "https://i.pinimg.com/originals/f7/20/df/f720df37ff3964df6e4b92146a1fe97e.gif"
+          },
+          {
+            "type": "bookmark",
+            "name": "X60 Cassette Anim",
+            "id": "1344",
+            "add_date": "2026-03-23T15:56:56.857000+00:00",
+            "last_modified": "2026-03-23T16:00:08+00:00",
+            "position": 32,
+            "href": "https://i.pinimg.com/originals/2f/4c/bf/2f4cbfe6995313d059ab32e57a7a55a9.gif"
           }
         ]
       },
