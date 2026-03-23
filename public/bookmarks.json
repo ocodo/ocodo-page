@@ -1949,7 +1949,7 @@
         "name": "interesting-today",
         "id": "1277",
         "add_date": "2026-02-16T01:47:30.101000+00:00",
-        "last_modified": "2026-03-23T01:40:06+00:00",
+        "last_modified": "2026-03-23T01:50:07+00:00",
         "position": 13,
         "children": [
           {
@@ -2203,6 +2203,24 @@
             "last_modified": "2026-03-23T01:40:06+00:00",
             "position": 27,
             "href": "https://avaloniaui.net/blog/maui-avalonia-preview-1"
+          },
+          {
+            "type": "bookmark",
+            "name": "kenforthewin/atomic",
+            "id": "1340",
+            "add_date": "2026-03-23T01:44:33.881000+00:00",
+            "last_modified": "2026-03-23T01:50:07+00:00",
+            "position": 28,
+            "href": "https://github.com/kenforthewin/atomic"
+          },
+          {
+            "type": "bookmark",
+            "name": "Common Lisp Mental Map",
+            "id": "1341",
+            "add_date": "2026-03-23T01:49:20.002000+00:00",
+            "last_modified": "2026-03-23T01:50:07+00:00",
+            "position": 29,
+            "href": "https://www.creativetension.co/posts/common-lisp-development-tooling"
           }
         ]
       },
