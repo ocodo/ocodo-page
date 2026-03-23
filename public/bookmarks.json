@@ -1949,7 +1949,7 @@
         "name": "interesting-today",
         "id": "1277",
         "add_date": "2026-02-16T01:47:30.101000+00:00",
-        "last_modified": "2026-03-22T12:00:07+00:00",
+        "last_modified": "2026-03-23T01:20:07+00:00",
         "position": 13,
         "children": [
           {
@@ -2167,6 +2167,15 @@
             "last_modified": "2026-03-22T12:00:07+00:00",
             "position": 23,
             "href": "https://rari.build/"
+          },
+          {
+            "type": "bookmark",
+            "name": "grigio/opencode-benchmark-dashboard",
+            "id": "1336",
+            "add_date": "2026-03-23T01:18:16.295000+00:00",
+            "last_modified": "2026-03-23T01:20:07+00:00",
+            "position": 24,
+            "href": "https://github.com/grigio/opencode-benchmark-dashboard"
           }
         ]
       },
