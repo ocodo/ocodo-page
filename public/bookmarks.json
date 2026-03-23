@@ -1949,7 +1949,7 @@
         "name": "interesting-today",
         "id": "1277",
         "add_date": "2026-02-16T01:47:30.101000+00:00",
-        "last_modified": "2026-03-23T01:50:07+00:00",
+        "last_modified": "2026-03-23T02:00:07+00:00",
         "position": 13,
         "children": [
           {
@@ -2221,6 +2221,15 @@
             "last_modified": "2026-03-23T01:50:07+00:00",
             "position": 29,
             "href": "https://www.creativetension.co/posts/common-lisp-development-tooling"
+          },
+          {
+            "type": "bookmark",
+            "name": "Problem with Pasting on VS Code",
+            "id": "1342",
+            "add_date": "2026-03-23T01:56:13.071000+00:00",
+            "last_modified": "2026-03-23T02:00:07+00:00",
+            "position": 30,
+            "href": "https://github.com/JaKooLit/Hyprland-Dots/discussions/384"
           }
         ]
       },
