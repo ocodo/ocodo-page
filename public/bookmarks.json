@@ -1949,7 +1949,7 @@
         "name": "interesting-today",
         "id": "1277",
         "add_date": "2026-02-16T01:47:30.101000+00:00",
-        "last_modified": "2026-03-23T01:20:07+00:00",
+        "last_modified": "2026-03-23T01:40:06+00:00",
         "position": 13,
         "children": [
           {
@@ -2176,6 +2176,33 @@
             "last_modified": "2026-03-23T01:20:07+00:00",
             "position": 24,
             "href": "https://github.com/grigio/opencode-benchmark-dashboard"
+          },
+          {
+            "type": "bookmark",
+            "name": "Tooscut - Video Editor",
+            "id": "1337",
+            "add_date": "2026-03-23T01:34:12.095000+00:00",
+            "last_modified": "2026-03-23T01:40:06+00:00",
+            "position": 25,
+            "href": "https://tooscut.app/"
+          },
+          {
+            "type": "bookmark",
+            "name": "Floci",
+            "id": "1338",
+            "add_date": "2026-03-23T01:37:04.180000+00:00",
+            "last_modified": "2026-03-23T01:40:06+00:00",
+            "position": 26,
+            "href": "https://hectorvent.dev/floci/"
+          },
+          {
+            "type": "bookmark",
+            "name": "MAUI Avalonia Preview 1",
+            "id": "1339",
+            "add_date": "2026-03-23T01:39:50.926000+00:00",
+            "last_modified": "2026-03-23T01:40:06+00:00",
+            "position": 27,
+            "href": "https://avaloniaui.net/blog/maui-avalonia-preview-1"
           }
         ]
       },
