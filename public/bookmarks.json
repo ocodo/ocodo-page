@@ -40,7 +40,7 @@
         "name": "quick-access",
         "id": "614",
         "add_date": "2025-06-12T11:52:49.490000+00:00",
-        "last_modified": "2026-03-19T03:30:07+00:00",
+        "last_modified": "2026-03-24T12:40:07+00:00",
         "position": 1,
         "children": [
           {
@@ -267,6 +267,15 @@
             "last_modified": "2026-03-19T03:30:07+00:00",
             "position": 24,
             "href": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html"
+          },
+          {
+            "type": "bookmark",
+            "name": "selfh.st/apps",
+            "id": "1345",
+            "add_date": "2026-03-24T12:37:42.296000+00:00",
+            "last_modified": "2026-03-24T12:40:07+00:00",
+            "position": 25,
+            "href": "https://selfh.st/apps/"
           }
         ]
       },
