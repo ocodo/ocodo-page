@@ -1958,7 +1958,7 @@
         "name": "interesting-today",
         "id": "1277",
         "add_date": "2026-02-16T01:47:30.101000+00:00",
-        "last_modified": "2026-03-23T16:00:08+00:00",
+        "last_modified": "2026-04-11T08:50:07+00:00",
         "position": 13,
         "children": [
           {
@@ -2257,6 +2257,15 @@
             "last_modified": "2026-03-23T16:00:08+00:00",
             "position": 32,
             "href": "https://i.pinimg.com/originals/2f/4c/bf/2f4cbfe6995313d059ab32e57a7a55a9.gif"
+          },
+          {
+            "type": "bookmark",
+            "name": "A compelling title ... cryptic",
+            "id": "1347",
+            "add_date": "2026-04-11T08:48:58.690000+00:00",
+            "last_modified": "2026-04-11T08:50:07+00:00",
+            "position": 33,
+            "href": "https://ericwbailey.website/published/a-compelling-title-that-is-cryptic-enough-to-get-you-to-take-action-on-it/"
           }
         ]
       },
