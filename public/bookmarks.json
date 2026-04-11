@@ -1958,7 +1958,7 @@
         "name": "interesting-today",
         "id": "1277",
         "add_date": "2026-02-16T01:47:30.101000+00:00",
-        "last_modified": "2026-04-11T08:50:07+00:00",
+        "last_modified": "2026-04-11T11:01:44+00:00",
         "position": 13,
         "children": [
           {
@@ -2266,6 +2266,15 @@
             "last_modified": "2026-04-11T08:50:07+00:00",
             "position": 33,
             "href": "https://ericwbailey.website/published/a-compelling-title-that-is-cryptic-enough-to-get-you-to-take-action-on-it/"
+          },
+          {
+            "type": "bookmark",
+            "name": "USB for Software Developers",
+            "id": "1348",
+            "add_date": "2026-04-11T11:01:15.975000+00:00",
+            "last_modified": "2026-04-11T11:01:44+00:00",
+            "position": 34,
+            "href": "https://werwolv.net/posts/usb_for_sw_devs/"
           }
         ]
       },
