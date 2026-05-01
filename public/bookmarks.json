@@ -1958,7 +1958,7 @@
         "name": "interesting-today",
         "id": "1277",
         "add_date": "2026-02-16T01:47:30.101000+00:00",
-        "last_modified": "2026-04-28T14:51:39+00:00",
+        "last_modified": "2026-05-01T03:40:07+00:00",
         "position": 13,
         "children": [
           {
@@ -2293,6 +2293,15 @@
             "last_modified": "2026-04-28T14:51:39+00:00",
             "position": 36,
             "href": "https://www.youtube.com/shorts/PO8-SxY4O50"
+          },
+          {
+            "type": "bookmark",
+            "name": "nirimod",
+            "id": "1351",
+            "add_date": "2026-05-01T03:37:28.751000+00:00",
+            "last_modified": "2026-05-01T03:40:07+00:00",
+            "position": 37,
+            "href": "https://github.com/srinivasr/nirimod"
           }
         ]
       },
