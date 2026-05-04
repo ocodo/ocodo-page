@@ -1949,7 +1949,7 @@
         "name": "interesting-today",
         "id": "1277",
         "add_date": "2026-02-16T01:47:30.101000+00:00",
-        "last_modified": "2026-05-01T03:40:07+00:00",
+        "last_modified": "2026-05-04T15:20:07+00:00",
         "position": 13,
         "children": [
           {
@@ -2293,6 +2293,15 @@
             "last_modified": "2026-05-01T03:40:07+00:00",
             "position": 37,
             "href": "https://github.com/srinivasr/nirimod"
+          },
+          {
+            "type": "bookmark",
+            "name": "Awesome Wallpapers",
+            "id": "1352",
+            "add_date": "2026-05-04T15:13:19.546000+00:00",
+            "last_modified": "2026-05-04T15:20:07+00:00",
+            "position": 38,
+            "href": "https://wallhaven.cc/"
           }
         ]
       },
