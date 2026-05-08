@@ -282,9 +282,9 @@
             "name": "ShowRSS Feed",
             "id": "1356",
             "add_date": "2026-05-08T09:48:10.490000+00:00",
-            "last_modified": "2026-05-08T09:50:07+00:00",
+            "last_modified": "2026-05-08T10:20:06+00:00",
             "position": 26,
-            "href": "http://helios:5000/"
+            "href": "https://showrss.hub/"
           }
         ]
       },
