@@ -40,7 +40,7 @@
         "name": "quick-access",
         "id": "614",
         "add_date": "2025-06-12T11:52:49.490000+00:00",
-        "last_modified": "2026-05-08T09:50:07+00:00",
+        "last_modified": "2026-05-10T03:00:06+00:00",
         "position": 1,
         "children": [
           {
@@ -285,6 +285,15 @@
             "last_modified": "2026-05-08T10:20:06+00:00",
             "position": 26,
             "href": "https://showrss.hub/"
+          },
+          {
+            "type": "bookmark",
+            "name": "GitHub Store",
+            "id": "1357",
+            "add_date": "2026-05-10T02:57:39.566000+00:00",
+            "last_modified": "2026-05-10T03:00:06+00:00",
+            "position": 27,
+            "href": "https://github-store.org/"
           }
         ]
       },
