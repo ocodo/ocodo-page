@@ -40,7 +40,7 @@
         "name": "quick-access",
         "id": "614",
         "add_date": "2025-06-12T11:52:49.490000+00:00",
-        "last_modified": "2026-05-11T07:01:37+00:00",
+        "last_modified": "2026-05-13T02:21:40+00:00",
         "position": 1,
         "children": [
           {
@@ -303,6 +303,15 @@
             "last_modified": "2026-05-11T07:01:37+00:00",
             "position": 28,
             "href": "https://discuss.cachyos.org/t/intended-ssh-agent-for-cachyos/7817/9"
+          },
+          {
+            "type": "bookmark",
+            "name": "They Live adblocker",
+            "id": "1359",
+            "add_date": "2026-05-13T02:21:01.618000+00:00",
+            "last_modified": "2026-05-13T02:21:40+00:00",
+            "position": 29,
+            "href": "https://github.com/davmlaw/they_live_adblocker"
           }
         ]
       },
