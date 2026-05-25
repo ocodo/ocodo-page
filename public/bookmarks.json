@@ -727,7 +727,7 @@
         "name": "misc",
         "id": "611",
         "add_date": "2025-06-12T07:27:17.220000+00:00",
-        "last_modified": "2026-05-25T13:21:31.940000+00:00",
+        "last_modified": "2026-05-25T13:31:01.850000+00:00",
         "position": 4,
         "children": [
           {
@@ -864,6 +864,15 @@
             "last_modified": "2026-05-25T13:21:31.940000+00:00",
             "position": 14,
             "href": "https://mastering.dyalog.com/README.html"
+          },
+          {
+            "type": "bookmark",
+            "name": "my i3-emacs integration",
+            "id": "1365",
+            "add_date": "2026-05-25T13:30:27.492000+00:00",
+            "last_modified": "2026-05-25T13:31:01.850000+00:00",
+            "position": 15,
+            "href": "https://khz.ac/software/i3-integration.html"
           }
         ]
       },
