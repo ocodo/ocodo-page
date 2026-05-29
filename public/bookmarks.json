@@ -40,7 +40,7 @@
         "name": "quick-access",
         "id": "614",
         "add_date": "2025-06-12T11:52:49.490000+00:00",
-        "last_modified": "2026-05-28T05:52:58.170000+00:00",
+        "last_modified": "2026-05-29T04:38:04.930000+00:00",
         "position": 1,
         "children": [
           {
@@ -231,6 +231,15 @@
             "last_modified": "2026-05-08T10:20:06+00:00",
             "position": 20,
             "href": "https://showrss.hub/"
+          },
+          {
+            "type": "bookmark",
+            "name": "Massively Multiplayer Online Rave",
+            "id": "1368",
+            "add_date": "2026-05-29T04:38:03.444000+00:00",
+            "last_modified": "2026-05-29T04:38:04.930000+00:00",
+            "position": 21,
+            "href": "https://hallucinate.site/"
           }
         ]
       },
