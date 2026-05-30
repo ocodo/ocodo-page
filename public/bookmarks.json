@@ -40,7 +40,7 @@
         "name": "quick-access",
         "id": "614",
         "add_date": "2025-06-12T11:52:49.490000+00:00",
-        "last_modified": "2026-05-29T04:38:04.930000+00:00",
+        "last_modified": "2026-05-30T05:28:29.140000+00:00",
         "position": 1,
         "children": [
           {
@@ -240,6 +240,15 @@
             "last_modified": "2026-05-29T04:38:04.930000+00:00",
             "position": 21,
             "href": "https://hallucinate.site/"
+          },
+          {
+            "type": "bookmark",
+            "name": "Khan Academy",
+            "id": "1369",
+            "add_date": "2026-05-30T05:28:27.235000+00:00",
+            "last_modified": "2026-05-30T05:28:29.140000+00:00",
+            "position": 22,
+            "href": "https://www.khanacademy.org/"
           }
         ]
       },
