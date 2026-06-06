@@ -664,7 +664,7 @@
         "name": "misc",
         "id": "611",
         "add_date": "2025-06-12T07:27:17.220000+00:00",
-        "last_modified": "2026-05-26T14:08:34.400000+00:00",
+        "last_modified": "2026-06-06T11:31:58.310000+00:00",
         "position": 4,
         "children": [
           {
@@ -801,6 +801,15 @@
             "last_modified": "2026-05-25T13:31:01.850000+00:00",
             "position": 14,
             "href": "https://khz.ac/software/i3-integration.html"
+          },
+          {
+            "type": "bookmark",
+            "name": "How to set openbox background. / Applications & Desktop Environments / Arch Linux Forums",
+            "id": "1370",
+            "add_date": "2026-06-06T11:31:56.654000+00:00",
+            "last_modified": "2026-06-06T11:31:58.310000+00:00",
+            "position": 15,
+            "href": "https://bbs.archlinux.org/viewtopic.php?id=131026"
           }
         ]
       },
