@@ -664,7 +664,7 @@
         "name": "misc",
         "id": "611",
         "add_date": "2025-06-12T07:27:17.220000+00:00",
-        "last_modified": "2026-06-06T11:31:58.310000+00:00",
+        "last_modified": "2026-06-06T16:01:03.140000+00:00",
         "position": 4,
         "children": [
           {
@@ -810,6 +810,15 @@
             "last_modified": "2026-06-06T11:31:58.310000+00:00",
             "position": 15,
             "href": "https://bbs.archlinux.org/viewtopic.php?id=131026"
+          },
+          {
+            "type": "bookmark",
+            "name": "stav121/i3wm-themer: 🎨 Theme collection manager for i3-wm",
+            "id": "1371",
+            "add_date": "2026-06-06T15:58:03.786000+00:00",
+            "last_modified": "2026-06-06T16:01:03.140000+00:00",
+            "position": 16,
+            "href": "https://github.com/stav121/i3wm-themer"
           }
         ]
       },
