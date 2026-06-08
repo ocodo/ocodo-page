@@ -664,7 +664,7 @@
         "name": "misc",
         "id": "611",
         "add_date": "2025-06-12T07:27:17.220000+00:00",
-        "last_modified": "2026-06-07T16:09:51.090000+00:00",
+        "last_modified": "2026-06-08T17:03:50.200000+00:00",
         "position": 4,
         "children": [
           {
@@ -828,6 +828,15 @@
             "last_modified": "2026-06-07T16:09:51.090000+00:00",
             "position": 17,
             "href": "https://terminal.tesseractanalytics.ai/"
+          },
+          {
+            "type": "bookmark",
+            "name": "Open Source Voice Dictation",
+            "id": "1373",
+            "add_date": "2026-06-08T17:03:48.829000+00:00",
+            "last_modified": "2026-06-08T17:03:50.200000+00:00",
+            "position": 18,
+            "href": "https://vocalinux.com/open-source/"
           }
         ]
       },
