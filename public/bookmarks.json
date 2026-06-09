@@ -40,7 +40,7 @@
         "name": "quick-access",
         "id": "614",
         "add_date": "2025-06-12T11:52:49.490000+00:00",
-        "last_modified": "2026-06-09T07:36:31.980000+00:00",
+        "last_modified": "2026-06-09T07:48:31.600000+00:00",
         "position": 1,
         "children": [
           {
@@ -258,6 +258,15 @@
             "last_modified": "2026-06-09T07:36:31.980000+00:00",
             "position": 23,
             "href": "https://www.cypherpunkbooks.com/book/a-cypherpunks-manifesto"
+          },
+          {
+            "type": "bookmark",
+            "name": "performative-ui",
+            "id": "1375",
+            "add_date": "2026-06-09T07:48:30.014000+00:00",
+            "last_modified": "2026-06-09T07:48:31.600000+00:00",
+            "position": 24,
+            "href": "https://vorpus.github.io/performativeUI/#/"
           }
         ]
       },
