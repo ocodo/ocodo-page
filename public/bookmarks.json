@@ -40,7 +40,7 @@
         "name": "quick-access",
         "id": "614",
         "add_date": "2025-06-12T11:52:49.490000+00:00",
-        "last_modified": "2026-05-30T05:28:29.140000+00:00",
+        "last_modified": "2026-06-09T07:36:31.980000+00:00",
         "position": 1,
         "children": [
           {
@@ -249,6 +249,15 @@
             "last_modified": "2026-05-30T05:28:29.140000+00:00",
             "position": 22,
             "href": "https://www.khanacademy.org/"
+          },
+          {
+            "type": "bookmark",
+            "name": "The Cypherpunk Library",
+            "id": "1374",
+            "add_date": "2026-06-09T07:36:30.675000+00:00",
+            "last_modified": "2026-06-09T07:36:31.980000+00:00",
+            "position": 23,
+            "href": "https://www.cypherpunkbooks.com/book/a-cypherpunks-manifesto"
           }
         ]
       },
