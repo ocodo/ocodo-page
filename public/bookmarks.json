@@ -682,7 +682,7 @@
         "name": "misc",
         "id": "611",
         "add_date": "2025-06-12T07:27:17.220000+00:00",
-        "last_modified": "2026-06-08T17:03:50.200000+00:00",
+        "last_modified": "2026-06-10T05:00:47.080000+00:00",
         "position": 4,
         "children": [
           {
@@ -855,6 +855,15 @@
             "last_modified": "2026-06-08T17:03:50.200000+00:00",
             "position": 18,
             "href": "https://vocalinux.com/open-source/"
+          },
+          {
+            "type": "bookmark",
+            "name": "Make Games like it's 1993",
+            "id": "1376",
+            "add_date": "2026-06-10T05:00:45.029000+00:00",
+            "last_modified": "2026-06-10T05:01:21.450000+00:00",
+            "position": 19,
+            "href": "https://staniks.github.io/articles/catlantean-3d-blog-1/"
           }
         ]
       },
