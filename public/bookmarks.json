@@ -40,7 +40,7 @@
         "name": "quick-access",
         "id": "614",
         "add_date": "2025-06-12T11:52:49.490000+00:00",
-        "last_modified": "2026-06-10T07:37:10.670000+00:00",
+        "last_modified": "2026-06-12T10:08:06.570000+00:00",
         "position": 1,
         "children": [
           {
@@ -276,6 +276,15 @@
             "last_modified": "2026-06-10T07:37:10.670000+00:00",
             "position": 25,
             "href": "https://qunabu.github.io/Gravity/#what-is-gravity"
+          },
+          {
+            "type": "bookmark",
+            "name": "@ocodo@typo.social",
+            "id": "1378",
+            "add_date": "2026-06-12T10:08:04.996000+00:00",
+            "last_modified": "2026-06-12T10:08:06.570000+00:00",
+            "position": 26,
+            "href": "https://typo.social/@ocodo"
           }
         ]
       },
