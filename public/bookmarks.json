@@ -2093,7 +2093,7 @@
         "name": "interesting-today",
         "id": "1277",
         "add_date": "2026-02-16T01:47:30.101000+00:00",
-        "last_modified": "2026-06-15T06:25:29.890000+00:00",
+        "last_modified": "2026-06-16T14:38:56.240000+00:00",
         "position": 13,
         "children": [
           {
@@ -2464,6 +2464,15 @@
             "last_modified": "2026-06-15T06:25:29.890000+00:00",
             "position": 40,
             "href": "https://old.reddit.com/r/TheLastCaretaker/"
+          },
+          {
+            "type": "bookmark",
+            "name": "Oblique strategies",
+            "id": "1381",
+            "add_date": "2026-06-16T14:38:54.779000+00:00",
+            "last_modified": "2026-06-16T14:38:56.240000+00:00",
+            "position": 41,
+            "href": "https://makeyourownrabbithole.com/blog/2017/12/13/oblique-strategies-for-artists-faced-with-acute-dilemmas"
           }
         ]
       },
