@@ -1378,7 +1378,7 @@
         "name": "interesting",
         "id": "679",
         "add_date": "2025-06-15T06:08:31.372000+00:00",
-        "last_modified": "2026-05-28T05:59:52.120000+00:00",
+        "last_modified": "2026-06-23T08:49:47.600000+00:00",
         "position": 7,
         "children": [
           {
@@ -1767,6 +1767,15 @@
             "last_modified": "2026-05-28T05:59:52.120000+00:00",
             "position": 42,
             "href": "https://arxiv.org/abs/2605.22391"
+          },
+          {
+            "type": "bookmark",
+            "name": "1,700 Free Online Courses ",
+            "id": "1386",
+            "add_date": "2026-06-23T08:44:41.941000+00:00",
+            "last_modified": "2026-06-23T08:49:47.600000+00:00",
+            "position": 43,
+            "href": "https://www.openculture.com/freeonlinecourses"
           }
         ]
       },
