@@ -2093,7 +2093,7 @@
         "name": "interesting-today",
         "id": "1277",
         "add_date": "2026-02-16T01:47:30.101000+00:00",
-        "last_modified": "2026-06-20T19:34:20.230000+00:00",
+        "last_modified": "2026-06-23T02:47:12.050000+00:00",
         "position": 13,
         "children": [
           {
@@ -2473,6 +2473,15 @@
             "last_modified": "2026-06-16T14:38:56.240000+00:00",
             "position": 41,
             "href": "https://makeyourownrabbithole.com/blog/2017/12/13/oblique-strategies-for-artists-faced-with-acute-dilemmas"
+          },
+          {
+            "type": "bookmark",
+            "name": "Bootimus — Modern PXE/HTTP boot server",
+            "id": "1385",
+            "add_date": "2026-06-23T02:47:10.626000+00:00",
+            "last_modified": "2026-06-23T02:47:12.050000+00:00",
+            "position": 42,
+            "href": "https://bootimus.com/"
           }
         ]
       },
