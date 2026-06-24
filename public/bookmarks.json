@@ -2102,7 +2102,7 @@
         "name": "interesting-today",
         "id": "1277",
         "add_date": "2026-02-16T01:47:30.101000+00:00",
-        "last_modified": "2026-06-23T02:47:12.050000+00:00",
+        "last_modified": "2026-06-24T06:12:14.260000+00:00",
         "position": 13,
         "children": [
           {
@@ -2491,6 +2491,15 @@
             "last_modified": "2026-06-23T02:47:12.050000+00:00",
             "position": 42,
             "href": "https://bootimus.com/"
+          },
+          {
+            "type": "bookmark",
+            "name": "TikZ Editor",
+            "id": "1387",
+            "add_date": "2026-06-24T06:12:12.744000+00:00",
+            "last_modified": "2026-06-24T06:12:14.260000+00:00",
+            "position": 43,
+            "href": "https://tikz.dev/editor/"
           }
         ]
       },
