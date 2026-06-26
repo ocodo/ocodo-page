@@ -2102,7 +2102,7 @@
         "name": "interesting-today",
         "id": "1277",
         "add_date": "2026-02-16T01:47:30.101000+00:00",
-        "last_modified": "2026-06-26T02:22:21.110000+00:00",
+        "last_modified": "2026-06-26T02:36:00.890000+00:00",
         "position": 13,
         "children": [
           {
@@ -2518,6 +2518,24 @@
             "last_modified": "2026-06-26T02:22:21.110000+00:00",
             "position": 45,
             "href": "https://rubyllm.com/"
+          },
+          {
+            "type": "bookmark",
+            "name": "Quebec town recognizes trees as living beings",
+            "id": "1390",
+            "add_date": "2026-06-26T02:33:29.284000+00:00",
+            "last_modified": "2026-06-26T02:33:30.690000+00:00",
+            "position": 46,
+            "href": "https://news.ycombinator.com/item?id=48661536"
+          },
+          {
+            "type": "bookmark",
+            "name": "Hacker News Trends",
+            "id": "1391",
+            "add_date": "2026-06-26T02:35:59.528000+00:00",
+            "last_modified": "2026-06-26T02:36:00.890000+00:00",
+            "position": 47,
+            "href": "https://hackernewstrends.com/?q=openai&q=anthropic"
           }
         ]
       },
