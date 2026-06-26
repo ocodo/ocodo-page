@@ -2102,7 +2102,7 @@
         "name": "interesting-today",
         "id": "1277",
         "add_date": "2026-02-16T01:47:30.101000+00:00",
-        "last_modified": "2026-06-26T02:36:00.890000+00:00",
+        "last_modified": "2026-06-26T03:30:06.800000+00:00",
         "position": 13,
         "children": [
           {
@@ -2536,6 +2536,15 @@
             "last_modified": "2026-06-26T02:36:00.890000+00:00",
             "position": 47,
             "href": "https://hackernewstrends.com/?q=openai&q=anthropic"
+          },
+          {
+            "type": "bookmark",
+            "name": "Zero-Downtime Deployments with Docker Compose — No Kubernetes Required | StatusDude",
+            "id": "1392",
+            "add_date": "2026-06-26T03:07:12.188000+00:00",
+            "last_modified": "2026-06-26T03:30:06.800000+00:00",
+            "position": 48,
+            "href": "https://statusdude.com/blog/zero-downtime-docker-compose"
           }
         ]
       },
