@@ -2102,7 +2102,7 @@
         "name": "interesting-today",
         "id": "1277",
         "add_date": "2026-02-16T01:47:30.101000+00:00",
-        "last_modified": "2026-06-24T06:12:14.260000+00:00",
+        "last_modified": "2026-06-26T02:22:21.110000+00:00",
         "position": 13,
         "children": [
           {
@@ -2500,6 +2500,24 @@
             "last_modified": "2026-06-24T06:12:14.260000+00:00",
             "position": 43,
             "href": "https://tikz.dev/editor/"
+          },
+          {
+            "type": "bookmark",
+            "name": "Nub — an all-in-one toolkit for Node.js",
+            "id": "1388",
+            "add_date": "2026-06-26T02:21:52.179000+00:00",
+            "last_modified": "2026-06-26T02:21:53.830000+00:00",
+            "position": 44,
+            "href": "https://nubjs.com/"
+          },
+          {
+            "type": "bookmark",
+            "name": "RubyLLM | One beautiful Ruby framework for all major AI providers. Chat, images, embeddings, tools.",
+            "id": "1389",
+            "add_date": "2026-06-26T02:22:11.248000+00:00",
+            "last_modified": "2026-06-26T02:22:21.110000+00:00",
+            "position": 45,
+            "href": "https://rubyllm.com/"
           }
         ]
       },
