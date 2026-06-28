@@ -40,7 +40,7 @@
         "name": "quick-access",
         "id": "614",
         "add_date": "2025-06-12T11:52:49.490000+00:00",
-        "last_modified": "2026-06-12T10:08:06.570000+00:00",
+        "last_modified": "2026-06-28T17:46:14.870000+00:00",
         "position": 1,
         "children": [
           {
@@ -285,6 +285,15 @@
             "last_modified": "2026-06-12T10:08:06.570000+00:00",
             "position": 26,
             "href": "https://typo.social/@ocodo"
+          },
+          {
+            "type": "bookmark",
+            "name": "Hacker News Flipboard · the top 20, on split-flaps",
+            "id": "1393",
+            "add_date": "2026-06-28T17:46:13.500000+00:00",
+            "last_modified": "2026-06-28T17:46:14.870000+00:00",
+            "position": 27,
+            "href": "https://popflame.quickish.space/hn-flipboard/"
           }
         ]
       },
@@ -2102,7 +2111,7 @@
         "name": "interesting-today",
         "id": "1277",
         "add_date": "2026-02-16T01:47:30.101000+00:00",
-        "last_modified": "2026-06-26T03:30:06.800000+00:00",
+        "last_modified": "2026-06-28T17:49:19.570000+00:00",
         "position": 13,
         "children": [
           {
@@ -2545,6 +2554,15 @@
             "last_modified": "2026-06-26T03:30:06.800000+00:00",
             "position": 48,
             "href": "https://statusdude.com/blog/zero-downtime-docker-compose"
+          },
+          {
+            "type": "bookmark",
+            "name": "Gossamer",
+            "id": "1394",
+            "add_date": "2026-06-28T17:49:18.210000+00:00",
+            "last_modified": "2026-06-28T17:49:19.570000+00:00",
+            "position": 49,
+            "href": "https://gossamer-lang.org/"
           }
         ]
       },
