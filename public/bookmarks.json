@@ -2111,7 +2111,7 @@
         "name": "interesting-today",
         "id": "1277",
         "add_date": "2026-02-16T01:47:30.101000+00:00",
-        "last_modified": "2026-07-08T02:24:01.060000+00:00",
+        "last_modified": "2026-07-08T03:37:12.790000+00:00",
         "position": 13,
         "children": [
           {
@@ -2581,6 +2581,15 @@
             "last_modified": "2026-07-08T02:24:01.060000+00:00",
             "position": 51,
             "href": "https://github.com/can1357/pon"
+          },
+          {
+            "type": "bookmark",
+            "name": "ternlight semantic search embedding model",
+            "id": "1450",
+            "add_date": "2026-07-08T03:37:11.481000+00:00",
+            "last_modified": "2026-07-08T03:37:12.790000+00:00",
+            "position": 52,
+            "href": "https://ternlight-demo.vercel.app/"
           }
         ]
       },
