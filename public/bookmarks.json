@@ -2111,7 +2111,7 @@
         "name": "interesting-today",
         "id": "1277",
         "add_date": "2026-02-16T01:47:30.101000+00:00",
-        "last_modified": "2026-07-03T04:53:33.180000+00:00",
+        "last_modified": "2026-07-08T02:24:01.060000+00:00",
         "position": 13,
         "children": [
           {
@@ -2572,6 +2572,15 @@
             "last_modified": "2026-07-03T04:53:33.180000+00:00",
             "position": 50,
             "href": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/"
+          },
+          {
+            "type": "bookmark",
+            "name": "Python 3.14, compiled to metal",
+            "id": "1449",
+            "add_date": "2026-07-08T02:23:59.718000+00:00",
+            "last_modified": "2026-07-08T02:24:01.060000+00:00",
+            "position": 51,
+            "href": "https://github.com/can1357/pon"
           }
         ]
       },
