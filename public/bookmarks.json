@@ -2111,7 +2111,7 @@
         "name": "interesting-today",
         "id": "1277",
         "add_date": "2026-02-16T01:47:30.101000+00:00",
-        "last_modified": "2026-07-08T03:37:12.790000+00:00",
+        "last_modified": "2026-07-12T16:38:20.450000+00:00",
         "position": 13,
         "children": [
           {
@@ -2590,6 +2590,15 @@
             "last_modified": "2026-07-08T03:37:12.790000+00:00",
             "position": 52,
             "href": "https://ternlight-demo.vercel.app/"
+          },
+          {
+            "type": "bookmark",
+            "name": "Slope Intercept Form Calculator",
+            "id": "1451",
+            "add_date": "2026-07-12T16:38:19.071000+00:00",
+            "last_modified": "2026-07-12T16:38:20.450000+00:00",
+            "position": 53,
+            "href": "https://www.omnicalculator.com/math/slope-intercept-form"
           }
         ]
       },
