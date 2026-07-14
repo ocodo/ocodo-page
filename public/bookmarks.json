@@ -310,9 +310,9 @@
             "name": "Audiobookshelf",
             "id": "1271",
             "add_date": "2026-02-12T06:28:13.976000+00:00",
-            "last_modified": "2026-03-06T14:30:06+00:00",
+            "last_modified": "2026-07-14T15:22:51.850000+00:00",
             "position": 0,
-            "href": "http://helios:13378/audiobookshelf/library/480f6a7c-6291-4e36-9285-29ea3661ffbe"
+            "href": "http://10.0.0.2:13378/audiobookshelf/library/480f6a7c-6291-4e36-9285-29ea3661ffbe"
           },
           {
             "type": "bookmark",
