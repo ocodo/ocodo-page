@@ -40,7 +40,7 @@
         "name": "quick-access",
         "id": "614",
         "add_date": "2025-06-12T11:52:49.490000+00:00",
-        "last_modified": "2026-06-28T17:46:14.870000+00:00",
+        "last_modified": "2026-07-15T23:57:55.450000+00:00",
         "position": 1,
         "children": [
           {
@@ -294,6 +294,15 @@
             "last_modified": "2026-06-28T17:46:14.870000+00:00",
             "position": 27,
             "href": "https://popflame.quickish.space/hn-flipboard/"
+          },
+          {
+            "type": "bookmark",
+            "name": "ocodo",
+            "id": "1452",
+            "add_date": "2026-07-15T23:57:54.063000+00:00",
+            "last_modified": "2026-07-15T23:57:55.450000+00:00",
+            "position": 28,
+            "href": "https://ocodo.neocities.org/"
           }
         ]
       },
