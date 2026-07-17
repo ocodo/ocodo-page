@@ -2093,7 +2093,7 @@
         "name": "interesting-today",
         "id": "1277",
         "add_date": "2026-02-16T01:47:30.101000+00:00",
-        "last_modified": "2026-07-13T07:39:22.410000+00:00",
+        "last_modified": "2026-07-17T14:40:01.280000+00:00",
         "position": 13,
         "children": [
           {
@@ -2581,6 +2581,42 @@
             "last_modified": "2026-07-13T07:39:22.410000+00:00",
             "position": 53,
             "href": "https://www.omnicalculator.com/math/slope-intercept-form"
+          },
+          {
+            "type": "bookmark",
+            "name": "HappyX for FastAPI Programmers",
+            "id": "1453",
+            "add_date": "2026-07-17T14:39:23.446000+00:00",
+            "last_modified": "2026-07-17T14:39:24.850000+00:00",
+            "position": 54,
+            "href": "https://github.com/HapticX/happyx/wiki/HappyX-for-FastAPI-Programmers"
+          },
+          {
+            "type": "bookmark",
+            "name": "Mojo lang",
+            "id": "1454",
+            "add_date": "2026-07-17T14:39:38.116000+00:00",
+            "last_modified": "2026-07-17T14:39:39.440000+00:00",
+            "position": 55,
+            "href": "https://mojolang.org/"
+          },
+          {
+            "type": "bookmark",
+            "name": "Mojo-Numerics",
+            "id": "1455",
+            "add_date": "2026-07-17T14:39:48.555000+00:00",
+            "last_modified": "2026-07-17T14:39:49.920000+00:00",
+            "position": 56,
+            "href": "https://github.com/Mojo-Numerics-and-Algorithms-group/NuMojo"
+          },
+          {
+            "type": "bookmark",
+            "name": "Features - Nim Programming Language",
+            "id": "1456",
+            "add_date": "2026-07-17T14:39:59.891000+00:00",
+            "last_modified": "2026-07-17T14:40:01.280000+00:00",
+            "position": 57,
+            "href": "https://nim-lang.org/features.html"
           }
         ]
       },
