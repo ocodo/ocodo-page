@@ -2093,7 +2093,7 @@
         "name": "interesting-today",
         "id": "1277",
         "add_date": "2026-02-16T01:47:30.101000+00:00",
-        "last_modified": "2026-07-17T15:27:18.730000+00:00",
+        "last_modified": "2026-07-20T11:36:58.390000+00:00",
         "position": 13,
         "children": [
           {
@@ -2626,6 +2626,15 @@
             "last_modified": "2026-07-17T15:27:18.730000+00:00",
             "position": 58,
             "href": "https://immersivemath.com/ila/"
+          },
+          {
+            "type": "bookmark",
+            "name": "Multivariable Calculus",
+            "id": "1458",
+            "add_date": "2026-07-20T11:36:56.989000+00:00",
+            "last_modified": "2026-07-20T11:36:58.390000+00:00",
+            "position": 59,
+            "href": "https://calculus.academa.ai/"
           }
         ]
       },
