@@ -302,7 +302,7 @@
         "name": "hub-services",
         "id": "631",
         "add_date": "2025-06-12T11:53:18.460000+00:00",
-        "last_modified": "2026-07-14T15:19:14.760000+00:00",
+        "last_modified": "2026-07-24T11:44:58.290000+00:00",
         "position": 2,
         "children": [
           {
@@ -475,6 +475,15 @@
             "last_modified": "2026-05-03T11:00:06+00:00",
             "position": 18,
             "href": "https://tplinkwifi.net/"
+          },
+          {
+            "type": "bookmark",
+            "name": "Opengist Viewer",
+            "id": "1460",
+            "add_date": "2026-07-24T11:44:56.864000+00:00",
+            "last_modified": "2026-07-24T11:44:58.290000+00:00",
+            "position": 19,
+            "href": "https://gistviewer.l3x.in/"
           }
         ]
       },
