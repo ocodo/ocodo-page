@@ -2147,7 +2147,7 @@
         "name": "interesting-today",
         "id": "1277",
         "add_date": "2026-02-16T01:47:30.101000+00:00",
-        "last_modified": "2026-08-02T08:22:51.840000+00:00",
+        "last_modified": "2026-09-06T02:07:54.250000+00:00",
         "position": 13,
         "children": [
           {
@@ -2707,6 +2707,15 @@
             "last_modified": "2026-08-02T08:22:51.840000+00:00",
             "position": 61,
             "href": "https://github.com/unconed/mathbox"
+          },
+          {
+            "type": "bookmark",
+            "name": "Nitter Instances",
+            "id": "1468",
+            "add_date": "2026-09-06T02:07:52.745000+00:00",
+            "last_modified": "2026-09-06T02:07:54.250000+00:00",
+            "position": 62,
+            "href": "https://codeberg.org/mv12star/shitter/wiki/Instances"
           }
         ]
       },
