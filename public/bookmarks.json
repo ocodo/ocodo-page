@@ -40,7 +40,7 @@
         "name": "quick-access",
         "id": "614",
         "add_date": "2025-06-12T11:52:49.490000+00:00",
-        "last_modified": "2026-09-03T15:16:38+00:00",
+        "last_modified": "2026-09-10T04:35:01.500000+00:00",
         "position": 1,
         "children": [
           {
@@ -321,6 +321,15 @@
             "last_modified": "2026-09-03T15:16:38+00:00",
             "position": 30,
             "href": "https://status.openai.com/"
+          },
+          {
+            "type": "bookmark",
+            "name": "Lobste.rs",
+            "id": "1469",
+            "add_date": "2026-09-10T04:34:59.971000+00:00",
+            "last_modified": "2026-09-10T04:35:01.500000+00:00",
+            "position": 31,
+            "href": "https://lobste.rs/"
           }
         ]
       },
