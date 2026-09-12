@@ -546,7 +546,7 @@
         "name": "frequent",
         "id": "659",
         "add_date": "2025-06-12T17:39:20.357000+00:00",
-        "last_modified": "2026-08-07T04:16:21.960000+00:00",
+        "last_modified": "2026-09-12T13:57:17.080000+00:00",
         "position": 3,
         "children": [
           {
@@ -746,6 +746,15 @@
             "last_modified": "2026-02-10T01:10:06+00:00",
             "position": 21,
             "href": "https://dbwbp.com/index.php/9-misc/37-synth-eprom-dumps"
+          },
+          {
+            "type": "bookmark",
+            "name": "Opengist-cli",
+            "id": "1471",
+            "add_date": "2026-09-12T13:57:15.445000+00:00",
+            "last_modified": "2026-09-12T13:57:17.080000+00:00",
+            "position": 22,
+            "href": "https://ocodo.github.io/opengist-cli/"
           }
         ]
       },
