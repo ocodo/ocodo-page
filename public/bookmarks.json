@@ -40,7 +40,7 @@
         "name": "quick-access",
         "id": "614",
         "add_date": "2025-06-12T11:52:49.490000+00:00",
-        "last_modified": "2026-09-12T04:22:24.470000+00:00",
+        "last_modified": "2026-09-12T12:55:36.910000+00:00",
         "position": 1,
         "children": [
           {
@@ -330,6 +330,15 @@
             "last_modified": "2026-09-03T15:16:38+00:00",
             "position": 31,
             "href": "https://status.openai.com/"
+          },
+          {
+            "type": "bookmark",
+            "name": "Gradient Generator",
+            "id": "1470",
+            "add_date": "2026-09-12T12:55:35.381000+00:00",
+            "last_modified": "2026-09-12T12:55:36.910000+00:00",
+            "position": 32,
+            "href": "https://neat.firecms.co/"
           }
         ]
       },
