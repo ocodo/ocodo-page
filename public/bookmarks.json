@@ -2174,7 +2174,7 @@
         "name": "interesting-today",
         "id": "1277",
         "add_date": "2026-02-16T01:47:30.101000+00:00",
-        "last_modified": "2026-09-06T02:07:54.250000+00:00",
+        "last_modified": "2026-09-16T07:03:03.580000+00:00",
         "position": 13,
         "children": [
           {
@@ -2743,6 +2743,15 @@
             "last_modified": "2026-09-06T02:07:54.250000+00:00",
             "position": 62,
             "href": "https://codeberg.org/mv12star/shitter/wiki/Instances"
+          },
+          {
+            "type": "bookmark",
+            "name": "why I can't stop thinking about Papua New Guinea and what I think everyone should know about it",
+            "id": "1472",
+            "add_date": "2026-09-16T07:03:01.938000+00:00",
+            "last_modified": "2026-09-16T07:03:03.580000+00:00",
+            "position": 63,
+            "href": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua"
           }
         ]
       },
