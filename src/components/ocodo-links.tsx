@@ -25,7 +25,7 @@ export const OcodoLinks: FC<OcodoLinksProps> = ({ folder }) => {
   return (
     <>
       {showFolderTitles &&
-        <div className={`text-3xl font-black tracking-tighter mb-2 capitalize`}>
+        <div className={`text-3xl font-black tracking-tighter mb-2 capitalize cursor-default`}>
           {folder}
         </div>
       }
