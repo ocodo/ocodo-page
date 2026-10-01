@@ -25,14 +25,14 @@ export const OcodoLinks: FC<OcodoLinksProps> = ({ folder }) => {
   return (
     <>
       {showFolderTitles &&
-        <div className={`text-3xl font-black tracking-tighter mb-2 capitalize select-none`}>
+        <div className={`text-3xl font-black tracking-tighter mb-2 capitalize`}>
           {folder}
         </div>
       }
       <ul>
         {bookmarks.map((bookmark, index) => (
           <li key={index} >
-            <a href={bookmark.href} target="_blank">{bookmark.name}</a>
+            <a className="cursor-pointer" href={bookmark.href} target="_blank">{bookmark.name}</a>
           </li>
         ))}
       </ul>
