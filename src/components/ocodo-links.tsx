@@ -33,9 +33,7 @@ export const OcodoLinks: FC<OcodoLinksProps> = ({ folder }) => {
         {bookmarks.map((bookmark, index) => (
           <li key={index} >
             <a href={bookmark.href} target="_blank">
-              <div className="cursor-pointer text-foreground/60">
-                {bookmark.name}
-              </div>
+              {bookmark.name}
             </a>
           </li>
         ))}

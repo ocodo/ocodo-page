@@ -189,7 +189,7 @@ body {
   }
 }
 
-a:link {
+a, a:link {
   text-decoration: none;
   color: var(--link-color);
 }
