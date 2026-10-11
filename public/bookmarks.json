@@ -42,6 +42,15 @@
         "children": [
           {
             "type": "bookmark",
+            "name": "CF Agent",
+            "id": "YvSTflQiVv7V",
+            "add_date": "2026-10-11 10:33:37+07:00",
+            "last_modified": null,
+            "href": "https://talorys-x01wfpaj-web.pages.dev/chat",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
             "name": "ocodo",
             "id": "JjqYEI6vNqIM",
             "add_date": "2026-07-16 06:57:54+07:00",
@@ -786,6 +795,24 @@
             "last_modified": null,
             "href": "https://mightygodking.com/2008/04/21/fun-from-yesterday/",
             "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "no-class",
+            "id": "JQMU8uL8on9b",
+            "add_date": "2026-10-09 09:11:01+07:00",
+            "last_modified": null,
+            "href": "https://www.cssbed.com/no-class/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "rociiu/talorys AI Agent on CF Free",
+            "id": "Thyf8ZWd7tJx",
+            "add_date": "2026-10-11 10:33:13+07:00",
+            "last_modified": null,
+            "href": "https://github.com/rociiu/talorys",
+            "tags": []
           }
         ]
       },
@@ -1484,6 +1511,15 @@
             "last_modified": null,
             "href": "https://github.com/kapishdima/fonttrio",
             "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Niko1221/Strata-Qwen3.8-Flash-Next",
+            "id": "h9OMXH2-NiTf",
+            "add_date": "2026-10-06 08:38:13+07:00",
+            "last_modified": null,
+            "href": "https://github.com/Niko1221/Strata",
+            "tags": []
           }
         ]
       },
@@ -2101,6 +2137,15 @@
             "add_date": "2026-01-26 07:40:44+07:00",
             "last_modified": null,
             "href": "https://github.com/pmndrs/zustand",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "GTKX: The React framework for Linux",
+            "id": "1wLcBjUsM2CB",
+            "add_date": "2026-10-03 06:46:59+07:00",
+            "last_modified": null,
+            "href": "https://gtkx.dev/",
             "tags": []
           }
         ]
