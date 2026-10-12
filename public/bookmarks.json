@@ -42,11 +42,20 @@
         "children": [
           {
             "type": "bookmark",
-            "name": "CF Agent",
+            "name": "ocodo agent ",
             "id": "YvSTflQiVv7V",
             "add_date": "2026-10-11 10:33:37+07:00",
             "last_modified": null,
             "href": "https://talorys-x01wfpaj-web.pages.dev/chat",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Agent Tasks",
+            "id": "8i8UmqdD6vPC",
+            "add_date": "2026-10-12 08:34:02+07:00",
+            "last_modified": null,
+            "href": "https://talorys-x01wfpaj-web.pages.dev/tasks",
             "tags": []
           },
           {
