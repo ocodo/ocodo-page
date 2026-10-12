@@ -1095,6 +1095,15 @@
         "children": [
           {
             "type": "bookmark",
+            "name": "mattpocock/skills",
+            "id": "3RImMRPe6HIF",
+            "add_date": "2026-10-12 23:16:22+07:00",
+            "last_modified": null,
+            "href": "https://github.com/mattpocock/skills",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
             "name": "ynkdir/py-win32more",
             "id": "vp0dO0Mw_fW9",
             "add_date": "2025-06-15 11:49:45+07:00",
