@@ -411,6 +411,15 @@
           },
           {
             "type": "bookmark",
+            "name": "drawio.hub",
+            "id": "K-wY9-4PU3kn",
+            "add_date": "2026-10-17 09:03:49+07:00",
+            "last_modified": null,
+            "href": "http://10.0.0.2:18080/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
             "name": "hn.hub",
             "id": "21TFLjQ1zPdQ",
             "add_date": "2025-07-27 00:58:40+07:00",
