@@ -429,6 +429,15 @@
           },
           {
             "type": "bookmark",
+            "name": "hnfavorites.hub",
+            "id": "TOU8mYQuspQk",
+            "add_date": "2026-10-20 01:22:56+07:00",
+            "last_modified": null,
+            "href": "https://hnfavorites.hub/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
             "name": "mails.hub",
             "id": "SHxJqNqr1MZp",
             "add_date": "2025-07-30 15:19:23+07:00",
