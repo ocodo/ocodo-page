@@ -2930,6 +2930,15 @@
             "last_modified": null,
             "href": "https://proa.so/",
             "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Granian FastAPI",
+            "id": "yUJ2nLfuEwRj",
+            "add_date": "2026-10-20 23:02:37+07:00",
+            "last_modified": null,
+            "href": "https://fastapi.tiangolo.com/deployment/manually/#install-the-server-program",
+            "tags": []
           }
         ]
       },
