@@ -7,31 +7,26 @@
     "last_modified": null,
     "children": [
       {
-        "type": "folder",
-        "name": "code diagramming",
-        "id": "UCXDWxPm1hh7",
-        "add_date": "2026-03-19 09:28:43+07:00",
+        "type": "bookmark",
+        "name": "ocodo.github.io/ocodo",
+        "id": "cdmHqKxCFlAc",
+        "add_date": "2025-06-12 13:49:06+07:00",
         "last_modified": null,
-        "children": [
-          {
-            "type": "bookmark",
-            "name": "Diagrams · Diagram as Code",
-            "id": "srZpxdCkT_dx",
-            "add_date": "2026-03-19 09:29:06+07:00",
-            "last_modified": null,
-            "href": "https://diagrams.mingrammer.com/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Top 6 Tools to Turn Code into Beautiful Diagrams - YouTube",
-            "id": "v1PnqApJCKCq",
-            "add_date": "2026-03-19 09:29:22+07:00",
-            "last_modified": null,
-            "href": "https://www.youtube.com/watch?v=jCd6XfWLZsg",
-            "tags": []
-          }
+        "href": "https://ocodo.github.io/ocodo",
+        "tags": [
+          "ocodo",
+          "reddit",
+          "tag-demo"
         ]
+      },
+      {
+        "type": "bookmark",
+        "name": "WezTerm Icon (Community) – Figma",
+        "id": "ah6iSNMhEQNo",
+        "add_date": "2025-05-19 19:54:41+07:00",
+        "last_modified": null,
+        "href": "https://www.figma.com/design/CIkt7bS8LLHptb5EwoBiK5/WezTerm-Icon--Community-?node-id=1-362&t=5jjtP8oSAkq2I0jq-0",
+        "tags": []
       },
       {
         "type": "folder",
@@ -863,6 +858,1034 @@
       },
       {
         "type": "folder",
+        "name": "interesting",
+        "id": "3h1SJMZolwqu",
+        "add_date": "2025-06-15 13:08:31+07:00",
+        "last_modified": null,
+        "children": [
+          {
+            "type": "bookmark",
+            "name": "Passive Income with Code",
+            "id": "r1mr8msZ-z2Y",
+            "add_date": "2025-01-15 11:28:50+07:00",
+            "last_modified": null,
+            "href": "https://www.coryzue.com/writing/solopreneur/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Cut/Fold Mechanisms",
+            "id": "v5STLWYxwIrN",
+            "add_date": "2025-05-19 12:00:26+07:00",
+            "last_modified": null,
+            "href": "https://cutfoldtemplates.com/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Testing types cartoon",
+            "id": "q3MX7zVPimUa",
+            "add_date": "2025-06-05 16:20:16+07:00",
+            "last_modified": null,
+            "href": "https://i.redd.it/0ixr5eqro05f1.jpeg",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Jules Coding Agent",
+            "id": "e1RA953R2-ou",
+            "add_date": "2025-05-21 09:28:53+07:00",
+            "last_modified": null,
+            "href": "https://jules.google/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Jwno Window Manager",
+            "id": "0kbmtcwlDgxa",
+            "add_date": "2025-05-21 09:37:35+07:00",
+            "last_modified": null,
+            "href": "https://agent-kilo.github.io/jwno/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "TemplUI",
+            "id": "dcqPBpPbcud2",
+            "add_date": "2025-05-31 11:30:15+07:00",
+            "last_modified": null,
+            "href": "https://templui.io/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "ReactNative Skia",
+            "id": "BI5_KrfJuT3z",
+            "add_date": "2025-05-24 09:29:49+07:00",
+            "last_modified": null,
+            "href": "https://shopify.github.io/react-native-skia/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "dragNdrop kit React",
+            "id": "-tZtkPTx1HAh",
+            "add_date": "2025-05-14 19:13:03+07:00",
+            "last_modified": null,
+            "href": "https://dndkit.com/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "What is Lit? – Lit",
+            "id": "OdHOpoyGSwhz",
+            "add_date": "2025-06-15 17:49:30+07:00",
+            "last_modified": null,
+            "href": "https://lit.dev/docs/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Algora",
+            "id": "fgEE_BhYaV6Z",
+            "add_date": "2025-06-15 18:10:15+07:00",
+            "last_modified": null,
+            "href": "https://algora.io/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "WikiTok",
+            "id": "n3QbNv_DqxVq",
+            "add_date": "2025-03-27 15:21:15+07:00",
+            "last_modified": null,
+            "href": "https://www.wikitok.io/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "LoFi ATC",
+            "id": "0lku9z7BIzDw",
+            "add_date": "2025-06-17 15:25:02+07:00",
+            "last_modified": null,
+            "href": "https://www.lofiatc.com/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "90s VGA Demoscene",
+            "id": "8RD2Lo8nOY7L",
+            "add_date": "2025-06-18 10:16:32+07:00",
+            "last_modified": null,
+            "href": "https://jdfio.com/pages-output/demos/x-mode/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Internet Rabbit Holes",
+            "id": "T4ac4XaxnDhK",
+            "add_date": "2025-06-21 20:45:48+07:00",
+            "last_modified": null,
+            "href": "https://yourabbit.com/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Manuals Arturia",
+            "id": "BiMw_wY5aIQ2",
+            "add_date": "2025-06-23 15:18:18+07:00",
+            "last_modified": null,
+            "href": "https://www.arturia.com/support/downloads-manuals",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Build iOS app on Linux",
+            "id": "EqiEWxXmNFCL",
+            "add_date": "2025-06-26 13:04:03+07:00",
+            "last_modified": null,
+            "href": "https://xtool.sh/tutorials/xtool/first-app/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Write Better Releases PR",
+            "id": "_ILCeI602j7W",
+            "add_date": "2025-06-26 15:58:17+07:00",
+            "last_modified": null,
+            "href": "https://refactoringenglish.com/chapters/release-announcements/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Ratatui | Ratatui",
+            "id": "vl1Jmb5TY0zT",
+            "add_date": "2025-06-27 12:48:04+07:00",
+            "last_modified": null,
+            "href": "https://ratatui.rs/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "jwt.io",
+            "id": "-7IgUiNHNQpH",
+            "add_date": "2025-06-27 12:48:48+07:00",
+            "last_modified": null,
+            "href": "https://jwt.io/introduction",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Model Context Protocol",
+            "id": "nWWBpcBlUj5A",
+            "add_date": "2025-04-05 09:04:55+07:00",
+            "last_modified": null,
+            "href": "https://modelcontextprotocol.io/introduction",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "OKLCH.com",
+            "id": "MZCO_dksRoaK",
+            "add_date": "2025-06-30 20:58:54+07:00",
+            "last_modified": null,
+            "href": "https://oklch.com/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Firebase vs Realm",
+            "id": "sqT2VOrFNtvw",
+            "add_date": "2025-07-03 12:56:05+07:00",
+            "last_modified": null,
+            "href": "https://www.mongodb.com/community/forums/t/firebase-vs-realm/9929/7",
+            "tags": [
+              "snickerdoodle"
+            ]
+          },
+          {
+            "type": "bookmark",
+            "name": "zustand react state",
+            "id": "I2l97ZBezzSh",
+            "add_date": "2025-07-05 18:15:00+07:00",
+            "last_modified": null,
+            "href": "https://github.com/pmndrs/zustand",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "cheating daddy",
+            "id": "eRLv7HVheNUD",
+            "add_date": "2025-07-06 11:11:05+07:00",
+            "last_modified": null,
+            "href": "https://cheatingdaddy.com/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "CSS page tran",
+            "id": "LjaRlClMxzfj",
+            "add_date": "2025-07-26 09:39:03+07:00",
+            "last_modified": null,
+            "href": "https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Is there an idiot's guide to using scrcpy wirelessly? : linux4noobs",
+            "id": "Se00pk54o_Pz",
+            "add_date": "2025-07-30 00:06:16+07:00",
+            "last_modified": null,
+            "href": "https://old.reddit.com/r/linux4noobs/comments/t7osu6/is_there_an_idiots_guide_to_using_scrcpy/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Tone.js",
+            "id": "x_-KKjXnZRGb",
+            "add_date": "2025-08-19 15:08:25+07:00",
+            "last_modified": null,
+            "href": "https://tonejs.github.io/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Markdown UI - Technical Specification",
+            "id": "yGKOhQyfVgXG",
+            "add_date": "2025-08-27 09:49:58+07:00",
+            "last_modified": null,
+            "href": "https://markdown-ui.com/spec/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Install Home Assistant KVM",
+            "id": "GQVS-Px52Enm",
+            "add_date": "2025-09-04 18:15:29+07:00",
+            "last_modified": null,
+            "href": "https://community.home-assistant.io/t/install-home-assistant-os-with-kvm-on-ubuntu-headless-cli-only/254941/6",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "How to Start Bug Bounties",
+            "id": "mlFSKCuVS9Ov",
+            "add_date": "2025-10-09 11:51:19+07:00",
+            "last_modified": null,
+            "href": "https://ozguralp.medium.com/how-to-start-bug-bounties-101-how-to-make-a-million-in-4-years-e15ee62d6f4",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "RohanAdwankar/oxdraw",
+            "id": "zPij-nKMef1m",
+            "add_date": "2025-10-27 16:54:12+07:00",
+            "last_modified": null,
+            "href": "https://github.com/RohanAdwankar/oxdraw",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "So you wanna build a local RAG?",
+            "id": "VlW7nctAm7of",
+            "add_date": "2025-12-14 18:54:41+07:00",
+            "last_modified": null,
+            "href": "https://blog.yakkomajuri.com/blog/local-rag",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Tiger Style",
+            "id": "pvn2XDSG9SEA",
+            "add_date": "2025-12-14 18:56:00+07:00",
+            "last_modified": null,
+            "href": "https://tigerstyle.dev/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Confessions of a Software Developer: No More Self-Censorship - Kerrick Long (blog)",
+            "id": "grRGHafgbwZ7",
+            "add_date": "2025-12-14 18:58:31+07:00",
+            "last_modified": null,
+            "href": "https://kerrick.blog/articles/2025/confessions-of-a-software-developer-no-more-self-censorship/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "leeoniya/uPlot small, fast chart web lib",
+            "id": "lU1l8iiUh4-2",
+            "add_date": "2026-01-22 14:37:35+07:00",
+            "last_modified": null,
+            "href": "https://github.com/leeoniya/uPlot",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "ChartGPU Beautiful, Charts WebGPU",
+            "id": "3wy1FWSYmvA_",
+            "add_date": "2026-01-22 14:38:46+07:00",
+            "last_modified": null,
+            "href": "https://github.com/ChartGPU/ChartGPU",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Qwen3-TTS - a Qwen Collection",
+            "id": "JbLw9ajn8H9X",
+            "add_date": "2026-01-26 08:49:50+07:00",
+            "last_modified": null,
+            "href": "https://huggingface.co/collections/Qwen/qwen3-tts",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Lazada.co.th: Online Shopping Thailand - Mobiles, Tablets, Home Appliances, TV, Audio &amp; More",
+            "id": "ZL75du2_DBoy",
+            "add_date": "2026-01-27 23:48:52+07:00",
+            "last_modified": null,
+            "href": "https://cart.lazada.co.th/cart?spm=a2o4m.pdp_revamp.header.dcart.673e4c14txcKTR&scm=1003.4.icms-zebra-5001427-2591761.OTHER_5196131821_2267435",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "docs/site/en/hub/tutorials/spice.ipynb at master · tensorflow/docs",
+            "id": "qXKWSOgkldhV",
+            "add_date": "2026-01-30 12:18:02+07:00",
+            "last_modified": null,
+            "href": "https://github.com/tensorflow/docs/blob/master/site/en/hub/tutorials/spice.ipynb",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Nektar Panorama - Ableton Live Setup",
+            "id": "firHkw_NwRQE",
+            "add_date": "2026-02-14 11:40:11+07:00",
+            "last_modified": null,
+            "href": "https://nektartech.com/ableton-live-setup-and-troubleshooting-panorama-p-series/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "The Last Caretaker - FileCR",
+            "id": "s1zlsEp3p_yd",
+            "add_date": "2026-05-25 10:49:04+07:00",
+            "last_modified": null,
+            "href": "https://filecr.com/pc-games/the-last-caretaker-free-download-for-pc/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "They Live adblocker",
+            "id": "chCxd4jpyWbH",
+            "add_date": "2026-05-13 09:21:01+07:00",
+            "last_modified": null,
+            "href": "https://github.com/davmlaw/they_live_adblocker",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "All of human cooking compressed into 2 megabytes",
+            "id": "FEv8MXL0zRL5",
+            "add_date": "2026-05-28 12:59:49+07:00",
+            "last_modified": null,
+            "href": "https://arxiv.org/abs/2605.22391",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "1,700 Free Online Courses ",
+            "id": "EsGJID7TKZj_",
+            "add_date": "2026-06-23 15:44:41+07:00",
+            "last_modified": null,
+            "href": "https://www.openculture.com/freeonlinecourses",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Clocks.dev",
+            "id": "0CutmqLRL3uX",
+            "add_date": "2026-07-25 09:34:16+07:00",
+            "last_modified": null,
+            "href": "https://clocks.dev/",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "name": "interesting-today",
+        "id": "8yjXe7tVKyji",
+        "add_date": "2026-02-16 08:47:30+07:00",
+        "last_modified": null,
+        "children": [
+          {
+            "type": "bookmark",
+            "name": "stone-alex/EliteIntel",
+            "id": "SK0vU-utBm0k",
+            "add_date": "2026-03-22 18:52:43+07:00",
+            "last_modified": null,
+            "href": "https://github.com/stone-alex/EliteIntel",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Field Notes",
+            "id": "gqSFKBjhywRY",
+            "add_date": "2026-02-16 08:47:30+07:00",
+            "last_modified": null,
+            "href": "https://fieldnote.ink/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "switz/box-of-rain: ASCII/svg diagrams generated from simple configuration with auto-layouting",
+            "id": "lSoTVrQa6FVa",
+            "add_date": "2026-02-16 08:47:30+07:00",
+            "last_modified": null,
+            "href": "https://github.com/switz/box-of-rain",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "denisepattenson/perlin-terminal: Beautiful Perlin noise animation for your terminal",
+            "id": "BIupo4uu4C0x",
+            "add_date": "2026-02-16 08:47:30+07:00",
+            "last_modified": null,
+            "href": "https://github.com/denisepattenson/perlin-terminal",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "oklemenz/Dune2JS: Dune II - The Building of A Dynasty reimplementation written in HTML5 / JavaScript",
+            "id": "S2FUBfi0cUcJ",
+            "add_date": "2026-02-16 08:47:30+07:00",
+            "last_modified": null,
+            "href": "https://github.com/oklemenz/Dune2JS",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "melezhik/DSCI: Dead Simple CI",
+            "id": "QjixuquIN9s-",
+            "add_date": "2026-02-16 08:47:30+07:00",
+            "last_modified": null,
+            "href": "https://github.com/melezhik/DSCI",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Niche Hunt — App ideas people actually want",
+            "id": "Ics4xWQlsH9I",
+            "add_date": "2026-02-16 08:47:30+07:00",
+            "last_modified": null,
+            "href": "https://nichehunt.app/blog/ai-going-to-kill-app-subscriptions",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "cavedave/Manannan: Attempt to convert 1943 Irish language sci-fi book Manannán to modern orthography",
+            "id": "cjVp41DTeBBj",
+            "add_date": "2026-02-16 08:47:30+07:00",
+            "last_modified": null,
+            "href": "https://github.com/cavedave/Manannan",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "SCMandLLM.md",
+            "id": "5Szq8HhEI2cJ",
+            "add_date": "2026-02-16 08:47:30+07:00",
+            "last_modified": null,
+            "href": "https://gist.github.com/gritzko/6e81b5391eacb585ae207f5e634db07e",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Gemini 3 Deep Think",
+            "id": "uqR5t0G4dPhp",
+            "add_date": "2026-02-16 08:47:30+07:00",
+            "last_modified": null,
+            "href": "https://simonwillison.net/2026/Feb/12/gemini-3-deep-think/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Oat - Ultra-lightweight, semantic, zero-dependency HTML UI component library",
+            "id": "g0Sv8nfaOIK2",
+            "add_date": "2026-02-16 08:47:30+07:00",
+            "last_modified": null,
+            "href": "https://oat.ink/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Matthias Kirschner's Web log • I love the work of the ArchWiki maintainers",
+            "id": "Z0XnKAZ7ny6o",
+            "add_date": "2026-02-16 08:47:30+07:00",
+            "last_modified": null,
+            "href": "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "4claw — what your clawkers are really thinking",
+            "id": "_HGk6WrgajcG",
+            "add_date": "2026-02-16 08:47:30+07:00",
+            "last_modified": null,
+            "href": "https://www.4claw.org/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Epstein’s ugly world of science – Homunculus",
+            "id": "jP5z5_W-xC2U",
+            "add_date": "2026-02-16 08:47:30+07:00",
+            "last_modified": null,
+            "href": "https://homunculusmusic.wordpress.com/2026/02/14/epsteins-ugly-world-of-science/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "What dating apps are really optimizing. Hint: It isn't love",
+            "id": "omfe7RPcpJiI",
+            "add_date": "2026-02-16 08:47:30+07:00",
+            "last_modified": null,
+            "href": "https://phys.org/news/2026-02-dating-apps-optimizing-hint-isnt.html",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "IBM is tripling the number of Gen Z entry-level jobs after finding the limits of AI adoption | Fortune",
+            "id": "GNzUFzkMIG4b",
+            "add_date": "2026-02-16 08:47:30+07:00",
+            "last_modified": null,
+            "href": "https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Why I’m not worried about AI job loss - David Oks",
+            "id": "jrLlHNrLd82F",
+            "add_date": "2026-02-16 08:47:30+07:00",
+            "last_modified": null,
+            "href": "https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Hatchet · Building a TUI is easy now",
+            "id": "MAIcF7SA42Y8",
+            "add_date": "2026-02-16 08:47:30+07:00",
+            "last_modified": null,
+            "href": "https://hatchet.run/blog/tuis-are-easy-now",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker | aimilios",
+            "id": "mo34GipaojBO",
+            "add_date": "2026-02-16 08:47:30+07:00",
+            "last_modified": null,
+            "href": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Israel used weapons in Gaza that made thousands of Palestinians evaporate | Israel-Palestine conflict | Al Jazeera",
+            "id": "L5NcxAx_3d8o",
+            "add_date": "2026-02-16 08:47:30+07:00",
+            "last_modified": null,
+            "href": "https://www.aljazeera.com/features/2026/2/10/israel-used-weapons-in-gaza-that-made-thousands-of-palestinians-evaporate",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Google is stifling anti-ICE speech in the workplace as 1,200 employees call on the company to cut ties",
+            "id": "xhLlFlE_BMCO",
+            "add_date": "2026-02-16 08:47:30+07:00",
+            "last_modified": null,
+            "href": "https://www.bloodinthemachine.com/p/google-is-censoring-anti-ice-speech",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Inside Jeffrey Epstein’s network | The Economist",
+            "id": "JL3JPQMenYht",
+            "add_date": "2026-02-16 08:47:30+07:00",
+            "last_modified": null,
+            "href": "https://www.economist.com/interactive/international/2026/02/12/inside-epsteins-network",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Apocalypse no: how almost everything we thought we knew about the Maya is wrong | Indigenous peoples | The Guardian",
+            "id": "slQclcDx7988",
+            "add_date": "2026-02-16 08:47:30+07:00",
+            "last_modified": null,
+            "href": "https://www.theguardian.com/news/2026/feb/12/apocalypse-no-how-almost-everything-we-thought-we-knew-about-the-maya-is-wrong",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "rari: React Server Components on a Rust Runtime",
+            "id": "d7PPfw8cDZKX",
+            "add_date": "2026-02-16 08:47:30+07:00",
+            "last_modified": null,
+            "href": "https://rari.build/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "grigio/opencode-benchmark-dashboard",
+            "id": "pMRrXRz9P1ae",
+            "add_date": "2026-03-23 08:18:16+07:00",
+            "last_modified": null,
+            "href": "https://github.com/grigio/opencode-benchmark-dashboard",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Tooscut - Video Editor",
+            "id": "vJGHe5I9AiKr",
+            "add_date": "2026-03-23 08:34:12+07:00",
+            "last_modified": null,
+            "href": "https://tooscut.app/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Floci",
+            "id": "hN9iERxh9gZ3",
+            "add_date": "2026-03-23 08:37:04+07:00",
+            "last_modified": null,
+            "href": "https://hectorvent.dev/floci/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "MAUI Avalonia Preview 1",
+            "id": "LR-sGlFsdtOa",
+            "add_date": "2026-03-23 08:39:50+07:00",
+            "last_modified": null,
+            "href": "https://avaloniaui.net/blog/maui-avalonia-preview-1",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "kenforthewin/atomic",
+            "id": "8ZCNLjnkEP1F",
+            "add_date": "2026-03-23 08:44:33+07:00",
+            "last_modified": null,
+            "href": "https://github.com/kenforthewin/atomic",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Common Lisp Mental Map",
+            "id": "634NrWapD9MC",
+            "add_date": "2026-03-23 08:49:20+07:00",
+            "last_modified": null,
+            "href": "https://www.creativetension.co/posts/common-lisp-development-tooling",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Problem with Pasting on VS Code",
+            "id": "Se_8Zxh9VP-s",
+            "add_date": "2026-03-23 08:56:13+07:00",
+            "last_modified": null,
+            "href": "https://github.com/JaKooLit/Hyprland-Dots/discussions/384",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "TDK Cassette anim",
+            "id": "moLgLL_BHMch",
+            "add_date": "2026-03-23 22:56:35+07:00",
+            "last_modified": null,
+            "href": "https://i.pinimg.com/originals/f7/20/df/f720df37ff3964df6e4b92146a1fe97e.gif",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "X60 Cassette Anim",
+            "id": "bF4yUcyxuNPG",
+            "add_date": "2026-03-23 22:56:56+07:00",
+            "last_modified": null,
+            "href": "https://i.pinimg.com/originals/2f/4c/bf/2f4cbfe6995313d059ab32e57a7a55a9.gif",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "A compelling title ... cryptic",
+            "id": "9rLMSkfalzm7",
+            "add_date": "2026-04-11 15:48:58+07:00",
+            "last_modified": null,
+            "href": "https://ericwbailey.website/published/a-compelling-title-that-is-cryptic-enough-to-get-you-to-take-action-on-it/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "USB for Software Developers",
+            "id": "FnR5TlwSyMen",
+            "add_date": "2026-04-11 18:01:15+07:00",
+            "last_modified": null,
+            "href": "https://werwolv.net/posts/usb_for_sw_devs/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "mohshomis/modo",
+            "id": "uPD6pPvGJOZW",
+            "add_date": "2026-04-12 23:47:42+07:00",
+            "last_modified": null,
+            "href": "https://github.com/mohshomis/modo?tab=readme-ov-file",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Maya Rudolph ripped Sean Evans a new one 😂 - YouTube",
+            "id": "8hjDr6sj-p8S",
+            "add_date": "2026-04-28 21:50:33+07:00",
+            "last_modified": null,
+            "href": "https://www.youtube.com/shorts/PO8-SxY4O50",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "nirimod",
+            "id": "-wmGQuUctx9K",
+            "add_date": "2026-05-01 10:37:28+07:00",
+            "last_modified": null,
+            "href": "https://github.com/srinivasr/nirimod",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Wallhaven",
+            "id": "HaQpy0jgRepE",
+            "add_date": "2026-05-04 22:13:19+07:00",
+            "last_modified": null,
+            "href": "https://wallhaven.cc/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "How many Nutrient TheLastCaretaker",
+            "id": "h46AcQkR8qRG",
+            "add_date": "2026-06-15 13:25:17+07:00",
+            "last_modified": null,
+            "href": "https://old.reddit.com/r/TheLastCaretaker/comments/1sf1lbn/how_many_nutrient_handlers_basic_suppliers_do_we/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "The Last Caretaker",
+            "id": "4bkPfmuAskEP",
+            "add_date": "2026-06-15 13:25:28+07:00",
+            "last_modified": null,
+            "href": "https://old.reddit.com/r/TheLastCaretaker/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Oblique strategies",
+            "id": "bX-sREkoPT2P",
+            "add_date": "2026-06-16 21:38:54+07:00",
+            "last_modified": null,
+            "href": "https://makeyourownrabbithole.com/blog/2017/12/13/oblique-strategies-for-artists-faced-with-acute-dilemmas",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Bootimus — Modern PXE/HTTP boot server",
+            "id": "4ED4iQ6LHoYT",
+            "add_date": "2026-06-23 09:47:10+07:00",
+            "last_modified": null,
+            "href": "https://bootimus.com/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "TikZ Editor",
+            "id": "DZNtG4VX7XMj",
+            "add_date": "2026-06-24 13:12:12+07:00",
+            "last_modified": null,
+            "href": "https://tikz.dev/editor/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Nub — an all-in-one toolkit for Node.js",
+            "id": "K1CHrSS-ccpC",
+            "add_date": "2026-06-26 09:21:52+07:00",
+            "last_modified": null,
+            "href": "https://nubjs.com/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "RubyLLM | One beautiful Ruby framework for all major AI providers. Chat, images, embeddings, tools.",
+            "id": "JhDgug1ag1NK",
+            "add_date": "2026-06-26 09:22:11+07:00",
+            "last_modified": null,
+            "href": "https://rubyllm.com/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Quebec town recognizes trees as living beings",
+            "id": "sY9JWCYV6H5Y",
+            "add_date": "2026-06-26 09:33:29+07:00",
+            "last_modified": null,
+            "href": "https://news.ycombinator.com/item?id=48661536",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Hacker News Trends",
+            "id": "ecd1Hj_vZX9f",
+            "add_date": "2026-06-26 09:35:59+07:00",
+            "last_modified": null,
+            "href": "https://hackernewstrends.com/?q=openai&q=anthropic",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Zero-Downtime Deployments with Docker Compose — No Kubernetes Required | StatusDude",
+            "id": "fcc4AUazEKyw",
+            "add_date": "2026-06-26 10:07:12+07:00",
+            "last_modified": null,
+            "href": "https://statusdude.com/blog/zero-downtime-docker-compose",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Gossamer",
+            "id": "hLAExwDx9mSV",
+            "add_date": "2026-06-29 00:49:18+07:00",
+            "last_modified": null,
+            "href": "https://gossamer-lang.org/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "What To Learn To Be A Real Time Graphics Programmer « The blog at the bottom of the sea",
+            "id": "uCFgzMdwWJ9m",
+            "add_date": "2026-07-03 11:53:31+07:00",
+            "last_modified": null,
+            "href": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Python 3.14, compiled to metal",
+            "id": "VlU5b_uGWswH",
+            "add_date": "2026-07-08 09:23:59+07:00",
+            "last_modified": null,
+            "href": "https://github.com/can1357/pon",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "ternlight semantic search embedding model",
+            "id": "4LrBQShL-ZFL",
+            "add_date": "2026-07-08 10:37:11+07:00",
+            "last_modified": null,
+            "href": "https://ternlight-demo.vercel.app/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Slope Intercept Form Calculator",
+            "id": "e6goH9ZxJ35b",
+            "add_date": "2026-07-12 23:38:19+07:00",
+            "last_modified": null,
+            "href": "https://www.omnicalculator.com/math/slope-intercept-form",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "HappyX for FastAPI Programmers",
+            "id": "-FvuVj1ZAC-b",
+            "add_date": "2026-07-17 21:39:23+07:00",
+            "last_modified": null,
+            "href": "https://github.com/HapticX/happyx/wiki/HappyX-for-FastAPI-Programmers",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Mojo lang",
+            "id": "graA_AjjaOLl",
+            "add_date": "2026-07-17 21:39:38+07:00",
+            "last_modified": null,
+            "href": "https://mojolang.org/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Mojo-Numerics",
+            "id": "PIej6kzZnCX5",
+            "add_date": "2026-07-17 21:39:48+07:00",
+            "last_modified": null,
+            "href": "https://github.com/Mojo-Numerics-and-Algorithms-group/NuMojo",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Features - Nim Programming Language",
+            "id": "V053pLJCEFU-",
+            "add_date": "2026-07-17 21:39:59+07:00",
+            "last_modified": null,
+            "href": "https://nim-lang.org/features.html",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Immersive Math",
+            "id": "GiAPWmJs4-Vw",
+            "add_date": "2026-07-17 22:27:17+07:00",
+            "last_modified": null,
+            "href": "https://immersivemath.com/ila/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Multivariable Calculus",
+            "id": "Atg2GSUHXf3m",
+            "add_date": "2026-07-20 18:36:56+07:00",
+            "last_modified": null,
+            "href": "https://calculus.academa.ai/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "nautilus-convert-to-mp3/README.md at main - nautilus-convert-to-mp3 - gitcodo",
+            "id": "zimuXdS4NBML",
+            "add_date": "2026-07-21 05:55:27+07:00",
+            "last_modified": null,
+            "href": "https://gitcodo.hub/ocodo/nautilus-convert-to-mp3/src/branch/main/README.md",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "mathbox",
+            "id": "AH7xlMcTgdMy",
+            "add_date": "2026-08-02 15:22:50+07:00",
+            "last_modified": null,
+            "href": "https://github.com/unconed/mathbox",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Nitter Instances",
+            "id": "KMOF7UbczpI3",
+            "add_date": "2026-09-06 09:07:52+07:00",
+            "last_modified": null,
+            "href": "https://codeberg.org/mv12star/shitter/wiki/Instances",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "why I can't stop thinking about Papua New Guinea and what I think everyone should know about it",
+            "id": "DgYyii3HE5-8",
+            "add_date": "2026-09-16 14:03:01+07:00",
+            "last_modified": null,
+            "href": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "",
+            "id": "V8s1rX7bD8a6",
+            "add_date": "2026-09-20 13:57:58+07:00",
+            "last_modified": null,
+            "href": "https://en.cppreference.com/c/header/math",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Proa web interfaces - in Rust",
+            "id": "ac2N1pdrggrR",
+            "add_date": "2026-10-16 12:41:26+07:00",
+            "last_modified": null,
+            "href": "https://proa.so/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Granian FastAPI",
+            "id": "yUJ2nLfuEwRj",
+            "add_date": "2026-10-20 23:02:37+07:00",
+            "last_modified": null,
+            "href": "https://fastapi.tiangolo.com/deployment/manually/#install-the-server-program",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "type": "folder",
         "name": "misc",
         "id": "h28fmp2CWvLn",
         "add_date": "2025-06-12 14:27:17+07:00",
@@ -1588,444 +2611,6 @@
       },
       {
         "type": "folder",
-        "name": "interesting",
-        "id": "3h1SJMZolwqu",
-        "add_date": "2025-06-15 13:08:31+07:00",
-        "last_modified": null,
-        "children": [
-          {
-            "type": "bookmark",
-            "name": "Passive Income with Code",
-            "id": "r1mr8msZ-z2Y",
-            "add_date": "2025-01-15 11:28:50+07:00",
-            "last_modified": null,
-            "href": "https://www.coryzue.com/writing/solopreneur/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Cut/Fold Mechanisms",
-            "id": "v5STLWYxwIrN",
-            "add_date": "2025-05-19 12:00:26+07:00",
-            "last_modified": null,
-            "href": "https://cutfoldtemplates.com/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Testing types cartoon",
-            "id": "q3MX7zVPimUa",
-            "add_date": "2025-06-05 16:20:16+07:00",
-            "last_modified": null,
-            "href": "https://i.redd.it/0ixr5eqro05f1.jpeg",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Jules Coding Agent",
-            "id": "e1RA953R2-ou",
-            "add_date": "2025-05-21 09:28:53+07:00",
-            "last_modified": null,
-            "href": "https://jules.google/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Jwno Window Manager",
-            "id": "0kbmtcwlDgxa",
-            "add_date": "2025-05-21 09:37:35+07:00",
-            "last_modified": null,
-            "href": "https://agent-kilo.github.io/jwno/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "TemplUI",
-            "id": "dcqPBpPbcud2",
-            "add_date": "2025-05-31 11:30:15+07:00",
-            "last_modified": null,
-            "href": "https://templui.io/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "ReactNative Skia",
-            "id": "BI5_KrfJuT3z",
-            "add_date": "2025-05-24 09:29:49+07:00",
-            "last_modified": null,
-            "href": "https://shopify.github.io/react-native-skia/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "dragNdrop kit React",
-            "id": "-tZtkPTx1HAh",
-            "add_date": "2025-05-14 19:13:03+07:00",
-            "last_modified": null,
-            "href": "https://dndkit.com/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "What is Lit? – Lit",
-            "id": "OdHOpoyGSwhz",
-            "add_date": "2025-06-15 17:49:30+07:00",
-            "last_modified": null,
-            "href": "https://lit.dev/docs/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Algora",
-            "id": "fgEE_BhYaV6Z",
-            "add_date": "2025-06-15 18:10:15+07:00",
-            "last_modified": null,
-            "href": "https://algora.io/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "WikiTok",
-            "id": "n3QbNv_DqxVq",
-            "add_date": "2025-03-27 15:21:15+07:00",
-            "last_modified": null,
-            "href": "https://www.wikitok.io/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "LoFi ATC",
-            "id": "0lku9z7BIzDw",
-            "add_date": "2025-06-17 15:25:02+07:00",
-            "last_modified": null,
-            "href": "https://www.lofiatc.com/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "90s VGA Demoscene",
-            "id": "8RD2Lo8nOY7L",
-            "add_date": "2025-06-18 10:16:32+07:00",
-            "last_modified": null,
-            "href": "https://jdfio.com/pages-output/demos/x-mode/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Internet Rabbit Holes",
-            "id": "T4ac4XaxnDhK",
-            "add_date": "2025-06-21 20:45:48+07:00",
-            "last_modified": null,
-            "href": "https://yourabbit.com/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Manuals Arturia",
-            "id": "BiMw_wY5aIQ2",
-            "add_date": "2025-06-23 15:18:18+07:00",
-            "last_modified": null,
-            "href": "https://www.arturia.com/support/downloads-manuals",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Build iOS app on Linux",
-            "id": "EqiEWxXmNFCL",
-            "add_date": "2025-06-26 13:04:03+07:00",
-            "last_modified": null,
-            "href": "https://xtool.sh/tutorials/xtool/first-app/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Write Better Releases PR",
-            "id": "_ILCeI602j7W",
-            "add_date": "2025-06-26 15:58:17+07:00",
-            "last_modified": null,
-            "href": "https://refactoringenglish.com/chapters/release-announcements/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Ratatui | Ratatui",
-            "id": "vl1Jmb5TY0zT",
-            "add_date": "2025-06-27 12:48:04+07:00",
-            "last_modified": null,
-            "href": "https://ratatui.rs/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "jwt.io",
-            "id": "-7IgUiNHNQpH",
-            "add_date": "2025-06-27 12:48:48+07:00",
-            "last_modified": null,
-            "href": "https://jwt.io/introduction",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Model Context Protocol",
-            "id": "nWWBpcBlUj5A",
-            "add_date": "2025-04-05 09:04:55+07:00",
-            "last_modified": null,
-            "href": "https://modelcontextprotocol.io/introduction",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "OKLCH.com",
-            "id": "MZCO_dksRoaK",
-            "add_date": "2025-06-30 20:58:54+07:00",
-            "last_modified": null,
-            "href": "https://oklch.com/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Firebase vs Realm",
-            "id": "sqT2VOrFNtvw",
-            "add_date": "2025-07-03 12:56:05+07:00",
-            "last_modified": null,
-            "href": "https://www.mongodb.com/community/forums/t/firebase-vs-realm/9929/7",
-            "tags": [
-              "snickerdoodle"
-            ]
-          },
-          {
-            "type": "bookmark",
-            "name": "zustand react state",
-            "id": "I2l97ZBezzSh",
-            "add_date": "2025-07-05 18:15:00+07:00",
-            "last_modified": null,
-            "href": "https://github.com/pmndrs/zustand",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "cheating daddy",
-            "id": "eRLv7HVheNUD",
-            "add_date": "2025-07-06 11:11:05+07:00",
-            "last_modified": null,
-            "href": "https://cheatingdaddy.com/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "CSS page tran",
-            "id": "LjaRlClMxzfj",
-            "add_date": "2025-07-26 09:39:03+07:00",
-            "last_modified": null,
-            "href": "https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Is there an idiot's guide to using scrcpy wirelessly? : linux4noobs",
-            "id": "Se00pk54o_Pz",
-            "add_date": "2025-07-30 00:06:16+07:00",
-            "last_modified": null,
-            "href": "https://old.reddit.com/r/linux4noobs/comments/t7osu6/is_there_an_idiots_guide_to_using_scrcpy/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Tone.js",
-            "id": "x_-KKjXnZRGb",
-            "add_date": "2025-08-19 15:08:25+07:00",
-            "last_modified": null,
-            "href": "https://tonejs.github.io/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Markdown UI - Technical Specification",
-            "id": "yGKOhQyfVgXG",
-            "add_date": "2025-08-27 09:49:58+07:00",
-            "last_modified": null,
-            "href": "https://markdown-ui.com/spec/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Install Home Assistant KVM",
-            "id": "GQVS-Px52Enm",
-            "add_date": "2025-09-04 18:15:29+07:00",
-            "last_modified": null,
-            "href": "https://community.home-assistant.io/t/install-home-assistant-os-with-kvm-on-ubuntu-headless-cli-only/254941/6",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "How to Start Bug Bounties",
-            "id": "mlFSKCuVS9Ov",
-            "add_date": "2025-10-09 11:51:19+07:00",
-            "last_modified": null,
-            "href": "https://ozguralp.medium.com/how-to-start-bug-bounties-101-how-to-make-a-million-in-4-years-e15ee62d6f4",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "RohanAdwankar/oxdraw",
-            "id": "zPij-nKMef1m",
-            "add_date": "2025-10-27 16:54:12+07:00",
-            "last_modified": null,
-            "href": "https://github.com/RohanAdwankar/oxdraw",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "So you wanna build a local RAG?",
-            "id": "VlW7nctAm7of",
-            "add_date": "2025-12-14 18:54:41+07:00",
-            "last_modified": null,
-            "href": "https://blog.yakkomajuri.com/blog/local-rag",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Tiger Style",
-            "id": "pvn2XDSG9SEA",
-            "add_date": "2025-12-14 18:56:00+07:00",
-            "last_modified": null,
-            "href": "https://tigerstyle.dev/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Confessions of a Software Developer: No More Self-Censorship - Kerrick Long (blog)",
-            "id": "grRGHafgbwZ7",
-            "add_date": "2025-12-14 18:58:31+07:00",
-            "last_modified": null,
-            "href": "https://kerrick.blog/articles/2025/confessions-of-a-software-developer-no-more-self-censorship/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "leeoniya/uPlot small, fast chart web lib",
-            "id": "lU1l8iiUh4-2",
-            "add_date": "2026-01-22 14:37:35+07:00",
-            "last_modified": null,
-            "href": "https://github.com/leeoniya/uPlot",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "ChartGPU Beautiful, Charts WebGPU",
-            "id": "3wy1FWSYmvA_",
-            "add_date": "2026-01-22 14:38:46+07:00",
-            "last_modified": null,
-            "href": "https://github.com/ChartGPU/ChartGPU",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Qwen3-TTS - a Qwen Collection",
-            "id": "JbLw9ajn8H9X",
-            "add_date": "2026-01-26 08:49:50+07:00",
-            "last_modified": null,
-            "href": "https://huggingface.co/collections/Qwen/qwen3-tts",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Lazada.co.th: Online Shopping Thailand - Mobiles, Tablets, Home Appliances, TV, Audio &amp; More",
-            "id": "ZL75du2_DBoy",
-            "add_date": "2026-01-27 23:48:52+07:00",
-            "last_modified": null,
-            "href": "https://cart.lazada.co.th/cart?spm=a2o4m.pdp_revamp.header.dcart.673e4c14txcKTR&scm=1003.4.icms-zebra-5001427-2591761.OTHER_5196131821_2267435",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "docs/site/en/hub/tutorials/spice.ipynb at master · tensorflow/docs",
-            "id": "qXKWSOgkldhV",
-            "add_date": "2026-01-30 12:18:02+07:00",
-            "last_modified": null,
-            "href": "https://github.com/tensorflow/docs/blob/master/site/en/hub/tutorials/spice.ipynb",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Nektar Panorama - Ableton Live Setup",
-            "id": "firHkw_NwRQE",
-            "add_date": "2026-02-14 11:40:11+07:00",
-            "last_modified": null,
-            "href": "https://nektartech.com/ableton-live-setup-and-troubleshooting-panorama-p-series/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "The Last Caretaker - FileCR",
-            "id": "s1zlsEp3p_yd",
-            "add_date": "2026-05-25 10:49:04+07:00",
-            "last_modified": null,
-            "href": "https://filecr.com/pc-games/the-last-caretaker-free-download-for-pc/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "They Live adblocker",
-            "id": "chCxd4jpyWbH",
-            "add_date": "2026-05-13 09:21:01+07:00",
-            "last_modified": null,
-            "href": "https://github.com/davmlaw/they_live_adblocker",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "All of human cooking compressed into 2 megabytes",
-            "id": "FEv8MXL0zRL5",
-            "add_date": "2026-05-28 12:59:49+07:00",
-            "last_modified": null,
-            "href": "https://arxiv.org/abs/2605.22391",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "1,700 Free Online Courses ",
-            "id": "EsGJID7TKZj_",
-            "add_date": "2026-06-23 15:44:41+07:00",
-            "last_modified": null,
-            "href": "https://www.openculture.com/freeonlinecourses",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Clocks.dev",
-            "id": "0CutmqLRL3uX",
-            "add_date": "2026-07-25 09:34:16+07:00",
-            "last_modified": null,
-            "href": "https://clocks.dev/",
-            "tags": []
-          }
-        ]
-      },
-      {
-        "type": "bookmark",
-        "name": "ocodo.github.io/ocodo",
-        "id": "cdmHqKxCFlAc",
-        "add_date": "2025-06-12 13:49:06+07:00",
-        "last_modified": null,
-        "href": "https://ocodo.github.io/ocodo",
-        "tags": [
-          "ocodo",
-          "reddit",
-          "tag-demo"
-        ]
-      },
-      {
-        "type": "bookmark",
-        "name": "WezTerm Icon (Community) – Figma",
-        "id": "ah6iSNMhEQNo",
-        "add_date": "2025-05-19 19:54:41+07:00",
-        "last_modified": null,
-        "href": "https://www.figma.com/design/CIkt7bS8LLHptb5EwoBiK5/WezTerm-Icon--Community-?node-id=1-362&t=5jjtP8oSAkq2I0jq-0",
-        "tags": []
-      },
-      {
-        "type": "folder",
         "name": "react-topics",
         "id": "3SSwW93BHtvA",
         "add_date": "2026-01-26 07:40:44+07:00",
@@ -2215,6 +2800,33 @@
       },
       {
         "type": "folder",
+        "name": "code diagramming",
+        "id": "UCXDWxPm1hh7",
+        "add_date": "2026-03-19 09:28:43+07:00",
+        "last_modified": null,
+        "children": [
+          {
+            "type": "bookmark",
+            "name": "Diagrams · Diagram as Code",
+            "id": "srZpxdCkT_dx",
+            "add_date": "2026-03-19 09:29:06+07:00",
+            "last_modified": null,
+            "href": "https://diagrams.mingrammer.com/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Top 6 Tools to Turn Code into Beautiful Diagrams - YouTube",
+            "id": "v1PnqApJCKCq",
+            "add_date": "2026-03-19 09:29:22+07:00",
+            "last_modified": null,
+            "href": "https://www.youtube.com/watch?v=jCd6XfWLZsg",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "type": "folder",
         "name": "ai",
         "id": "p-qigh9lZ2aW",
         "add_date": "2025-08-11 17:37:39+07:00",
@@ -2326,618 +2938,6 @@
             "add_date": "2026-03-05 13:50:08+07:00",
             "last_modified": null,
             "href": "https://fakegeekboy.wordpress.com/2021/01/02/the-day-mr-dick-fell-out-of-his-tree/",
-            "tags": []
-          }
-        ]
-      },
-      {
-        "type": "folder",
-        "name": "interesting-today",
-        "id": "8yjXe7tVKyji",
-        "add_date": "2026-02-16 08:47:30+07:00",
-        "last_modified": null,
-        "children": [
-          {
-            "type": "bookmark",
-            "name": "stone-alex/EliteIntel",
-            "id": "SK0vU-utBm0k",
-            "add_date": "2026-03-22 18:52:43+07:00",
-            "last_modified": null,
-            "href": "https://github.com/stone-alex/EliteIntel",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Field Notes",
-            "id": "gqSFKBjhywRY",
-            "add_date": "2026-02-16 08:47:30+07:00",
-            "last_modified": null,
-            "href": "https://fieldnote.ink/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "switz/box-of-rain: ASCII/svg diagrams generated from simple configuration with auto-layouting",
-            "id": "lSoTVrQa6FVa",
-            "add_date": "2026-02-16 08:47:30+07:00",
-            "last_modified": null,
-            "href": "https://github.com/switz/box-of-rain",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "denisepattenson/perlin-terminal: Beautiful Perlin noise animation for your terminal",
-            "id": "BIupo4uu4C0x",
-            "add_date": "2026-02-16 08:47:30+07:00",
-            "last_modified": null,
-            "href": "https://github.com/denisepattenson/perlin-terminal",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "oklemenz/Dune2JS: Dune II - The Building of A Dynasty reimplementation written in HTML5 / JavaScript",
-            "id": "S2FUBfi0cUcJ",
-            "add_date": "2026-02-16 08:47:30+07:00",
-            "last_modified": null,
-            "href": "https://github.com/oklemenz/Dune2JS",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "melezhik/DSCI: Dead Simple CI",
-            "id": "QjixuquIN9s-",
-            "add_date": "2026-02-16 08:47:30+07:00",
-            "last_modified": null,
-            "href": "https://github.com/melezhik/DSCI",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Niche Hunt — App ideas people actually want",
-            "id": "Ics4xWQlsH9I",
-            "add_date": "2026-02-16 08:47:30+07:00",
-            "last_modified": null,
-            "href": "https://nichehunt.app/blog/ai-going-to-kill-app-subscriptions",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "cavedave/Manannan: Attempt to convert 1943 Irish language sci-fi book Manannán to modern orthography",
-            "id": "cjVp41DTeBBj",
-            "add_date": "2026-02-16 08:47:30+07:00",
-            "last_modified": null,
-            "href": "https://github.com/cavedave/Manannan",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "SCMandLLM.md",
-            "id": "5Szq8HhEI2cJ",
-            "add_date": "2026-02-16 08:47:30+07:00",
-            "last_modified": null,
-            "href": "https://gist.github.com/gritzko/6e81b5391eacb585ae207f5e634db07e",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Gemini 3 Deep Think",
-            "id": "uqR5t0G4dPhp",
-            "add_date": "2026-02-16 08:47:30+07:00",
-            "last_modified": null,
-            "href": "https://simonwillison.net/2026/Feb/12/gemini-3-deep-think/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Oat - Ultra-lightweight, semantic, zero-dependency HTML UI component library",
-            "id": "g0Sv8nfaOIK2",
-            "add_date": "2026-02-16 08:47:30+07:00",
-            "last_modified": null,
-            "href": "https://oat.ink/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Matthias Kirschner's Web log • I love the work of the ArchWiki maintainers",
-            "id": "Z0XnKAZ7ny6o",
-            "add_date": "2026-02-16 08:47:30+07:00",
-            "last_modified": null,
-            "href": "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "4claw — what your clawkers are really thinking",
-            "id": "_HGk6WrgajcG",
-            "add_date": "2026-02-16 08:47:30+07:00",
-            "last_modified": null,
-            "href": "https://www.4claw.org/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Epstein’s ugly world of science – Homunculus",
-            "id": "jP5z5_W-xC2U",
-            "add_date": "2026-02-16 08:47:30+07:00",
-            "last_modified": null,
-            "href": "https://homunculusmusic.wordpress.com/2026/02/14/epsteins-ugly-world-of-science/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "What dating apps are really optimizing. Hint: It isn't love",
-            "id": "omfe7RPcpJiI",
-            "add_date": "2026-02-16 08:47:30+07:00",
-            "last_modified": null,
-            "href": "https://phys.org/news/2026-02-dating-apps-optimizing-hint-isnt.html",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "IBM is tripling the number of Gen Z entry-level jobs after finding the limits of AI adoption | Fortune",
-            "id": "GNzUFzkMIG4b",
-            "add_date": "2026-02-16 08:47:30+07:00",
-            "last_modified": null,
-            "href": "https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Why I’m not worried about AI job loss - David Oks",
-            "id": "jrLlHNrLd82F",
-            "add_date": "2026-02-16 08:47:30+07:00",
-            "last_modified": null,
-            "href": "https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Hatchet · Building a TUI is easy now",
-            "id": "MAIcF7SA42Y8",
-            "add_date": "2026-02-16 08:47:30+07:00",
-            "last_modified": null,
-            "href": "https://hatchet.run/blog/tuis-are-easy-now",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker | aimilios",
-            "id": "mo34GipaojBO",
-            "add_date": "2026-02-16 08:47:30+07:00",
-            "last_modified": null,
-            "href": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Israel used weapons in Gaza that made thousands of Palestinians evaporate | Israel-Palestine conflict | Al Jazeera",
-            "id": "L5NcxAx_3d8o",
-            "add_date": "2026-02-16 08:47:30+07:00",
-            "last_modified": null,
-            "href": "https://www.aljazeera.com/features/2026/2/10/israel-used-weapons-in-gaza-that-made-thousands-of-palestinians-evaporate",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Google is stifling anti-ICE speech in the workplace as 1,200 employees call on the company to cut ties",
-            "id": "xhLlFlE_BMCO",
-            "add_date": "2026-02-16 08:47:30+07:00",
-            "last_modified": null,
-            "href": "https://www.bloodinthemachine.com/p/google-is-censoring-anti-ice-speech",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Inside Jeffrey Epstein’s network | The Economist",
-            "id": "JL3JPQMenYht",
-            "add_date": "2026-02-16 08:47:30+07:00",
-            "last_modified": null,
-            "href": "https://www.economist.com/interactive/international/2026/02/12/inside-epsteins-network",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Apocalypse no: how almost everything we thought we knew about the Maya is wrong | Indigenous peoples | The Guardian",
-            "id": "slQclcDx7988",
-            "add_date": "2026-02-16 08:47:30+07:00",
-            "last_modified": null,
-            "href": "https://www.theguardian.com/news/2026/feb/12/apocalypse-no-how-almost-everything-we-thought-we-knew-about-the-maya-is-wrong",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "rari: React Server Components on a Rust Runtime",
-            "id": "d7PPfw8cDZKX",
-            "add_date": "2026-02-16 08:47:30+07:00",
-            "last_modified": null,
-            "href": "https://rari.build/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "grigio/opencode-benchmark-dashboard",
-            "id": "pMRrXRz9P1ae",
-            "add_date": "2026-03-23 08:18:16+07:00",
-            "last_modified": null,
-            "href": "https://github.com/grigio/opencode-benchmark-dashboard",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Tooscut - Video Editor",
-            "id": "vJGHe5I9AiKr",
-            "add_date": "2026-03-23 08:34:12+07:00",
-            "last_modified": null,
-            "href": "https://tooscut.app/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Floci",
-            "id": "hN9iERxh9gZ3",
-            "add_date": "2026-03-23 08:37:04+07:00",
-            "last_modified": null,
-            "href": "https://hectorvent.dev/floci/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "MAUI Avalonia Preview 1",
-            "id": "LR-sGlFsdtOa",
-            "add_date": "2026-03-23 08:39:50+07:00",
-            "last_modified": null,
-            "href": "https://avaloniaui.net/blog/maui-avalonia-preview-1",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "kenforthewin/atomic",
-            "id": "8ZCNLjnkEP1F",
-            "add_date": "2026-03-23 08:44:33+07:00",
-            "last_modified": null,
-            "href": "https://github.com/kenforthewin/atomic",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Common Lisp Mental Map",
-            "id": "634NrWapD9MC",
-            "add_date": "2026-03-23 08:49:20+07:00",
-            "last_modified": null,
-            "href": "https://www.creativetension.co/posts/common-lisp-development-tooling",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Problem with Pasting on VS Code",
-            "id": "Se_8Zxh9VP-s",
-            "add_date": "2026-03-23 08:56:13+07:00",
-            "last_modified": null,
-            "href": "https://github.com/JaKooLit/Hyprland-Dots/discussions/384",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "TDK Cassette anim",
-            "id": "moLgLL_BHMch",
-            "add_date": "2026-03-23 22:56:35+07:00",
-            "last_modified": null,
-            "href": "https://i.pinimg.com/originals/f7/20/df/f720df37ff3964df6e4b92146a1fe97e.gif",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "X60 Cassette Anim",
-            "id": "bF4yUcyxuNPG",
-            "add_date": "2026-03-23 22:56:56+07:00",
-            "last_modified": null,
-            "href": "https://i.pinimg.com/originals/2f/4c/bf/2f4cbfe6995313d059ab32e57a7a55a9.gif",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "A compelling title ... cryptic",
-            "id": "9rLMSkfalzm7",
-            "add_date": "2026-04-11 15:48:58+07:00",
-            "last_modified": null,
-            "href": "https://ericwbailey.website/published/a-compelling-title-that-is-cryptic-enough-to-get-you-to-take-action-on-it/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "USB for Software Developers",
-            "id": "FnR5TlwSyMen",
-            "add_date": "2026-04-11 18:01:15+07:00",
-            "last_modified": null,
-            "href": "https://werwolv.net/posts/usb_for_sw_devs/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "mohshomis/modo",
-            "id": "uPD6pPvGJOZW",
-            "add_date": "2026-04-12 23:47:42+07:00",
-            "last_modified": null,
-            "href": "https://github.com/mohshomis/modo?tab=readme-ov-file",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Maya Rudolph ripped Sean Evans a new one 😂 - YouTube",
-            "id": "8hjDr6sj-p8S",
-            "add_date": "2026-04-28 21:50:33+07:00",
-            "last_modified": null,
-            "href": "https://www.youtube.com/shorts/PO8-SxY4O50",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "nirimod",
-            "id": "-wmGQuUctx9K",
-            "add_date": "2026-05-01 10:37:28+07:00",
-            "last_modified": null,
-            "href": "https://github.com/srinivasr/nirimod",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Wallhaven",
-            "id": "HaQpy0jgRepE",
-            "add_date": "2026-05-04 22:13:19+07:00",
-            "last_modified": null,
-            "href": "https://wallhaven.cc/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "How many Nutrient TheLastCaretaker",
-            "id": "h46AcQkR8qRG",
-            "add_date": "2026-06-15 13:25:17+07:00",
-            "last_modified": null,
-            "href": "https://old.reddit.com/r/TheLastCaretaker/comments/1sf1lbn/how_many_nutrient_handlers_basic_suppliers_do_we/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "The Last Caretaker",
-            "id": "4bkPfmuAskEP",
-            "add_date": "2026-06-15 13:25:28+07:00",
-            "last_modified": null,
-            "href": "https://old.reddit.com/r/TheLastCaretaker/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Oblique strategies",
-            "id": "bX-sREkoPT2P",
-            "add_date": "2026-06-16 21:38:54+07:00",
-            "last_modified": null,
-            "href": "https://makeyourownrabbithole.com/blog/2017/12/13/oblique-strategies-for-artists-faced-with-acute-dilemmas",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Bootimus — Modern PXE/HTTP boot server",
-            "id": "4ED4iQ6LHoYT",
-            "add_date": "2026-06-23 09:47:10+07:00",
-            "last_modified": null,
-            "href": "https://bootimus.com/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "TikZ Editor",
-            "id": "DZNtG4VX7XMj",
-            "add_date": "2026-06-24 13:12:12+07:00",
-            "last_modified": null,
-            "href": "https://tikz.dev/editor/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Nub — an all-in-one toolkit for Node.js",
-            "id": "K1CHrSS-ccpC",
-            "add_date": "2026-06-26 09:21:52+07:00",
-            "last_modified": null,
-            "href": "https://nubjs.com/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "RubyLLM | One beautiful Ruby framework for all major AI providers. Chat, images, embeddings, tools.",
-            "id": "JhDgug1ag1NK",
-            "add_date": "2026-06-26 09:22:11+07:00",
-            "last_modified": null,
-            "href": "https://rubyllm.com/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Quebec town recognizes trees as living beings",
-            "id": "sY9JWCYV6H5Y",
-            "add_date": "2026-06-26 09:33:29+07:00",
-            "last_modified": null,
-            "href": "https://news.ycombinator.com/item?id=48661536",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Hacker News Trends",
-            "id": "ecd1Hj_vZX9f",
-            "add_date": "2026-06-26 09:35:59+07:00",
-            "last_modified": null,
-            "href": "https://hackernewstrends.com/?q=openai&q=anthropic",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Zero-Downtime Deployments with Docker Compose — No Kubernetes Required | StatusDude",
-            "id": "fcc4AUazEKyw",
-            "add_date": "2026-06-26 10:07:12+07:00",
-            "last_modified": null,
-            "href": "https://statusdude.com/blog/zero-downtime-docker-compose",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Gossamer",
-            "id": "hLAExwDx9mSV",
-            "add_date": "2026-06-29 00:49:18+07:00",
-            "last_modified": null,
-            "href": "https://gossamer-lang.org/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "What To Learn To Be A Real Time Graphics Programmer « The blog at the bottom of the sea",
-            "id": "uCFgzMdwWJ9m",
-            "add_date": "2026-07-03 11:53:31+07:00",
-            "last_modified": null,
-            "href": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Python 3.14, compiled to metal",
-            "id": "VlU5b_uGWswH",
-            "add_date": "2026-07-08 09:23:59+07:00",
-            "last_modified": null,
-            "href": "https://github.com/can1357/pon",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "ternlight semantic search embedding model",
-            "id": "4LrBQShL-ZFL",
-            "add_date": "2026-07-08 10:37:11+07:00",
-            "last_modified": null,
-            "href": "https://ternlight-demo.vercel.app/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Slope Intercept Form Calculator",
-            "id": "e6goH9ZxJ35b",
-            "add_date": "2026-07-12 23:38:19+07:00",
-            "last_modified": null,
-            "href": "https://www.omnicalculator.com/math/slope-intercept-form",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "HappyX for FastAPI Programmers",
-            "id": "-FvuVj1ZAC-b",
-            "add_date": "2026-07-17 21:39:23+07:00",
-            "last_modified": null,
-            "href": "https://github.com/HapticX/happyx/wiki/HappyX-for-FastAPI-Programmers",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Mojo lang",
-            "id": "graA_AjjaOLl",
-            "add_date": "2026-07-17 21:39:38+07:00",
-            "last_modified": null,
-            "href": "https://mojolang.org/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Mojo-Numerics",
-            "id": "PIej6kzZnCX5",
-            "add_date": "2026-07-17 21:39:48+07:00",
-            "last_modified": null,
-            "href": "https://github.com/Mojo-Numerics-and-Algorithms-group/NuMojo",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Features - Nim Programming Language",
-            "id": "V053pLJCEFU-",
-            "add_date": "2026-07-17 21:39:59+07:00",
-            "last_modified": null,
-            "href": "https://nim-lang.org/features.html",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Immersive Math",
-            "id": "GiAPWmJs4-Vw",
-            "add_date": "2026-07-17 22:27:17+07:00",
-            "last_modified": null,
-            "href": "https://immersivemath.com/ila/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Multivariable Calculus",
-            "id": "Atg2GSUHXf3m",
-            "add_date": "2026-07-20 18:36:56+07:00",
-            "last_modified": null,
-            "href": "https://calculus.academa.ai/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "nautilus-convert-to-mp3/README.md at main - nautilus-convert-to-mp3 - gitcodo",
-            "id": "zimuXdS4NBML",
-            "add_date": "2026-07-21 05:55:27+07:00",
-            "last_modified": null,
-            "href": "https://gitcodo.hub/ocodo/nautilus-convert-to-mp3/src/branch/main/README.md",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "mathbox",
-            "id": "AH7xlMcTgdMy",
-            "add_date": "2026-08-02 15:22:50+07:00",
-            "last_modified": null,
-            "href": "https://github.com/unconed/mathbox",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Nitter Instances",
-            "id": "KMOF7UbczpI3",
-            "add_date": "2026-09-06 09:07:52+07:00",
-            "last_modified": null,
-            "href": "https://codeberg.org/mv12star/shitter/wiki/Instances",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "why I can't stop thinking about Papua New Guinea and what I think everyone should know about it",
-            "id": "DgYyii3HE5-8",
-            "add_date": "2026-09-16 14:03:01+07:00",
-            "last_modified": null,
-            "href": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "",
-            "id": "V8s1rX7bD8a6",
-            "add_date": "2026-09-20 13:57:58+07:00",
-            "last_modified": null,
-            "href": "https://en.cppreference.com/c/header/math",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Proa web interfaces - in Rust",
-            "id": "ac2N1pdrggrR",
-            "add_date": "2026-10-16 12:41:26+07:00",
-            "last_modified": null,
-            "href": "https://proa.so/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
-            "name": "Granian FastAPI",
-            "id": "yUJ2nLfuEwRj",
-            "add_date": "2026-10-20 23:02:37+07:00",
-            "last_modified": null,
-            "href": "https://fastapi.tiangolo.com/deployment/manually/#install-the-server-program",
             "tags": []
           }
         ]
