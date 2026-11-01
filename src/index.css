@@ -41,6 +41,12 @@
   font-display: swap;
 }
 
+html.preload *,
+html.preload *::before,
+html.preload *::after {
+  transition: none !important;
+}
+
 :root {
   --font-mono: OcodoMonoNerdFont;
   --font-sans: HelveticaNeue;
