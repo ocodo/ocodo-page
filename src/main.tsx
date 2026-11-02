@@ -8,7 +8,3 @@ createRoot(document.getElementById('root')!).render(
     <App />
   </StrictMode>,
 )
-
-requestAnimationFrame(() => {
-  document.documentElement.classList.remove('preload');
-});
