@@ -179,6 +179,16 @@ body {
   --sidebar-ring: oklch(0.556 0 0);
 }
 
+@media (prefers-color-scheme: dark) {
+  :root:not(.light) {
+    color-scheme: dark;
+  }
+
+  :root:not(.light) .dark {
+    color-scheme: dark;
+  }
+}
+
 @layer base {
   * {
     @apply border-border outline-ring/50;
