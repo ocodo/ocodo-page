@@ -3,7 +3,11 @@ import { ThemeContext, type Theme } from "@/contexts/theme-context";
 import { useLocalStorage } from "react-use";
 
 export const ThemeProvider: React.FC<{ children: React.ReactNode }> = ({ children }) => {
-  const [theme, setTheme] = useLocalStorage<Theme>("theme", "light");
+  const systemTheme: Theme = window.matchMedia(
+    '(prefers-color-scheme: dark)'
+  ).matches ? 'dark' : 'light';
+
+  const [theme, setTheme] = useLocalStorage<Theme>('theme', systemTheme);
 
   useEffect(() =>
     theme == 'dark'
@@ -13,7 +17,7 @@ export const ThemeProvider: React.FC<{ children: React.ReactNode }> = ({ childre
 
   // Default to dark
   const toggleTheme = () =>
-    (theme == 'light')
+    (theme === 'light')
       ? setTheme('dark')
       : setTheme('light')
 
