@@ -358,6 +358,33 @@
             "last_modified": null,
             "href": "https://neat.firecms.co/",
             "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Hacker Times",
+            "id": "r4e4lO-b7kO1",
+            "add_date": "2026-11-04 20:50:41+07:00",
+            "last_modified": null,
+            "href": "https://hackertimes.ca/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "HackerTV",
+            "id": "rCkPedgqvYaS",
+            "add_date": "2026-11-04 20:54:31+07:00",
+            "last_modified": null,
+            "href": "https://hackertv.org/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "HackerTube",
+            "id": "DeoI_Bclbb4v",
+            "add_date": "2026-11-04 20:54:59+07:00",
+            "last_modified": null,
+            "href": "https://hackertube.org/",
+            "tags": []
           }
         ]
       },
