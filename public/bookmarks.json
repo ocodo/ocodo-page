@@ -82,6 +82,15 @@
           },
           {
             "type": "bookmark",
+            "name": "PolyStrata Mercury",
+            "id": "jEy99IfhK0Px",
+            "add_date": "2026-11-19 08:00:21+07:00",
+            "last_modified": null,
+            "href": "http://mercury:7765/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
             "name": "WhatsApp",
             "id": "hpOkbiopBPeB",
             "add_date": "2025-06-12 18:52:08+07:00",
