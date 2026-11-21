@@ -631,15 +631,6 @@
           },
           {
             "type": "bookmark",
-            "name": "Black Cherry Cream",
-            "id": "x5izsZQ3oL11",
-            "add_date": "2025-10-24 16:10:41+07:00",
-            "last_modified": null,
-            "href": "https://emacsfodder.github.io/black-cherry-cream-dev/",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
             "name": "Trending on GitHub",
             "id": "UuA6GDKMnbDY",
             "add_date": "2025-11-06 10:02:00+07:00",
@@ -690,6 +681,15 @@
             "add_date": "2025-06-13 00:37:10+07:00",
             "last_modified": null,
             "href": "https://gist.github.com/ocodo/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "winedroid",
+            "id": "4HYd46wXptQR",
+            "add_date": "2026-11-21 13:23:37+07:00",
+            "last_modified": null,
+            "href": "https://winedroid.soham.sh/demo/",
             "tags": []
           },
           {
@@ -820,20 +820,29 @@
           },
           {
             "type": "bookmark",
-            "name": "Synthesizer ROM archive",
-            "id": "Yyx1paX2kHC0",
-            "add_date": "2026-02-10 08:07:18+07:00",
-            "last_modified": null,
-            "href": "https://dbwbp.com/index.php/9-misc/37-synth-eprom-dumps",
-            "tags": []
-          },
-          {
-            "type": "bookmark",
             "name": "Opengist-cli",
             "id": "EKXgr1yrKjn_",
             "add_date": "2026-09-12 20:57:15+07:00",
             "last_modified": null,
             "href": "https://ocodo.github.io/opengist-cli/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Black Cherry Cream",
+            "id": "x5izsZQ3oL11",
+            "add_date": "2025-10-24 16:10:41+07:00",
+            "last_modified": null,
+            "href": "https://emacsfodder.github.io/black-cherry-cream-dev/",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Synthesizer ROM archive",
+            "id": "Yyx1paX2kHC0",
+            "add_date": "2026-02-10 08:07:18+07:00",
+            "last_modified": null,
+            "href": "https://dbwbp.com/index.php/9-misc/37-synth-eprom-dumps",
             "tags": []
           },
           {
