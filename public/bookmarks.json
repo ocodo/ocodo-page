@@ -2660,6 +2660,15 @@
             "last_modified": null,
             "href": "https://marketplace.visualstudio.com/items?itemName=damolinx.damolinx-macros",
             "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "xoxorwr/pw-loudness-eq: for Pipewire ",
+            "id": "1xTlVdYacSBa",
+            "add_date": "2026-11-26 10:57:24+07:00",
+            "last_modified": null,
+            "href": "https://github.com/xoxorwr/pw-loudness-eq",
+            "tags": []
           }
         ]
       },
