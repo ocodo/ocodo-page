@@ -2642,6 +2642,24 @@
             "last_modified": null,
             "href": "https://github.com/Niko1221/Strata",
             "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "damolinx/vscode-macros",
+            "id": "QpFTo_3R_xrH",
+            "add_date": "2026-11-26 07:50:56+07:00",
+            "last_modified": null,
+            "href": "https://github.com/damolinx/vscode-macros#readme",
+            "tags": []
+          },
+          {
+            "type": "bookmark",
+            "name": "Macros for VS Code",
+            "id": "LQf0xnXiADiT",
+            "add_date": "2026-11-26 07:51:07+07:00",
+            "last_modified": null,
+            "href": "https://marketplace.visualstudio.com/items?itemName=damolinx.damolinx-macros",
+            "tags": []
           }
         ]
       },
